@@ -43,6 +43,20 @@
         "tags": [
           "Painel"
         ]
+      },
+      {
+        "nome": "SA_Lagoa_de_Cima_IX (5).jpg",
+        "coordinates": [
+          -9.03813,
+          -43.05408
+        ],
+        "data": "2024-10-08",
+        "horario": "08:24",
+        "legenda": "Detalhe registro rupestre geométrico",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Painel"
+        ]
       }
     ]
   }
