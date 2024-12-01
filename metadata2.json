@@ -9,11 +9,25 @@
         ],
         "data": "2024-10-08",
         "horario": "08:20",
-        "legenda": "Entrada do acesso que leva ao suporte rochoso do sítio.",
+        "legenda": "Entrada do acesso que leva ao suporte rochoso do sÃ­tio.",
         "autoria": "Ana Stella de Negreiros",
         "tags": [
           "Acesso",
           "entrada"
+        ]
+      },
+      {
+        "nome": "SA_Lagoa_de_Cima_IX (2).jpg",
+        "coordinates": [
+          -9.03825,
+          -43.05409
+        ],
+        "data": "2024-10-08",
+        "horario": "08:22",
+        "legenda": "Detalhe da declividade até o abrigo rochoso e os painéis do sítio",
+        "autoria": "Ana Stella de Negreiros",
+        "tags": [
+          "declividade"
         ]
       }
     ]
