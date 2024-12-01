@@ -99,6 +99,37 @@
         "tags": [
           "Estrutura de intervenção"
         ]
+      },
+      {
+        "nome": "SA_Lagoa_de_Cima_IX (8).jpg",
+        "coordinates": [
+          -9.03837,
+          -43.05373
+        ],
+        "data": "2024-10-08",
+        "horario": "08:44",
+        "legenda": "Vista interna da contenção da escavação arqueológica",
+        "autoria": "Ana Stella de Negreiros",
+        "tags": [
+          "intervenção",
+          "contenção"
+        ]
+      },
+      {
+        "nome": "SA_Lagoa_de_Cima_IX (9).jpg",
+        "coordinates": [
+          -9.03843,
+          -43.05378
+        ],
+        "data": "2024-10-08",
+        "horario": "08:51",
+        "legenda": "Vista Noroeste do abrigo",
+        "autoria": "Ana Stella de Negreiros",
+        "tags": [
+          "abrigo",
+          "geral",
+          "paisagem"
+        ]
       }
     ]
   }
