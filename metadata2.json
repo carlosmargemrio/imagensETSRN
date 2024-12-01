@@ -45,20 +45,6 @@
         ]
       },
       {
-        "nome": "SA_Lagoa_de_Cima_IX (5).jpg",
-        "coordinates": [
-          -9.03813,
-          -43.05408
-        ],
-        "data": "2024-10-08",
-        "horario": "08:24",
-        "legenda": "Detalhe registro rupestre geométrico",
-        "autoria": "Ana Stella de Negreiros",
-        "tags": [
-          "Painel"
-        ]
-      },
-      {
         "nome": "SA_Lagoa_de_Cima_IX (4).jpg",
         "coordinates": [
           -9.03812,
@@ -67,6 +53,20 @@
         "data": "2024-10-08",
         "horario": "08:23",
         "legenda": "Detalhe de registros antropomorfos e zoomorfos no abrigo",
+        "autoria": "Ana Stella de Negreiros",
+        "tags": [
+          "Painel"
+        ]
+      },
+      {
+        "nome": "SA_Lagoa_de_Cima_IX (5).jpg",
+        "coordinates": [
+          -9.03813,
+          -43.05408
+        ],
+        "data": "2024-10-08",
+        "horario": "08:24",
+        "legenda": "Detalhe registro rupestre geométrico",
         "autoria": "Ana Stella de Negreiros",
         "tags": [
           "Painel"
