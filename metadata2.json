@@ -88,7 +88,10 @@
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (7).jpg",
-        "coordinates": null,
+        "coordinates": [
+          -9.03838,
+          -43.05378
+        ],
         "data": "2024-10-08",
         "horario": "08:41",
         "legenda": "Detalhe da estrutura de contenção",
