@@ -130,6 +130,20 @@
           "geral",
           "paisagem"
         ]
+      },
+      {
+        "nome": "SA_Lagoa_de_Cima_IX (11).jpg",
+        "coordinates": null,
+        "data": "2024-10-08",
+        "horario": "09:27",
+        "legenda": "Painel de registro rupestre do sítio Lagoa de Cima IX. Neste é possível verificar a presença de antropomorfos, zoomorfos, geométrico e grafismo puro",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "antropomorfos",
+          "zoomorfos",
+          "geométrico",
+          "grafismo puro"
+        ]
       }
     ]
   }
