@@ -181,29 +181,8 @@
         "tags": [
           "vermelho",
           "geométrico"
-        ]
-      }
-    ]
-  },
-  "teste": {
-    "imagens": [
-      {
-        "nome": "SA_Lagoa_de_Cima_IX (14).jpg",
-        "coordinates": [
-          -9.038103,
-          -43.054095
-        ],
-        "data": "2024-10-08",
-        "horario": "08:24",
-        "legenda": "sadasdasdasdasdasdasd",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "geométrico",
-          "grafismo puro",
-          "registros inacabados"
-        ]
-      }
-    ],
-    "fundoArquivistico": "Projeto de atualização e delimitação de sítios arqueológicos"
+       ]
+        }
+      ]
+    }
   }
-}
