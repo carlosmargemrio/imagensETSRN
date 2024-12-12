@@ -205,5 +205,25 @@
       }
     ],
     "fundoArquivistico": "Projeto de atualização e delimitação de sítios arqueológicos"
+  },
+  "gentio do ouro": {
+    "imagens": [
+      {
+        "nome": "(1).jpg",
+        "coordinates": [
+          -8.4396,
+          -42.1948
+        ],
+        "data": "2024-12-12",
+        "horario": "07:22",
+        "legenda": "uma legenda",
+        "autoria": "Jussara Lacerda",
+        "tags": [
+          "geométrico",
+          "grafismo puro"
+        ]
+      }
+    ],
+    "fundoArquivistico": "outro"
   }
 }
