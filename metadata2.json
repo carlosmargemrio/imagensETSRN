@@ -257,5 +257,25 @@
       }
     ],
     "fundoArquivistico": "Projeto de atualização e delimitação de sítios arqueológicos"
+  },
+  "Fiscalização Jazida São Lourenço do Piauí": {
+    "imagens": [
+      {
+        "nome": "Jazidas_de_areia_riacho_São_Lourenço (1).jpg",
+        "coordinates": [
+          -9.163431666666668,
+          -42.50082166666667
+        ],
+        "data": "2024-11-26",
+        "horario": "15:01:44",
+        "legenda": "Corpo d'água remanescente no talvegue do Riacho São Lourenço",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fiscalização",
+          "corpo d'água"
+        ]
+      }
+    ],
+    "fundoArquivistico": "projeto1"
   }
 }
