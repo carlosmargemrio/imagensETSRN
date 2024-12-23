@@ -3,133 +3,84 @@
     "imagens": [
       {
         "nome": "SA_Lagoa_de_Cima_IX (1).jpg",
-        "coordinates": [
-          -9.038,
-          -43.05381
-        ],
+        "coordinates": [-9.038, -43.05381],
         "data": "2024-10-08",
         "horario": "08:20",
-        "legenda": "Entrada do acesso que leva ao suporte rochoso do sÃ­tio.",
+        "legenda": "Entrada do acesso que leva ao suporte rochoso do sítio.",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "Acesso",
-          "entrada"
-        ]
+        "tags": ["Acesso", "entrada"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (2).jpg",
-        "coordinates": [
-          -9.03825,
-          -43.05409
-        ],
+        "coordinates": [-9.03825, -43.05409],
         "data": "2024-10-08",
         "horario": "08:22",
-        "legenda": "Detalhe da declividade no acesso ao sÃ­tio",
+        "legenda": "Detalhe da declividade no acesso ao sítio",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "declividade"
-        ]
+        "tags": ["declividade"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (3).jpg",
-        "coordinates": [
-          -9.0382,
-          -43.05409
-        ],
+        "coordinates": [-9.0382, -43.05409],
         "data": "2024-10-08",
         "horario": "08:23",
-        "legenda": "Vista painel de registro rupestre do sÃ­tio",
+        "legenda": "Vista painel de registro rupestre do sítio",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "Painel"
-        ]
+        "tags": ["Painel"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (4).jpg",
-        "coordinates": [
-          -9.03812,
-          -43.05404
-        ],
+        "coordinates": [-9.03812, -43.05404],
         "data": "2024-10-08",
         "horario": "08:23",
         "legenda": "Detalhe de registros antropomorfos e zoomorfos no abrigo",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "Painel"
-        ]
+        "tags": ["Painel"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (5).jpg",
-        "coordinates": [
-          -9.03813,
-          -43.05408
-        ],
+        "coordinates": [-9.03813, -43.05408],
         "data": "2024-10-08",
         "horario": "08:24",
-        "legenda": "Detalhe registro rupestre geomÃ©trico",
+        "legenda": "Detalhe registro rupestre geométrico",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "Painel"
-        ]
+        "tags": ["Painel"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (6).jpg",
-        "coordinates": [
-          -9.03841,
-          -43.05382
-        ],
+        "coordinates": [-9.03841, -43.05382],
         "data": "2024-10-08",
         "horario": "08:41",
-        "legenda": "Estrutura de contenÃ§Ã£o da intervenÃ§Ã£o no abrigo do sÃ­tio, ao descer a escada Ã© possÃ­vel visualizar um registro rupestre geomÃ©trico de cor preta.",
+        "legenda": "Estrutura de contenção da intervenção no abrigo do sítio, ao descer a escada é possível visualizar um registro rupestre geométrico de cor preta.",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "Estrutura de intervenÃ§Ã£o"
-        ]
+        "tags": ["Estrutura de intervenção"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (7).jpg",
-        "coordinates": [
-          -9.03838,
-          -43.05378
-        ],
+        "coordinates": [-9.03838, -43.05378],
         "data": "2024-10-08",
         "horario": "08:41",
-        "legenda": "Detalhe da estrutura de contenÃ§Ã£o",
+        "legenda": "Detalhe da estrutura de contenção",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "Estrutura de intervenÃ§Ã£o"
-        ]
+        "tags": ["Estrutura de intervenção"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (8).jpg",
-        "coordinates": [
-          -9.03837,
-          -43.05373
-        ],
+        "coordinates": [-9.03837, -43.05373],
         "data": "2024-10-08",
         "horario": "08:44",
-        "legenda": "Vista interna da contenÃ§Ã£o da escavaÃ§Ã£o arqueolÃ³gica",
+        "legenda": "Vista interna da contenção da escavação arqueológica",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "intervenÃ§Ã£o",
-          "contenÃ§Ã£o"
-        ]
+        "tags": ["intervenção", "contenção"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (9).jpg",
-        "coordinates": [
-          -9.03843,
-          -43.05378
-        ],
+        "coordinates": [-9.03843, -43.05378],
         "data": "2024-10-08",
         "horario": "08:51",
         "legenda": "Vista Noroeste do abrigo",
         "autoria": "Ana Stela de Negreiros",
-        "tags": [
-          "abrigo",
-          "geral",
-          "paisagem"
-        ]
+        "tags": ["abrigo", "geral", "paisagem"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (10).jpg",
@@ -138,26 +89,16 @@
         "horario": "09:27",
         "legenda": "Detalhe do registro.",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "geomÃ©trico",
-          "grafismo puro"
-        ]
+        "tags": ["geométrico", "grafismo puro"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (11).jpg",
         "coordinates": null,
         "data": "2024-10-08",
         "horario": "09:27",
-        "legenda": "Painel de registro rupestre do sÃ­tio Lagoa de Cima IX. Neste Ã© possÃ­vel verificar a presenÃ§a de antropomorfos, zoomorfos, geomÃ©trico e grafismo puro",
+        "legenda": "Painel de registro rupestre do sítio Lagoa de Cima IX. Neste é possível verificar a presença de antropomorfos, zoomorfos, geométrico e grafismo puro",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "com escala",
-          "escala sem calibraÃ§Ã£o",
-          "antropomorfos",
-          "zoomorfos",
-          "geomÃ©trico",
-          "grafismo puro"
-        ]
+        "tags": ["com escala", "escala sem calibração", "antropomorfos", "zoomorfos", "geométrico", "grafismo puro"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (12).jpg",
@@ -166,22 +107,16 @@
         "horario": "09:27",
         "legenda": "Detalhe de registro rupestre",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "vermelho",
-          "geomÃ©trico"
-        ]
+        "tags": ["vermelho", "geométrico"]
       },
       {
         "nome": "SA_Lagoa_de_Cima_IX (13).jpg",
         "coordinates": null,
         "data": "2024-10-08",
         "horario": "09:37",
-        "legenda": "Registro rupestre geomÃ©trico visualizado apenas de dentro da escavaÃ§Ã£o",
+        "legenda": "Registro rupestre geométrico visualizado apenas de dentro da escavação",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "preta",
-          "geomÃ©trico"
-        ]
+        "tags": ["preta", "geométrico"]
       }
     ]
   },
@@ -189,71 +124,26 @@
     "imagens": [
       {
         "nome": "SA_Lagoa_de_Cima_IX (14).jpg",
-        "coordinates": [
-          -9.038103,
-          -43.054095
-        ],
+        "coordinates": [-9.038103, -43.054095],
         "data": "2024-12-06",
         "horario": "00:18",
         "legenda": "asasdfsadfasdf",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "geomÃ©trico",
-          "grafismo puro",
-          "registros inacabados"
-        ]
+        "tags": ["geométrico", "grafismo puro", "registros inacabados"]
       }
     ],
-    "fundoArquivistico": "Projeto de atualizaÃ§Ã£o e delimitaÃ§Ã£o de sÃ­tios arqueolÃ³gicos"
+    "fundoArquivistico": "Projeto de atualização e delimitação de sítios arqueológicos"
   },
   "gentio do ouro": {
     "imagens": [
       {
         "nome": "(1).jpg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
+        "coordinates": [-8.4396, -42.1948],
         "data": "2024-12-12",
         "horario": "07:22",
         "legenda": "uma legenda",
         "autoria": "Jussara Lacerda",
-        "tags": [
-          "geomÃ©trico",
-          "grafismo puro"
-        ]
-      }
-    ]
-  },
-  "Programa de Gestão do Patrimônio Arqueológico – Projeto de Monitoramento CMOC Chapadão": {
-    "imagens": [
-      {
-        "nome": "IMG_(225).jpg",
-        "coordinates": [
-          -18.134701666666665,
-          -47.827018333333335
-        ],
-        "data": "2024-12-03",
-        "horario": "12:52:00",
-        "legenda": "de",
-        "autoria": "Cícero Ney",
-        "tags": [
-          "declividade3"
-        ]
-      },
-      {
-        "nome": "IMG_(259).jpg",
-        "coordinates": [
-          -18.133391666666665,
-          -47.831069722222225
-        ],
-        "data": "2024-12-09",
-        "horario": "14:27:02",
-        "legenda": "decli",
-        "autoria": "Cícero Ney",
-        "tags": [
-          "declividade3"
-        ]
+        "tags": ["geométrico", "grafismo puro"]
       }
     ]
   }
