@@ -295,5 +295,26 @@
       }
     ],
     "fundoArquivistico": null
+  },
+  "Toca_dos_Caboclos": {
+    "imagens": [
+      {
+        "nome": "TimePhoto_20241126_091046.jpg",
+        "coordinates": [
+          -8.444281111111112,
+          -42.08298111111112
+        ],
+        "data": "2024-11-26",
+        "horario": "09:10:46",
+        "legenda": "Vista Norte do abrigo rochoso do sítio",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Arenito",
+          "Registro rupestre",
+          "Abrigo"
+        ]
+      }
+    ],
+    "fundoArquivistico": "Fiscalis"
   }
 }
