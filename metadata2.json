@@ -342,6 +342,35 @@
           "Entrada",
           "Geral da Paisagem"
         ]
+      },
+      {
+        "nome": "TimePhoto_20241126_092213.jpg",
+        "coordinates": [
+          -8.444369722222222,
+          -42.082573611111115
+        ],
+        "data": "2024-11-26",
+        "horario": "09:22:13",
+        "legenda": "Vista sudeste do abrigo",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Geral da Paisagem",
+          "Sudeste do Sítio"
+        ]
+      },
+      {
+        "nome": "TimePhoto_20241126_092600.jpg",
+        "coordinates": [
+          -8.444369722222222,
+          -42.082573611111115
+        ],
+        "data": "2024-11-26",
+        "horario": "09:26:00",
+        "legenda": "Detalhe do registro rupestre",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Registro rupestre"
+        ]
       }
     ],
     "fundoArquivistico": "Fiscalis"
