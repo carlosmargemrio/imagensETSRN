@@ -374,5 +374,36 @@
       }
     ],
     "fundoArquivistico": "Fiscalis"
+  },
+  "Igrejinha_ou_Helvécio_Carneiro_(Toca_da)": {
+    "imagens": [
+      {
+        "nome": "IMG_5683.jpg",
+        "coordinates": {},
+        "data": "2024-11-28",
+        "horario": "10:03:36",
+        "legenda": "Detalhe da gravura e tabuleiro do Jogo \"a onça e os cachorros. Localizado próximo ao sítios pré-coloniais.",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "gravura",
+          "jogo tabuleiro",
+          "a Onça e os cachorros."
+        ]
+      },
+      {
+        "nome": "IMG_5713.jpg",
+        "coordinates": {},
+        "data": "2024-11-28",
+        "horario": "10:20:00",
+        "legenda": "Detalhe da gravura e tabuleiro do Jogo \"a onça e os cachorros. Localizado próximo ao sítios pré-coloniais.",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "gravura",
+          "jogo tabuleiro",
+          "a Onça e os cachorros."
+        ]
+      }
+    ],
+    "fundoArquivistico": "Fiscalis"
   }
 }
