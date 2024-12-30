@@ -217,8 +217,7 @@
         ],
         "fundoArquivistico": null
       }
-    ],
-    "fundoArquivistico": "Projeto de atualização e delimitação de sítios arqueológicos"
+    ]
   },
   "gentio do ouro": {
     "imagens": [
@@ -272,8 +271,7 @@
         ],
         "fundoArquivistico": null
       }
-    ],
-    "fundoArquivistico": "Projeto de atualização e delimitação de sítios arqueológicos"
+    ]
   },
   "Fiscalização Jazida São Lourenço do Piauí": {
     "imagens": [
@@ -293,8 +291,7 @@
         ],
         "fundoArquivistico": null
       }
-    ],
-    "fundoArquivistico": "projeto1"
+    ]
   },
   "Toca_dos_Caboclos": {
     "imagens": [
@@ -377,8 +374,7 @@
         ],
         "fundoArquivistico": null
       }
-    ],
-    "fundoArquivistico": "Fiscalis"
+    ]
   },
   "Igrejinha_ou_Helvécio_Carneiro_(Toca_da)": {
     "imagens": [
@@ -436,7 +432,6 @@
         ],
         "fundoArquivistico": "Fiscalis"
       }
-    ],
-    "fundoArquivistico": "Fiscalis"
+    ]
   }
 }
