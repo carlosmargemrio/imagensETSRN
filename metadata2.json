@@ -313,6 +313,19 @@
           "Registro rupestre",
           "Abrigo"
         ]
+      },
+      {
+        "nome": "TimePhoto_20241126_092101.jpg",
+        "coordinates": {},
+        "data": "2024-11-26",
+        "horario": "09:21:01",
+        "legenda": "Fragmento de bojo cerâmico localizado na arte abrigada do sítio arqueológico",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Cerâmica",
+          "Material em superfície",
+          "material arqueológico"
+        ]
       }
     ],
     "fundoArquivistico": "Fiscalis"
