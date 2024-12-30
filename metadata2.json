@@ -294,7 +294,7 @@
         "fundoArquivistico": null
       }
     ],
-    "fundoArquivistico": null
+    "fundoArquivistico": "projeto1"
   },
   "Toca_dos_Caboclos": {
     "imagens": [
@@ -312,7 +312,8 @@
           "Arenito",
           "Registro rupestre",
           "Abrigo"
-        ]
+        ],
+        "fundoArquivistico": null
       },
       {
         "nome": "TimePhoto_20241126_092101.jpg",
@@ -325,7 +326,8 @@
           "Cerâmica",
           "Material em superfície",
           "material arqueológico"
-        ]
+        ],
+        "fundoArquivistico": null
       },
       {
         "nome": "TimePhoto_20241126_090627.jpg",
@@ -341,7 +343,8 @@
           "Acesso",
           "Entrada",
           "Geral da Paisagem"
-        ]
+        ],
+        "fundoArquivistico": null
       },
       {
         "nome": "TimePhoto_20241126_092213.jpg",
@@ -356,7 +359,8 @@
         "tags": [
           "Geral da Paisagem",
           "Sudeste do Sítio"
-        ]
+        ],
+        "fundoArquivistico": null
       },
       {
         "nome": "TimePhoto_20241126_092600.jpg",
@@ -370,7 +374,8 @@
         "autoria": "Carlos Rocha",
         "tags": [
           "Registro rupestre"
-        ]
+        ],
+        "fundoArquivistico": null
       }
     ],
     "fundoArquivistico": "Fiscalis"
@@ -388,7 +393,8 @@
           "gravura",
           "jogo tabuleiro",
           "a Onça e os cachorros."
-        ]
+        ],
+        "fundoArquivistico": null
       },
       {
         "nome": "IMG_5713.jpg",
@@ -401,7 +407,8 @@
           "gravura",
           "jogo tabuleiro",
           "a Onça e os cachorros."
-        ]
+        ],
+        "fundoArquivistico": null
       },
       {
         "nome": "IMG_5685.jpg",
