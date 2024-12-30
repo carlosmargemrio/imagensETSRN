@@ -326,6 +326,22 @@
           "Material em superfície",
           "material arqueológico"
         ]
+      },
+      {
+        "nome": "TimePhoto_20241126_090627.jpg",
+        "coordinates": [
+          -8.44359388888889,
+          -42.081812500000005
+        ],
+        "data": "2024-11-26",
+        "horario": "09:06:26",
+        "legenda": "Entrada da trilha que leva até o sítio arqueológico.",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Acesso",
+          "Entrada",
+          "Geral da Paisagem"
+        ]
       }
     ],
     "fundoArquivistico": "Fiscalis"
