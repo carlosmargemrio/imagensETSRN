@@ -553,6 +553,36 @@
           "distancia_focal": "4.74 mm",
           "bitsPorAmostra": "Não disponível"
         }
+      },
+      {
+        "identificador": "ID-1735928132044-0",
+        "nome": "TimePhoto_20241127_114031.jpg",
+        "coordinates": [
+          -7.430073,
+          -41.911016
+        ],
+        "data": "2024-11-27",
+        "horario": "11:40:31",
+        "legenda": "Detalhe a louça localizada no local da denúncia o que parece ser o padrão Shell Edged",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Louça",
+          "Shell Edged"
+        ],
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2280.80 KB, 2448x3264 px",
+        "historicoArquivistico": "Produzida mediante fiscalização no local após denúncia anônima ao ETSRN-PI",
+        "ambitoConteudo": "Evidência de louça histórica no local do tipo \"Shell Edged\"",
+        "condicoesAcesso": "Público",
+        "motivoRestricao": "",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        }
       }
     ]
   }
