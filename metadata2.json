@@ -467,6 +467,63 @@
           "Banho"
         ],
         "fundoArquivistico": "Fiscalis"
+      },
+      {
+        "identificador": "ID-1735923868518-0",
+        "nome": "TimePhoto_20241127_112204.jpg",
+        "coordinates": [
+          -7.4316933333333335,
+          -41.911431111111106
+        ],
+        "data": "2024-11-27",
+        "horario": "11:22:04",
+        "legenda": "Fonte histórica utilizada pelos Jesuítas para atividades de higiene pessoal (banho).",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fonte",
+          "Banho"
+        ],
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "Foto digital",
+        "historicoArquivistico": "Produzida nas atividades de fiscalizações de sítios arqueológicos em 2024, pelo ETSRN-PI",
+        "ambitoConteudo": "Vista geral da fonte coberta de algum tipo de algas o que pode indicar alguma impureza na água, o local não tem mais suas estruturas de acesso algo que poderia ser uma escada para decida à fonte.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria da imagem, o projeto e a instituição responsável",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "abertura": "f/1.79",
+          "distancia_focal": "4.74 mm",
+          "iso": null
+        }
+      },
+      {
+        "identificador": "ID-1735924211210-1",
+        "nome": "TimePhoto_20241127_112420.jpg",
+        "coordinates": [
+          -7.432230555555556,
+          -41.91125611111111
+        ],
+        "data": "2024-11-27",
+        "horario": "11:24:20",
+        "legenda": "Fonte histórica utilizada pelos Jesuítas para a higienização das vestimentas (Lavanderia).",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fonte",
+          "Lavanderia",
+          "Jesuítas"
+        ],
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "Foto digital 96 DPI",
+        "historicoArquivistico": "Produzida em fiscalização do ETSRN-PI em 2024",
+        "ambitoConteudo": "Vista geral da fonte, local parece bem preservado contando com algumas árvores próximas.",
+        "condicoesAcesso": "público",
+        "condicoesReproducao": "Creditar autoria, projeto ou instituição responsável pela produção",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "abertura": "f/1.79",
+          "distancia_focal": "4.74 mm",
+          "iso": null
+        }
       }
     ]
   }
