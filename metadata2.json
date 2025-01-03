@@ -583,6 +583,36 @@
           "distancia_focal": "4.74 mm",
           "bitsPorAmostra": "Não disponível"
         }
+      },
+      {
+        "identificador": "ID-1735946829549-0",
+        "nome": "TimePhoto_20241127_111833.jpg",
+        "coordinates": [
+          -7.431741,
+          -41.911648
+        ],
+        "data": "2024-11-27",
+        "horario": "11:18:33",
+        "legenda": "abcdefg",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
+        ],
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2538.52 KB, 3264x2448 px",
+        "historicoArquivistico": "",
+        "ambitoConteudo": "",
+        "condicoesAcesso": "Público",
+        "motivoRestricao": "",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        },
+        "fundoArquivistico": "Fiscalis"
       }
     ]
   }
