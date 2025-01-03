@@ -524,6 +524,35 @@
           "distancia_focal": "4.74 mm",
           "iso": null
         }
+      },
+      {
+        "identificador": "ID-1735926769898-0",
+        "nome": "TimePhoto_20241127_112520.jpg",
+        "coordinates": [
+          -7.43219,
+          -41.911318
+        ],
+        "data": "2024-11-27",
+        "horario": "11:25:20",
+        "legenda": "Detalhe da cerca feita de pedras",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Cerca de Pedra",
+          "Cercamento Histórico"
+        ],
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2975.29 KB, 3264x2448 px",
+        "historicoArquivistico": "Vista de geral da cerca de pedra a mesma encontra-se descontinuada em alguns pontos mais no geral está bem definida",
+        "ambitoConteudo": "asasasas",
+        "condicoesAcesso": "Pública",
+        "condicoesReproducao": "Creditar autoria, projeto ou instituição responsável",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        }
       }
     ]
   }
