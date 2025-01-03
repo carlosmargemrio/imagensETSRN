@@ -433,5 +433,41 @@
         "fundoArquivistico": "Fiscalis"
       }
     ]
+  },
+  "Sítio histórico Santo Inácio": {
+    "imagens": [
+      {
+        "nome": "TimePhoto_20241127_105337.jpg",
+        "coordinates": [
+          -7.4309497222222225,
+          -41.91253555555556
+        ],
+        "data": "2024-11-27",
+        "horario": "10:53:37",
+        "legenda": "Vista da fonte utilizada pelo Jesuítas para consumo. Atualmente repleta de mangueiras e gados.",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fonte",
+          "bebedouro"
+        ],
+        "fundoArquivistico": "Fiscalis"
+      },
+      {
+        "nome": "TimePhoto_20241127_110957.jpg",
+        "coordinates": [
+          -7.431698611111111,
+          -41.91146611111111
+        ],
+        "data": "2024-11-27",
+        "horario": "11:09:57",
+        "legenda": "Vista da fonte utilizada pelo Jesuítas para atividades de higiene pessoal (banho)",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fonte",
+          "Banho"
+        ],
+        "fundoArquivistico": "Fiscalis"
+      }
+    ]
   }
 }
