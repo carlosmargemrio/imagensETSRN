@@ -613,6 +613,39 @@
           "bitsPorAmostra": "Não disponível"
         },
         "fundoArquivistico": "Fiscalis"
+      },
+      {
+        "identificador": "ETSRN-PI22-1735947629398-0",
+        "nome": "TimePhoto_20241127_111200.jpg",
+        "coordinates": [
+          -7.431683,
+          -41.911566
+        ],
+        "data": "2024-11-27",
+        "horario": "11:12:00",
+        "legenda": "asdasdasdasdasdasdasdasdasd",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-03",
+        "horaInsercao": "20:38",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2494.13 KB, 3264x2448 px",
+        "historicoArquivistico": "asdasdasdasd",
+        "ambitoConteudo": "asdasdasdasd",
+        "condicoesAcesso": "Público",
+        "motivoRestricao": "",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        },
+        "fundoArquivistico": "Fiscalis"
       }
     ]
   }
