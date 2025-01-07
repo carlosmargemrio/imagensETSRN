@@ -1,1 +1,40 @@
-
+{
+  "asdasdasd": {
+    "nivelDescricao": "Série",
+    "imagens": [
+      {
+        "fundoArquivistico": "Fiscalis",
+        "identificador": "ETSRN-PI22-1736292025267-0",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(7).jpg",
+        "coordinates": {
+          "latitude": -9.16771,
+          "longitude": -42.908267,
+          "sistemaReferencial": "WGS 84",
+          "precisao": "Não disponível"
+        },
+        "data": "2024-10-08",
+        "horario": "11:39:50",
+        "legenda": "asdasd",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "asdasdasd"
+        ],
+        "licencaUso": "CC-BY-NC-SA",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": null,
+        "condicoesAcesso": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "historicoArquivistico": "asdasdasd",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "20:19",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2253.68 KB, 0x0 px"
+      }
+    ]
+  }
+}
