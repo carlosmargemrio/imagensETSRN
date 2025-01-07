@@ -832,5 +832,43 @@
         "dimensaoSuporte": "image/jpeg, 2595.23 KB, 3264x2448 px"
       }
     ]
+  },
+  "": {
+    "nivelDescricao": "Série",
+    "imagens": [
+      {
+        "fundoArquivistico": "",
+        "identificador": "ETSRN-PI22-1736290958499-0",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(2).jpg",
+        "coordinates": {
+          "latitude": -9.16771,
+          "longitude": -42.908267,
+          "sistemaReferencial": "WGS 84",
+          "precisao": "Não disponível"
+        },
+        "data": "2024-10-08",
+        "horario": "11:39:57",
+        "legenda": "",
+        "autoria": "",
+        "tags": [
+          ""
+        ],
+        "licencaUso": "CC-BY-NC-SA",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "direitosAutorais": "",
+        "hashArquivo": null,
+        "condicoesAcesso": "Motivo não especificado",
+        "historicoArquivistico": "",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "20:02",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2595.23 KB, 0x0 px"
+      }
+    ]
   }
 }
