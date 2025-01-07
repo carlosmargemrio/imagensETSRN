@@ -1,16 +1,16 @@
 {
   "asdasdasd": {
-    "nivelDescricao": "SÃ©rie",
+    "nivelDescricao": "SÃÂ©rie",
     "imagens": [
       {
         "fundoArquivistico": "Fiscalis",
         "identificador": "ETSRN-PI22-1736292025267-0",
-        "nome": "SA_SOBRADO_DA_CONCEIÃÃO(7).jpg",
+        "nome": "SA_SOBRADO_DA_CONCEIÃÂÃÂO(7).jpg",
         "coordinates": {
           "latitude": -9.16771,
           "longitude": -42.908267,
           "sistemaReferencial": "WGS 84",
-          "precisao": "NÃ£o disponÃ­vel"
+          "precisao": "NÃÂ£o disponÃÂ­vel"
         },
         "data": "2024-10-08",
         "horario": "11:39:50",
@@ -28,7 +28,7 @@
         },
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": null,
-        "condicoesAcesso": "Creditar a autoria, projeto ou instituiÃ§Ã£o responsÃ¡vel pela produÃ§Ã£o.",
+        "condicoesAcesso": "Creditar a autoria, projeto ou instituiÃÂ§ÃÂ£o responsÃÂ¡vel pela produÃÂ§ÃÂ£o.",
         "historicoArquivistico": "asdasdasd",
         "dataInsercao": "2025-01-07",
         "horaInsercao": "20:19",
@@ -38,12 +38,12 @@
       {
         "fundoArquivistico": "Fiscalis",
         "identificador": "ETSRN-PI22-1736292521893-0",
-        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(3).jpg",
+        "nome": "SA_SOBRADO_DA_CONCEIÃÃO(3).jpg",
         "coordinates": {
           "latitude": -9.167711,
           "longitude": -42.908267,
           "sistemaReferencial": "WGS 84",
-          "precisao": "Não disponível"
+          "precisao": "NÃ£o disponÃ­vel"
         },
         "data": "2024-10-08",
         "horario": "11:40:08",
@@ -61,12 +61,50 @@
         },
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": null,
-        "condicoesAcesso": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "condicoesAcesso": "Creditar a autoria, projeto ou instituiÃ§Ã£o responsÃ¡vel pela produÃ§Ã£o.",
         "historicoArquivistico": "sadasd",
         "dataInsercao": "2025-01-07",
         "horaInsercao": "20:28",
         "nivelDescricao": "Item",
         "dimensaoSuporte": "image/jpeg, 2578.41 KB, 0x0 px"
+      }
+    ]
+  },
+  "Qrteste": {
+    "nivelDescricao": "Série",
+    "imagens": [
+      {
+        "fundoArquivistico": "Fiscalis",
+        "identificador": "ETSRN-PI22-1736293097656-0",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(5).jpg",
+        "coordinates": {
+          "latitude": -9.167602,
+          "longitude": -42.908012,
+          "sistemaReferencial": "WGS 84",
+          "precisao": "Não disponível"
+        },
+        "data": "2024-10-08",
+        "horario": "11:42:43",
+        "legenda": "asdasd",
+        "autoria": "asdasd",
+        "tags": [
+          "asdasd"
+        ],
+        "licencaUso": "CC-BY-NC-SA",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "direitosAutorais": "asdasd",
+        "hashArquivo": null,
+        "condicoesAcesso": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "historicoArquivistico": "asdasd",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "20:37",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2259.16 KB, 0x0 px"
       }
     ]
   }
