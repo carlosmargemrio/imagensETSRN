@@ -685,6 +685,76 @@
           "distancia_focal": "4.74 mm",
           "bitsPorAmostra": "Não disponível"
         }
+      },
+      {
+        "fundoArquivistico": "AÇÕES EDUCATIVAS E PROMOÇÃO DO PATRIMÔNIO CULTURAL (educação patrimonial e promoção) no âmbito do projeto parceria JOGO DA MEMÓRIA: PATRIMÔNIO CULTURAL TERRITÓRIO SERRA DA  CAPIVARA processo SEI Nº. 01402.000411/2024-11",
+        "identificador": "ETSRN-PI22-1736248770038-0",
+        "nome": "TimePhoto_20241130_095316.jpg",
+        "coordinates": {
+          "latitude": -8.837396,
+          "longitude": -42.55397,
+          "sistemaReferencial": "WGS 84",
+          "precisao": "5 metros"
+        },
+        "data": "2024-11-30",
+        "horario": "09:53:16",
+        "legenda": "qweqweqwe",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "CEEP",
+          "Jogos digitais",
+          "Visita PNSC"
+        ],
+        "licencaUso": "CC-BY-NC-SA",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        },
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": null,
+        "condicoesAcesso": "Público",
+        "historicoArquivistico": "Produzida no âmbito da projeto Jogo da memória em dezembro de 2024",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "08:15",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2095.06 KB, 3264x2448 px"
+      },
+      {
+        "fundoArquivistico": "AÇÕES EDUCATIVAS E PROMOÇÃO DO PATRIMÔNIO CULTURAL (educação patrimonial e promoção) no âmbito do projeto parceria JOGO DA MEMÓRIA: PATRIMÔNIO CULTURAL TERRITÓRIO SERRA DA  CAPIVARA processo SEI Nº. 01402.000411/2024-11",
+        "identificador": "ETSRN-PI22-1736248907700-1",
+        "nome": "TimePhoto_20241130_095328.jpg",
+        "coordinates": {
+          "latitude": -8.837429,
+          "longitude": -42.553974,
+          "sistemaReferencial": "WGS 84",
+          "precisao": "5 metros"
+        },
+        "data": "2024-11-30",
+        "horario": "09:53:28",
+        "legenda": "qweqweqweqweqweqweqweqweqweqweqweqweqweqwe",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
+        ],
+        "licencaUso": "CC-BY-NC-SA",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        },
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": null,
+        "condicoesAcesso": "Restrito",
+        "historicoArquivistico": "Tetando",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "08:19",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2175.96 KB, 3264x2448 px"
       }
     ]
   }
