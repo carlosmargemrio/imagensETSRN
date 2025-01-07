@@ -648,5 +648,44 @@
         "fundoArquivistico": "Fiscalis"
       }
     ]
+  },
+  "AÇÕES EDUCATIVAS E PROMOÇÃO DO PATRIMÔNIO CULTURAL": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "AÇÕES EDUCATIVAS E PROMOÇÃO DO PATRIMÔNIO CULTURAL (educação patrimonial e promoção) no âmbito do projeto parceria JOGO DA MEMÓRIA: PATRIMÔNIO CULTURAL TERRITÓRIO SERRA DA  CAPIVARA processo SEI Nº. 01402.000411/2024-11",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736222262301-0",
+        "nome": "TimePhoto_20241130_104538.jpg",
+        "coordinates": [
+          -8.836608,
+          -42.555297
+        ],
+        "data": "2024-11-30",
+        "horario": "10:45:38",
+        "legenda": "123123123123",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Visita",
+          "Pedra furada"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "00:55",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2065.28 KB, 3264x2448 px",
+        "historicoArquivistico": "Projeto parceria JOGO DA MEMÓRIA: PATRIMÔNIO CULTURAL TERRITÓRIO SERRA DA  CAPIVARA processo SEI Nº. 01402.000411/2024-11",
+        "ambitoConteudo": "Turma CEEP ao fundo paredão do abrigo pedra furada",
+        "condicoesAcesso": "Público",
+        "motivoRestricao": null,
+        "fundoArquivistico": "AÇÕES EDUCATIVAS E PROMOÇÃO DO PATRIMÔNIO CULTURAL (educação patrimonial e promoção) no âmbito do projeto parceria JOGO DA MEMÓRIA: PATRIMÔNIO CULTURAL TERRITÓRIO SERRA DA  CAPIVARA processo SEI Nº. 01402.000411/2024-11",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "Não disponível"
+        }
+      }
+    ]
   }
 }
