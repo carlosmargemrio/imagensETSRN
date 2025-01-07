@@ -1,11 +1,11 @@
 {
   "Lago de Cima IX": {
-    "nivelDescricao": "Série",
+    "nivelDescricao": "SÃ©rie",
     "fundoArquivistico": "Fiscalis",
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1736293726090-0",
-        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(9).jpg",
+        "nome": "SA_SOBRADO_DA_CONCEIÃÃO(9).jpg",
         "coordinates": [
           -9.167712,
           -42.908268
@@ -22,6 +22,38 @@
         "horaInsercao": "20:48",
         "nivelDescricao": "Item",
         "dimensaoSuporte": "image/jpeg, 2506.46 KB, 3264x2448 px",
+        "historicoArquivistico": "asdasdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "PÃºblico",
+        "motivoRestricao": null,
+        "fundoArquivistico": "Fiscalis",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm",
+          "bitsPorAmostra": "NÃ£o disponÃ­vel"
+        }
+      },
+      {
+        "identificador": "ETSRN-PI22-1736294149469-0",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(11).jpg",
+        "coordinates": [
+          -9.167602,
+          -42.908012
+        ],
+        "data": "2024-10-08",
+        "horario": "11:42:43",
+        "legenda": "asdasdasd",
+        "autoria": "asdasd",
+        "tags": [
+          "asdasdasd"
+        ],
+        "inseridoPor": "asdasdasd",
+        "dataInsercao": "2025-01-07",
+        "horaInsercao": "20:55",
+        "nivelDescricao": "Item",
+        "dimensaoSuporte": "image/jpeg, 2202.61 KB, 3264x2448 px",
         "historicoArquivistico": "asdasdasd",
         "ambitoConteudo": "asdasdasd",
         "condicoesAcesso": "Público",
