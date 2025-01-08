@@ -40,5 +40,46 @@
         "hashArquivo": "eb11a3dafbf1454043046ab1ad98b668"
       }
     ]
+  },
+  "lago de cima ix": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736309530401-0",
+        "nome": "SA_Lagoa_de_Cima_IX(2).jpg",
+        "coordinates": [
+          -43.05381,
+          -9.037997
+        ],
+        "data": "2024-10-08",
+        "horario": "08:20:26",
+        "legenda": "Detalhe da declividade do Sítio Arqueológico Lagoa de Cima IX",
+        "autoria": "Ana Stela de Negreiros",
+        "tags": [
+          "Declividade",
+          "Geral"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "01:11",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 5930.66 KB, 3000x4000 px",
+        "historicoArquivistico": "Produzida nos processos de fiscalizações",
+        "ambitoConteudo": "Detalhe da declividade",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "Testando",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 44,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Ana Stela de Negreiros",
+        "hashArquivo": "1b3aee3892fdf7dde57be12c29b5c94a"
+      }
+    ]
   }
 }
