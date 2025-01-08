@@ -114,6 +114,82 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": "553a0fc034f3893c0ee4eb8463b283cd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736336759977-0",
+        "nome": "SA_Lagoa_de_Cima_IX(8).jpg",
+        "coordinates": [
+          -43.053735,
+          -9.038371
+        ],
+        "data": "2024-10-08",
+        "horario": "08:44:02",
+        "legenda": "Vista da contenção da escavação arqueológica que permite visualizar os registros rupestre na parte superior acima da escavação",
+        "autoria": "Ana Stella de Negreiros",
+        "tags": [
+          "geométrico",
+          "grafismo puro",
+          "pigmento preto"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "08:45",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 3024.75 KB, 3000x4000 px",
+        "historicoArquivistico": "Imagem produzida durante as atividades de fiscalizações de sítios arqueológicos peno ETSRN-PI",
+        "ambitoConteudo": "Detalhe da contenção da escavação que permite a visualização do registro rupestre de pimento preto.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 150,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Ana Stella de Negreiros",
+        "hashArquivo": "f5f9a7ff95f8aafef0c4632256325426"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736337103093-1",
+        "nome": "SA_Lagoa_de_Cima_IX(11).jpg",
+        "coordinates": [
+          "u",
+          "n"
+        ],
+        "data": "2024-10-08",
+        "horario": "09:27:03",
+        "legenda": "Destaque de um dos painéis de registro rupestre do sítio arqueológico",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Pigmento vermelho",
+          "avermelhado",
+          "antropomorfo",
+          "zoomorfos",
+          "inacabados",
+          "com escala",
+          "preenchido"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "08:46",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4118.15 KB, 6000x4000 px",
+        "historicoArquivistico": "Imagem produzida nas fiscalizações nos sítios arqueológicos pelo ETSRN-PI",
+        "ambitoConteudo": "Detalhe do painel nº xxx, concentração nº xxx do sítio arqueológico Lago de Cima IX, em São Braz do Piauí.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "26 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
       }
     ]
   }
