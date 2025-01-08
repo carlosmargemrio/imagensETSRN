@@ -78,5 +78,45 @@
         "hashArquivo": "f170eff3ece172fb34ce8b480257df76"
       }
     ]
+  },
+  "Sobrado da Conceição": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736302489636-1",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(8).jpg",
+        "coordinates": {
+          "latitude": -9.16771,
+          "longitude": -42.908267
+        },
+        "data": "2024-10-08",
+        "horario": "11:39:57",
+        "legenda": "asdasdasd",
+        "autoria": "asdasdasd",
+        "tags": [
+          "asdasdasd"
+        ],
+        "inseridoPor": "asdasdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "23:14",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2522.44 KB, 3264x2448 px",
+        "historicoArquivistico": "asdasdasd",
+        "ambitoConteudo": "asdasdasdasd",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "testando",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "asdasdasd",
+        "hashArquivo": "50527b0fb3a3ea8ea74c302f98f3795c"
+      }
+    ]
   }
 }
