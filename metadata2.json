@@ -1,11 +1,11 @@
 {
-  "Sobrado Conceição": {
-    "nivelDescricao": "Série",
+  "Sobrado ConceiÃ§Ã£o": {
+    "nivelDescricao": "SÃ©rie",
     "fundoArquivistico": "Fiscalis",
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1736301813172-0",
-        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(7).jpg",
+        "nome": "SA_SOBRADO_DA_CONCEIÃÃO(7).jpg",
         "coordinates": {
           "latitude": -9.16771,
           "longitude": -42.908267
@@ -24,9 +24,49 @@
         "dimensaoSuporte": "image/jpeg, 2253.68 KB, 3264x2448 px",
         "historicoArquivistico": "asdasd",
         "ambitoConteudo": "asdasdasd",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "condicoesAcesso": "PÃºblico",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituiÃ§Ã£o responsÃ¡vel pela produÃ§Ã£o.",
         "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "f170eff3ece172fb34ce8b480257df76"
+      }
+    ]
+  },
+  "Lago de Cima IX": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "SICG-Cadastro-atualização",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736301959954-0",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(7).jpg",
+        "coordinates": {
+          "latitude": -9.16771,
+          "longitude": -42.908267
+        },
+        "data": "2024-10-08",
+        "horario": "11:39:50",
+        "legenda": "asdasd",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "Car",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "23:05",
+        "fundoArquivistico": "SICG-Cadastro-atualização",
+        "dimensaoSuporte": "image/jpeg, 2253.68 KB, 3264x2448 px",
+        "historicoArquivistico": "asdasd",
+        "ambitoConteudo": "asdasd",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "Teste",
         "camera": {
           "modelo": "Redmi Note 9S",
           "iso": 100,
