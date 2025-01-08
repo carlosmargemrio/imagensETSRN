@@ -70,6 +70,40 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Jussara Lacerda",
         "hashArquivo": "95b70fba50039bdf3ece6a8bf5c50537"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736308516122-1",
+        "nome": "TimePhoto_20241127_114031.jpg",
+        "coordinates": [
+          -41.911016,
+          -7.430073
+        ],
+        "data": "2024-11-27",
+        "horario": "11:40:31",
+        "legenda": "qweqweqwe",
+        "autoria": "Jussara Lacerda",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "00:54",
+        "fundoArquivistico": "Pesquisa Acadêmica",
+        "dimensaoSuporte": "image/jpeg, 2280.80 KB, 2448x3264 px",
+        "historicoArquivistico": "qweqweqwe",
+        "ambitoConteudo": "qweqweqwe",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "Aguardando cartas de sessão",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Jussara Lacerda",
+        "hashArquivo": "1a3c0397615ebe965c459c60b2bdd2dc"
       }
     ]
   }
