@@ -178,6 +178,40 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Jussara Lacerda",
         "hashArquivo": "95b70fba50039bdf3ece6a8bf5c50537"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736306505757-1",
+        "nome": "TimePhoto_20241127_111839.jpg",
+        "coordinates": {
+          "latitude": -7.431736,
+          "longitude": -41.911636
+        },
+        "data": "2024-11-27",
+        "horario": "11:18:39",
+        "legenda": "qweqwe",
+        "autoria": "Jussara Lacerda",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "00:21",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2642.55 KB, 2448x3264 px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "qweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Jussara Lacerda",
+        "hashArquivo": "5ead0a83aaa8dfb18ecbf75d8f6803a0"
       }
     ]
   },
@@ -251,6 +285,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Jussara Lacerda",
+        "hashArquivo": "eb11a3dafbf1454043046ab1ad98b668"
+      }
+    ]
+  },
+  "rio de janeiro": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736306480511-0",
+        "nome": "TimePhoto_20241127_105337.jpg",
+        "coordinates": {
+          "latitude": -7.43095,
+          "longitude": -41.912536
+        },
+        "data": "2024-11-27",
+        "horario": "10:53:37",
+        "legenda": "qweqwe",
+        "autoria": "qweqweqwe",
+        "tags": [
+          "qweqwe"
+        ],
+        "inseridoPor": "qweqweqwe",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "00:20",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2748.68 KB, 3264x2448 px",
+        "historicoArquivistico": "qweqweqwe",
+        "ambitoConteudo": "qweqweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "qweqweqwe",
         "hashArquivo": "eb11a3dafbf1454043046ab1ad98b668"
       }
     ]
