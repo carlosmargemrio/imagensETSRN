@@ -1,1 +1,76 @@
-
+{
+  "brejo de santo inacio": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736307726835-0",
+        "nome": "TimePhoto_20241127_105337.jpg",
+        "coordinates": {
+          "latitude": -7.43095,
+          "longitude": -41.912536
+        },
+        "data": "2024-11-27",
+        "horario": "10:53:37",
+        "legenda": "TimePhoto_20241127_105337",
+        "autoria": "Jussara Lacerda",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "00:41",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2748.68 KB, 3264x2448 px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Jussara Lacerda",
+        "hashArquivo": "eb11a3dafbf1454043046ab1ad98b668"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736307755057-1",
+        "nome": "TimePhoto_20241127_111200.jpg",
+        "coordinates": {
+          "latitude": -7.431683,
+          "longitude": -41.911566
+        },
+        "data": "2024-11-27",
+        "horario": "11:12:00",
+        "legenda": "TimePhoto_20241127_111200",
+        "autoria": "Jussara Lacerda",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "00:42",
+        "fundoArquivistico": "Pesquisa Acadêmica",
+        "dimensaoSuporte": "image/jpeg, 2494.13 KB, 3264x2448 px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "wqeqwe",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "testando",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Jussara Lacerda",
+        "hashArquivo": "95b70fba50039bdf3ece6a8bf5c50537"
+      }
+    ]
+  }
+}
