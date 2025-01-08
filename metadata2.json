@@ -1,1 +1,110 @@
-
+{
+  "sobrado da conceicao": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1736303378803-0",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(1).jpg",
+        "coordinates": {
+          "latitude": -9.16771,
+          "longitude": -42.908267
+        },
+        "data": "2024-10-08",
+        "horario": "11:39:50",
+        "legenda": "weqweqweqw",
+        "autoria": "asdasdasd",
+        "tags": [
+          "asdasdasd"
+        ],
+        "inseridoPor": "asdasdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "23:29",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2321.24 KB, 3264x2448 px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "qweqweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "asdasdasd",
+        "hashArquivo": "1b2137f7d88de9b2be7d9dfdf4ddfd4f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736303437787-1",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(2).jpg",
+        "coordinates": {
+          "latitude": -9.16771,
+          "longitude": -42.908267
+        },
+        "data": "2024-10-08",
+        "horario": "11:39:57",
+        "legenda": "asdasd",
+        "autoria": "asdasdasd",
+        "tags": [
+          "asdasdasd"
+        ],
+        "inseridoPor": "asdasdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "23:29",
+        "fundoArquivistico": "Pesquisa Acadêmica",
+        "dimensaoSuporte": "image/jpeg, 2595.23 KB, 3264x2448 px",
+        "historicoArquivistico": "asdasdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "asdasdasd",
+        "hashArquivo": "087e2cd437fdcb6664f33a6227996de8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736303467731-2",
+        "nome": "SA_SOBRADO_DA_CONCEIÇÃO(4).jpg",
+        "coordinates": {
+          "latitude": -9.167604,
+          "longitude": -42.907989
+        },
+        "data": "2024-10-08",
+        "horario": "11:42:33",
+        "legenda": "asdasdasd",
+        "autoria": "asdasdasd",
+        "tags": [
+          "asdasdasd"
+        ],
+        "inseridoPor": "asdasdasd",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "23:30",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2150.99 KB, 3264x2448 px",
+        "historicoArquivistico": "asdasdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "testando",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "asdasdasd",
+        "hashArquivo": "8a116b8165ef969af957d2dba977b5fe"
+      }
+    ]
+  }
+}
