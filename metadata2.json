@@ -79,6 +79,41 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Ana Stela de Negreiros",
         "hashArquivo": "1b3aee3892fdf7dde57be12c29b5c94a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736310515592-0",
+        "nome": "Original_TimePhoto_20241008_082553.jpg",
+        "coordinates": [
+          -43.054173,
+          -9.038182
+        ],
+        "data": "2024-10-08",
+        "horario": "08:25:53",
+        "legenda": "Vista Geral do abrigo rochoso",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Declividade",
+          "Geral"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-08",
+        "horaInsercao": "01:27",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2133.59 KB, 3264x2448 px",
+        "historicoArquivistico": "qweqweqwe",
+        "ambitoConteudo": "qweqweqweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "553a0fc034f3893c0ee4eb8463b283cd"
       }
     ]
   }
