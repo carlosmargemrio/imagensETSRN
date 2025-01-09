@@ -155,7 +155,7 @@
         "identificador": "ETSRN-PI22-1736337103093-1",
         "nome": "SA_Lagoa_de_Cima_IX(11).jpg",
         "coordinates": [
-         -43.053735,
+          -43.053735,
           -9.038371
         ],
         "data": "2024-10-08",
@@ -190,6 +190,44 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
+      },
+      {
+        "identificador": "ETSRN-PI22-1736414453814-0",
+        "nome": "SA_Lagoa_de_Cima_IX(5).jpg",
+        "coordinates": [
+          -43.054083,
+          -9.038135
+        ],
+        "data": "2024-10-08",
+        "horario": "08:24:27",
+        "legenda": "uma legenda teste",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Pigmento vermelho",
+          "avermelhado",
+          "preenchido",
+          "geométrico",
+          "desplacamento"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-09",
+        "horaInsercao": "06:18",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4970.36 KB, 3000x4000 px",
+        "historicoArquivistico": "fazer texto padrão de acordo com o fundo e preenchimento a depender de alguns fundos",
+        "ambitoConteudo": "Mais detalhes sobre o sítio e de como foi feito o registro?",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 64,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "7022a731163bfb906172e2ddbbe391db"
       }
     ]
   }
