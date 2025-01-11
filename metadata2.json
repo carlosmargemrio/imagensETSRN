@@ -299,7 +299,7 @@
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": "92e0b34187d613ddc4b4daf452e890f3"
       },
-     {
+      {
         "identificador": "ETSRN-PI22-1736418521023-0",
         "nome": "SA_Lagoa_de_Cima_IX(12).jpg",
         "coordinates": [
@@ -366,6 +366,46 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "qweqwe",
         "hashArquivo": "354efdfd09b0e53c16693d6e791d22a1"
+      }
+    ]
+  },
+  "sao vitor": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "BR-ETSRN-PI22-1736603049766-0",
+        "nome": "Original_TimePhoto_20241009_073744.jpg",
+        "coordinates": [
+          -42.707266,
+          -9.280778
+        ],
+        "data": "2024-10-09",
+        "horario": "07:37:44",
+        "legenda": "testando",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-01-11",
+        "horaInsercao": "10:42",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 3660.44 KB, 3000x4000 px",
+        "historicoArquivistico": "testando",
+        "ambitoConteudo": "testando",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 47,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "46529320d138cf7c7a7af6d2be1a30bc"
       }
     ]
   }
