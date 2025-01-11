@@ -1,41 +1,156 @@
-<lago_de_cima_ix>
+<root>
+  <brejoDeSantoInacio>
     <nivelDescricao>Série</nivelDescricao>
     <fundoArquivistico>Fiscalis</fundoArquivistico>
     <imagens>
-        <imagem>
-            <identificador>ETSRN-PI22-1736309530401-0</identificador>
-            <nome>SA_Lagoa_de_Cima_IX(2).jpg</nome>
-            <coordinates>
-                <longitude>-43.05381</longitude>
-                <latitude>-9.037997</latitude>
-            </coordinates>
-            <data>2024-10-08</data>
-            <horario>08:20:26</horario>
-            <legenda>Detalhe da declividade do Sítio Arqueológico Lagoa de Cima IX</legenda>
-            <autoria>Ana Stela de Negreiros</autoria>
-            <tags>
-                <tag>Declividade</tag>
-                <tag>Geral</tag>
-            </tags>
-            <inseridoPor>Carlos Rocha</inseridoPor>
-            <dataInsercao>2025-01-08</dataInsercao>
-            <horaInsercao>01:11</horaInsercao>
-            <fundoArquivistico>Fiscalis</fundoArquivistico>
-            <dimensaoSuporte>image/jpeg, 5930.66 KB, 3000x4000 px</dimensaoSuporte>
-            <historicoArquivistico>Produzida nos processos de fiscalizações</historicoArquivistico>
-            <ambitoConteudo>Detalhe da declividade</ambitoConteudo>
-            <condicoesAcesso>Restrito</condicoesAcesso>
-            <condicoesReproducao/>
-            <motivoRestricao>Testando</motivoRestricao>
-            <camera>
-                <modelo>SM-A346M</modelo>
-                <iso>44</iso>
-                <abertura>f/f/1.8</abertura>
-                <distancia_focal>4.65 mm</distancia_focal>
-            </camera>
-            <licencaUso>CC-BY-NC-SA</licencaUso>
-            <direitosAutorais>Ana Stela de Negreiros</direitosAutorais>
-            <hashArquivo>1b3aee3892fdf7dde57be12c29b5c94a</hashArquivo>
-        </imagem>
+      <imagem>
+        <identificador>ETSRN-PI22-1736309102381-0</identificador>
+        <nome>TimePhoto_20241127_105337.jpg</nome>
+        <coordinates>
+          <longitude>-41.912536</longitude>
+          <latitude>-7.43095</latitude>
+        </coordinates>
+        <data>2024-11-27</data>
+        <horario>10:53:37</horario>
+        <legenda>Fonte utilizada pelos Jesuítas para o consumo</legenda>
+        <autoria>Carlos Rocha</autoria>
+        <tags>
+          <tag>Fonte</tag>
+          <tag>bebedouro</tag>
+          <tag>Jesuítas</tag>
+        </tags>
+        <inseridoPor>Carlos Rocha</inseridoPor>
+        <dataInsercao>2025-01-08</dataInsercao>
+        <horaInsercao>01:04</horaInsercao>
+        <fundoArquivistico>Fiscalis</fundoArquivistico>
+        <dimensaoSuporte>image/jpeg, 2748.68 KB, 3264x2448 px</dimensaoSuporte>
+        <historicoArquivistico>Produzido no âmbito das atividades de fiscalizações anuais programadas dos sítios arqueológicos pelo ETSRN-PI</historicoArquivistico>
+        <ambitoConteudo>Vista geral da fonte com a presença de bovinos</ambitoConteudo>
+        <condicoesAcesso>Público</condicoesAcesso>
+        <condicoesReproducao>Creditar a autoria, projeto ou instituição responsável pela produção.</condicoesReproducao>
+        <motivoRestricao></motivoRestricao>
+        <camera>
+          <modelo>Redmi Note 9S</modelo>
+          <iso>100</iso>
+          <abertura>f/f/1.79</abertura>
+          <distanciaFocal>4.74 mm</distanciaFocal>
+        </camera>
+        <licencaUso>CC-BY-NC-SA</licencaUso>
+        <direitosAutorais>Carlos Rocha</direitosAutorais>
+        <hashArquivo>eb11a3dafbf1454043046ab1ad98b668</hashArquivo>
+      </imagem>
     </imagens>
-</lago_de_cima_ix>
+  </brejoDeSantoInacio>
+  <lagoDeCimaIx>
+    <nivelDescricao>Série</nivelDescricao>
+    <fundoArquivistico>Fiscalis</fundoArquivistico>
+    <imagens>
+      <imagem>
+        <identificador>ETSRN-PI22-1736309530401-0</identificador>
+        <nome>SA_Lagoa_de_Cima_IX(2).jpg</nome>
+        <coordinates>
+          <longitude>-43.05381</longitude>
+          <latitude>-9.037997</latitude>
+        </coordinates>
+        <data>2024-10-08</data>
+        <horario>08:20:26</horario>
+        <legenda>Detalhe da declividade do Sítio Arqueológico Lagoa de Cima IX</legenda>
+        <autoria>Ana Stela de Negreiros</autoria>
+        <tags>
+          <tag>Declividade</tag>
+          <tag>Geral</tag>
+        </tags>
+        <inseridoPor>Carlos Rocha</inseridoPor>
+        <dataInsercao>2025-01-08</dataInsercao>
+        <horaInsercao>01:11</horaInsercao>
+        <fundoArquivistico>Fiscalis</fundoArquivistico>
+        <dimensaoSuporte>image/jpeg, 5930.66 KB, 3000x4000 px</dimensaoSuporte>
+        <historicoArquivistico>Produzida nos processos de fiscalizações</historicoArquivistico>
+        <ambitoConteudo>Detalhe da declividade</ambitoConteudo>
+        <condicoesAcesso>Restrito</condicoesAcesso>
+        <condicoesReproducao></condicoesReproducao>
+        <motivoRestricao>Testando</motivoRestricao>
+        <camera>
+          <modelo>SM-A346M</modelo>
+          <iso>44</iso>
+          <abertura>f/f/1.8</abertura>
+          <distanciaFocal>4.65 mm</distanciaFocal>
+        </camera>
+        <licencaUso>CC-BY-NC-SA</licencaUso>
+        <direitosAutorais>Ana Stela de Negreiros</direitosAutorais>
+        <hashArquivo>1b3aee3892fdf7dde57be12c29b5c94a</hashArquivo>
+      </imagem>
+      <imagem>
+        <identificador>ETSRN-PI22-1736310515592-0</identificador>
+        <nome>Original_TimePhoto_20241008_082553.jpg</nome>
+        <coordinates>
+          <longitude>-43.054173</longitude>
+          <latitude>-9.038182</latitude>
+        </coordinates>
+        <data>2024-10-08</data>
+        <horario>08:25:53</horario>
+        <legenda>Vista Geral do abrigo rochoso</legenda>
+        <autoria>Carlos Rocha</autoria>
+        <tags>
+          <tag>Declividade</tag>
+          <tag>Geral</tag>
+        </tags>
+        <inseridoPor>Carlos Rocha</inseridoPor>
+        <dataInsercao>2025-01-08</dataInsercao>
+        <horaInsercao>01:27</horaInsercao>
+        <fundoArquivistico>Fiscalis</fundoArquivistico>
+        <dimensaoSuporte>image/jpeg, 2133.59 KB, 3264x2448 px</dimensaoSuporte>
+        <historicoArquivistico>qweqweqwe</historicoArquivistico>
+        <ambitoConteudo>qweqweqweqwe</ambitoConteudo>
+        <condicoesAcesso>Público</condicoesAcesso>
+        <condicoesReproducao>Creditar a autoria, projeto ou instituição responsável pela produção.</condicoesReproducao>
+        <motivoRestricao></motivoRestricao>
+        <camera>
+          <modelo>Redmi Note 9S</modelo>
+          <iso>100</iso>
+          <abertura>f/f/1.79</abertura>
+          <distanciaFocal>4.74 mm</distanciaFocal>
+        </camera>
+        <licencaUso>CC-BY-NC-SA</licencaUso>
+        <direitosAutorais>Carlos Rocha</direitosAutorais>
+        <hashArquivo>553a0fc034f3893c0ee4eb8463b283cd</hashArquivo>
+      </imagem>
+      <imagem>
+        <identificador>ETSRN-PI22-1736336759977-0</identificador>
+        <nome>SA_Lagoa_de_Cima_IX(8).jpg</nome>
+        <coordinates>
+          <longitude>-43.053735</longitude>
+          <latitude>-9.038371</latitude>
+        </coordinates>
+        <data>2024-10-08</data>
+        <horario>08:44:02</horario>
+        <legenda>Vista da contenção da escavação arqueológica que permite visualizar os registros rupestre na parte superior acima da escavação</legenda>
+        <autoria>Ana Stella de Negreiros</autoria>
+        <tags>
+          <tag>geométrico</tag>
+          <tag>grafismo puro</tag>
+          <tag>pigmento preto</tag>
+        </tags>
+        <inseridoPor>Carlos Rocha</inseridoPor>
+        <dataInsercao>2025-01-08</dataInsercao>
+        <horaInsercao>08:45</horaInsercao>
+        <fundoArquivistico>Fiscalis</fundoArquivistico>
+        <dimensaoSuporte>image/jpeg, 3024.75 KB, 3000x4000 px</dimensaoSuporte>
+        <historicoArquivistico>Imagem produzida durante as atividades de fiscalizações de sítios arqueológicos peno ETSRN-PI</historicoArquivistico>
+        <ambitoConteudo>Detalhe da contenção da escavação que permite a visualização do registro rupestre de pimento preto.</ambitoConteudo>
+        <condicoesAcesso>Público</condicoesAcesso>
+        <condicoesReproducao>Creditar a autoria, projeto ou instituição responsável pela produção.</condicoesReproducao>
+        <motivoRestricao></motivoRestricao>
+        <camera>
+          <modelo>SM-A346M</modelo>
+          <iso>150</iso>
+          <abertura>f/f/1.8</abertura>
+          <distanciaFocal>4.65 mm</distanciaFocal>
+        </camera>
+        <licencaUso>CC-BY-NC-SA</licencaUso>
+        <direitosAutorais>Ana Stella de Negreiros</direitosAutorais>
+        <hashArquivo>f5f9a7ff95f8aafef0c4632256325426</hashArquivo>
+      </imagem>
+    </imagens>
+  </lagoDeCimaIx>
+</root>
