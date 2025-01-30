@@ -408,5 +408,45 @@
         "hashArquivo": "46529320d138cf7c7a7af6d2be1a30bc"
       }
     ]
+  },
+  "toca dos caboclos": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1738208914261-0",
+        "nome": "TimePhoto_20241126_090623.jpg",
+        "coordinates": [
+          -42.081819,
+          -8.443616
+        ],
+        "data": "2024-11-26",
+        "horario": "09:06:23",
+        "legenda": "qweqwe",
+        "autoria": "qweqwe",
+        "tags": [
+          "qweqwe"
+        ],
+        "inseridoPor": "qweqw",
+        "dataInsercao": "2025-01-30",
+        "horaInsercao": "00:47",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2190.24 KB, 2448x3264 px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "qweqweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "qweqwe",
+        "hashArquivo": "bc83d8c1c63413c064f3d067f864af72"
+      }
+    ]
   }
 }
