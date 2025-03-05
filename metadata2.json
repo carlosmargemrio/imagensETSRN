@@ -448,5 +448,46 @@
         "hashArquivo": "bc83d8c1c63413c064f3d067f864af72"
       }
     ]
+  },
+  "toca do arapua do gongo": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "BR-ETSRN-PI22-1741179343398-0",
+        "nome": "IMG_20250218_110115.jpg",
+        "coordinates": [
+          -42.528025,
+          -8.649428
+        ],
+        "data": "2025-02-18",
+        "horario": "11:01:15",
+        "legenda": "Registro da placa de identificação do Sítio",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Placa de identificação",
+          "marcador"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-03-05",
+        "horaInsercao": "09:52",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2011.59 KB, 3264x1470 px",
+        "historicoArquivistico": "No âmbito do fiscalis embora não tenha sido programada. Trata-se de uma fiscalização eventual",
+        "ambitoConteudo": "Registro da placa de identificação utilizada para garantir que as imagens serão atribuídas ao sítio arqueológico em questão",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 181,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "1.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "12d4531dfbd88de0cc69b472c15c2217"
+      }
+    ]
   }
 }
