@@ -112,6 +112,42 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": "938d55aaf1f760f57c24157eebaf3d34"
+      },
+      {
+        "identificador": "BR-ETSRN-PI22-1742150180181-0",
+        "nome": "SA_Brejo_de_Santo_Inácio(23).jpg",
+        "coordinates": [
+          -41.911636,
+          -7.431736
+        ],
+        "data": "2024-11-27",
+        "horario": "11:18:39",
+        "legenda": "Vista sudeste da da segunda fonte utilizada pelos Jesuítas para higienização corporal (banho)",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "fonte",
+          "Jesuítas",
+          "banho"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-02-20",
+        "horaInsercao": "15:30",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 2642.55 KB, 2448x3264 px",
+        "historicoArquivistico": "Produzida numa visita eventual para atualização de sítios na região de Brejo de Santo Inácio no Piauí",
+        "ambitoConteudo": "Detalhe da segunda fonte utilizada pelos Jesuítas para higienização do corpo (banho)",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "5ead0a83aaa8dfb18ecbf75d8f6803a0"
       }
     ]
   },
