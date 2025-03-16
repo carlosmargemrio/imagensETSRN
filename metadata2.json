@@ -75,6 +75,43 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": "95b70fba50039bdf3ece6a8bf5c50537"
+      },
+      {
+        "identificador": "BR-ETSRN-PI22-1742149725773-0",
+        "nome": "SA_Brejo_de_Santo_Inácio(26).jpg",
+        "coordinates": [
+          -41.911256,
+          -7.432231
+        ],
+        "data": "2024-11-27",
+        "horario": "11:24:20",
+        "legenda": "Terceira fonte utilizadas pelos Jesuítas para higienização de roupas",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fonte",
+          "Jesuítas",
+          "lavanderia",
+          "higienização de roupas"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-03-16",
+        "horaInsercao": "15:26",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2737.18 KB, 2448x3264 px",
+        "historicoArquivistico": "Produzida no âmbito do Fiscalis em 2024 integrada ao acervo em 2025",
+        "ambitoConteudo": "Detalhe do local que fora utilizado, supostamente, pelos Jesuítas em suas necessidades de higienização de roupas.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "938d55aaf1f760f57c24157eebaf3d34"
       }
     ]
   },
