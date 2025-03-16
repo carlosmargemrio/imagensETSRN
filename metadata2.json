@@ -38,6 +38,43 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Carlos Rocha",
         "hashArquivo": "eb11a3dafbf1454043046ab1ad98b668"
+      },
+      {
+        "identificador": "BR-ETSRN-PI22-1742148673337-0",
+        "nome": "SA_Brejo_de_Santo_Inácio(20).jpg",
+        "coordinates": [
+          -41.911566,
+          -7.431683
+        ],
+        "data": "2024-11-27",
+        "horario": "11:12:00",
+        "legenda": "Segunda fonte utilizada pelos Jesuítas para higienização",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Fonte",
+          "Jesuítas",
+          "banho",
+          "higienização"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-02-17",
+        "horaInsercao": "15:06",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2494.13 KB, 3264x2448 px",
+        "historicoArquivistico": "Produzida no âmbito do Fiscalis adicionada ao banco de imagens em fevereiro de 2025",
+        "ambitoConteudo": "Detalhe da segunda fonte dentre as três presentes no sítio arqueológico, essa utilizada para higienização do corpo (banhos)",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Creditar a autoria, projeto ou instituição responsável pela produção.",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.79",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "95b70fba50039bdf3ece6a8bf5c50537"
       }
     ]
   },
