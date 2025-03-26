@@ -75,10 +75,7 @@
     "dataHora": "1/22/2025 17:55:14",
     "email": "emerson.abreu@ufpi.edu.br",
     "nome": "Emerson Brendo Monteiro de Abreu",
-    "telefone": "86998346745",
-    "cpf": "12332132132",
-    "dataHoraCadastro": "26/03/2025 01:31:45",
-    "codigoRegistro": "35hkhkt2s"
+    "telefone": "86998346745"
   },
   {
     "dataHora": "1/22/2025 18:28:18",
@@ -435,6 +432,7 @@
     "nome": "Jussara Ribeiro Lacerda",
     "email": "jussaradelacerda@gmail.com",
     "telefone": "89981326020",
-    "cpf": "01234567891"
+    "cpf": "01234567891",
+    "dataHoraPresenca": "26/03/2025 01:34:17"
   }
 ]
