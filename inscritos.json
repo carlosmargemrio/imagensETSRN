@@ -237,10 +237,7 @@
     "dataHora": "1/27/2025 11:01:23",
     "email": "sandoval.rib.vila@gmail.com",
     "nome": "Sandoval Ribeiro Vilanova",
-    "telefone": "89981008366",
-    "cpf": "61416813365",
-    "dataHoraCadastro": "27/03/2025 09:36:08",
-    "codigoRegistro": "j5mvptex4"
+    "telefone": "89981008366"
   },
   {
     "dataHora": "1/27/2025 11:05:32",
@@ -523,5 +520,14 @@
     "email": "gilberto.ana@discente.univasf.edu.br",
     "telefone": "89981241324",
     "cpf": "04453597575"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:28:55",
+    "codigoRegistro": "3m7hebwe4",
+    "registroSaida": "",
+    "nome": "Giordanno Macedo Lopes Reis",
+    "email": "selvabrancatur@hotmail.com",
+    "telefone": "89981202818",
+    "cpf": "79593666320"
   }
 ]
