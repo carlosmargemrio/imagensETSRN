@@ -519,7 +519,7 @@
     "nome": "GILBERTO SANTANA SILVA",
     "email": "gilberto.ana@discente.univasf.edu.br",
     "telefone": "89981241324",
-    "cpf": "04453597586"
+    "cpf": "04453597575"
   },
   {
     "dataHoraCadastro": "27/03/2025 09:28:55",
@@ -529,5 +529,14 @@
     "email": "selvabrancatur@hotmail.com",
     "telefone": "89981202818",
     "cpf": "79593666320"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:36:48",
+    "codigoRegistro": "ebihgqeyy",
+    "registroSaida": "",
+    "nome": "Erica",
+    "email": "ericabrand666@gmail.com",
+    "telefone": "89981470577",
+    "cpf": "10462926338"
   }
 ]
