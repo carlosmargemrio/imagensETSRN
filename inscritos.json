@@ -427,5 +427,23 @@
     "email": "queilacoqueiro@gmail.com",
     "nome": "Queila Coqueiro de Farias",
     "telefone": "89981217122"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 08:16:28",
+    "codigoRegistro": "16v8qun7x",
+    "registroSaida": "",
+    "nome": "Ricardo Medeiros Coelho de Souza",
+    "email": "ric.medeiros@gmail.com",
+    "telefone": "61981574553",
+    "cpf": "65809017134"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 08:16:30",
+    "codigoRegistro": "v0cqr8gng",
+    "registroSaida": "",
+    "nome": "Ricardo Medeiros Coelho de Souza",
+    "email": "ric.medeiros@gmail.com",
+    "telefone": "61981574553",
+    "cpf": "65809017134"
   }
 ]
