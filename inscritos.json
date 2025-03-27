@@ -519,7 +519,7 @@
     "nome": "GILBERTO SANTANA SILVA",
     "email": "gilberto.ana@discente.univasf.edu.br",
     "telefone": "89981241324",
-    "cpf": "04453597576"
+    "cpf": "04453597575"
   },
   {
     "dataHoraCadastro": "27/03/2025 09:28:55",
@@ -538,5 +538,14 @@
     "email": "mariasouza@srn.uespi.br",
     "telefone": "85996551908",
     "cpf": "70280908334"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:37:40",
+    "codigoRegistro": "uh7w2sim1",
+    "registroSaida": "",
+    "nome": "Falando de tal 2",
+    "email": "carlosmargemrio@gmail.com",
+    "telefone": "74991585981",
+    "cpf": "99999999926"
   }
 ]
