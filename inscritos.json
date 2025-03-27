@@ -372,10 +372,7 @@
     "dataHora": "3/14/2025 12:51:42",
     "email": "grosssandra849@gmail.com",
     "nome": "Sandra Gross Marques da Costa",
-    "telefone": "89981429625",
-    "cpf": "07247841362",
-    "dataHoraCadastro": "27/03/2025 09:41:25",
-    "codigoRegistro": "uewew9s88"
+    "telefone": "89981429625"
   },
   {
     "dataHora": "3/14/2025 13:01:01",
@@ -541,5 +538,32 @@
     "email": "mariasouza@srn.uespi.br",
     "telefone": "85996551908",
     "cpf": "70280908334"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:42:29",
+    "codigoRegistro": "g19dbi5l9",
+    "registroSaida": "",
+    "nome": "Grasiela Sousa de Carvalho",
+    "email": "grasielacarvalho@aluno.uespi.br",
+    "telefone": "89994317227",
+    "cpf": "07234640142"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:42:31",
+    "codigoRegistro": "zdf84t2iq",
+    "registroSaida": "",
+    "nome": "Grasiela Sousa de Carvalho",
+    "email": "grasielacarvalho@aluno.uespi.br",
+    "telefone": "89994317227",
+    "cpf": "07234640142"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:42:41",
+    "codigoRegistro": "syqfuj1w8",
+    "registroSaida": "",
+    "nome": "Grasiela Sousa de Carvalho",
+    "email": "grasielacarvalho@aluno.uespi.br",
+    "telefone": "89994317227",
+    "cpf": "07234640142"
   }
 ]
