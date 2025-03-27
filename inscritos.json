@@ -231,10 +231,7 @@
     "dataHora": "1/27/2025 10:55:30",
     "email": "cleidileiacastro2@gmail.com",
     "nome": "Cleidiléia de Castro Braga",
-    "telefone": "89981144194",
-    "cpf": "04401537351",
-    "dataHoraCadastro": "27/03/2025 09:21:51",
-    "codigoRegistro": "8cxn59pis"
+    "telefone": "89981144194"
   },
   {
     "dataHora": "1/27/2025 11:01:23",
@@ -514,5 +511,14 @@
     "email": "dianamb.barbosa@gmail.com",
     "telefone": "86999701564",
     "cpf": "00555148394"
+  },
+  {
+    "dataHoraCadastro": "27/03/2025 09:23:08",
+    "codigoRegistro": "04knd54ez",
+    "registroSaida": "",
+    "nome": "GILBERTO SANTANA SILVA",
+    "email": "gilberto.ana@discente.univasf.edu.br",
+    "telefone": "89981241324",
+    "cpf": "04453597575"
   }
 ]
