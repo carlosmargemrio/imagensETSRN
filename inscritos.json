@@ -372,7 +372,10 @@
     "dataHora": "3/14/2025 12:51:42",
     "email": "grosssandra849@gmail.com",
     "nome": "Sandra Gross Marques da Costa",
-    "telefone": "89981429625"
+    "telefone": "89981429625",
+    "cpf": "07247841362",
+    "dataHoraCadastro": "27/03/2025 09:41:25",
+    "codigoRegistro": "uewew9s88"
   },
   {
     "dataHora": "3/14/2025 13:01:01",
@@ -538,41 +541,5 @@
     "email": "mariasouza@srn.uespi.br",
     "telefone": "85996551908",
     "cpf": "70280908334"
-  },
-  {
-    "dataHoraCadastro": "27/03/2025 09:40:31",
-    "codigoRegistro": "i7uizqoyy",
-    "registroSaida": "",
-    "nome": "Lavinha Feitosa Santos",
-    "email": "gringuinha0708@gmail.com",
-    "telefone": "89981127736",
-    "cpf": "06958609336"
-  },
-  {
-    "dataHoraCadastro": "27/03/2025 09:40:33",
-    "codigoRegistro": "put0gne7v",
-    "registroSaida": "",
-    "nome": "Lavinha Feitosa Santos",
-    "email": "gringuinha0708@gmail.com",
-    "telefone": "89981127736",
-    "cpf": "06958609336"
-  },
-  {
-    "dataHoraCadastro": "27/03/2025 09:40:34",
-    "codigoRegistro": "49470uvsx",
-    "registroSaida": "",
-    "nome": "Lavinha Feitosa Santos",
-    "email": "gringuinha0708@gmail.com",
-    "telefone": "89981127736",
-    "cpf": "06958609336"
-  },
-  {
-    "dataHoraCadastro": "27/03/2025 09:40:36",
-    "codigoRegistro": "57hgyv8e7",
-    "registroSaida": "",
-    "nome": "Lavinha Feitosa Santos",
-    "email": "gringuinha0708@gmail.com",
-    "telefone": "89981127736",
-    "cpf": "06958609336"
   }
 ]
