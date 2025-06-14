@@ -564,5 +564,43 @@
         "hashArquivo": "12d4531dfbd88de0cc69b472c15c2217"
       }
     ]
+  },
+  "lagoa de cima": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1749859198639-0",
+        "nome": "SA_Lagoa_de_Cima_IX(8).jpg",
+        "coordinates": [
+          -43.053735,
+          -9.038371
+        ],
+        "data": "2024-10-08",
+        "horario": "08:44:02",
+        "legenda": "teste 33",
+        "autoria": "Ana Stela de Negreiros Oliveira",
+        "tags": [
+          "cor preta",
+          "pintura",
+          "geométrico"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 3024.75 KB, 3000x4000 px",
+        "historico": "bbbbb",
+        "ambito": "aaaaaa",
+        "condicoesAcesso": "Público",
+        "condicoesRepro": "Fiscalis do Ipahn",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 150,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA"
+      }
+    ]
   }
 }
