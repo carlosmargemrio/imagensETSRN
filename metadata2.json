@@ -638,6 +638,41 @@
           "distancia_focal": "4.65 mm"
         },
         "licencaUso": "CC-BY-NC-SA"
+      },
+      {
+        "identificador": "ETSRN-1750014935910-0",
+        "nome": "SA_Lagoa_de_Cima_IX(12).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": "n/a",
+        "data": "2024-10-08",
+        "horario": "09:27:57",
+        "legenda": "Registro rupestre presente no abrigo do sítio arqueológico Toca da Lagoa de Cima IX",
+        "autoria": "Carlos Rocha",
+        "direitosAutorais": "Carlos Rocha",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-15",
+        "horaInsercao": "16:12",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1775.5 KB, 6000x4000px",
+        "historicoArquivistico": "Estou considerando esse campo, mas por motivos do quantitativa dos arquivos...",
+        "ambitoConteudo": "Estou considerando esse campo, mas por motivos do quantitativa dos arquivos...",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Produzido no âmbito da fiscalização Fiscalis",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 200,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "51 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8e68a69696cd2bc22011c58dd128a67d"
       }
     ]
   },
