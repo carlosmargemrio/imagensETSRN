@@ -640,5 +640,47 @@
         "licencaUso": "CC-BY-NC-SA"
       }
     ]
+  },
+  "sobrado da conceicao": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750011332512-0",
+        "nome": "Original_TimePhoto_20241008_120620.jpg",
+        "sitio": "Sobrado da Conceição",
+        "co_iphan": "PI2201929BAST00008",
+        "coordinates": [
+          -42.908487,
+          -9.168598
+        ],
+        "data": "2024-10-08",
+        "horario": "12:06:20",
+        "legenda": "Vista parcial de um setor do sítio histórico Sobrado da Conceição em Bonfim do Piauí",
+        "autoria": "Ana Stela de Negreiros",
+        "tags": [
+          "Parcial"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-15",
+        "horaInsercao": "15:12",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 6406.3 KB, 3000x4000px",
+        "historicoArquivistico": "Estou considerando esse campo",
+        "ambitoConteudo": "Estou considerando esse campo",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Produzida no âmbito do Fiscalis",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 45,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Ana Stela de Negreiros",
+        "hashArquivo": "1808b0259522aa27bb69d29b77546ad9"
+      }
+    ]
   }
 }
