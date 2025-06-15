@@ -673,6 +673,82 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "8e68a69696cd2bc22011c58dd128a67d"
+      },
+      {
+        "identificador": "ETSRN-1750015878788-0",
+        "nome": "SA_Lagoa_de_Cima_IX(12).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.054,
+          -9.0382
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-10-08",
+        "horario": "09:27:57",
+        "legenda": "321",
+        "autoria": "ca",
+        "direitosAutorais": "ca",
+        "tags": [
+          "geo"
+        ],
+        "inseridoPor": "ca",
+        "dataInsercao": "2025-06-15",
+        "horaInsercao": "16:28",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1775.5 KB, 6000x4000px",
+        "historicoArquivistico": "asda",
+        "ambitoConteudo": "asdas",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "não",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 200,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "51 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8e68a69696cd2bc22011c58dd128a67d"
+      },
+      {
+        "identificador": "ETSRN-1750015928212-1",
+        "nome": "SA_Lagoa_de_Cima_IX(13).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.054,
+          -9.0382
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-10-08",
+        "horario": "09:37:29",
+        "legenda": "asd",
+        "autoria": "asd",
+        "direitosAutorais": "asd",
+        "tags": [
+          "asd"
+        ],
+        "inseridoPor": "asd",
+        "dataInsercao": "2025-06-15",
+        "horaInsercao": "16:31",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2480.4 KB, 5883x3894px",
+        "historicoArquivistico": "asd",
+        "ambitoConteudo": "asd",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "não",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 1600,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "22 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "92e0b34187d613ddc4b4daf452e890f3"
       }
     ]
   },
