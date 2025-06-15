@@ -680,6 +680,44 @@
         "licencaUso": "CC-BY-NC-SA",
         "direitosAutorais": "Ana Stela de Negreiros",
         "hashArquivo": "1808b0259522aa27bb69d29b77546ad9"
+      },
+      {
+        "identificador": "ETSRN-1750012157503-0",
+        "nome": "TimePhoto_20241008_122727.jpg",
+        "sitio": "Sobrado da Conceição",
+        "co_iphan": "PI2201929BAST00008",
+        "coordinates": [
+          -42.908635,
+          -9.169172
+        ],
+        "data": "2024-10-08",
+        "horario": "12:27:27",
+        "legenda": "Vestígio de unidade de escavação, pesquisa analisada em 2014 e 2015 no sítio histórico Sobrado da Conceição em Bonfim do Piauí",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Intervenção",
+          "Escavação",
+          "Pesquisa"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-15",
+        "horaInsercao": "15:25",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 6436.4 KB, 3000x4000px",
+        "historicoArquivistico": "Estou considerando esse campo, mas por motivos do quantitativa dos arquivos...",
+        "ambitoConteudo": "Estou considerando esse campo, mas por motivos do quantitativa dos arquivos...",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Produzida no âmbito do Fiscalis",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 46,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "direitosAutorais": "Carlos Rocha",
+        "hashArquivo": "c7d62c53f02d5ed54d3cb06aa07188a3"
       }
     ]
   }
