@@ -222,5 +222,50 @@
         "hashArquivo": "0511f574cad5ba99d2d0d65ac55db8f5"
       }
     ]
+  },
+  "prato toca do": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750099404146-0",
+        "nomeArquivo": "SA_Toca_do_Prato(6).JPG",
+        "sitio": "Prato ( Toca do )",
+        "co_iphan": "PI2210607BAST00030",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7281,
+          -8.8856
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "14:43:23",
+        "legenda": "Placa informativa do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "placa",
+          "informação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "15:35",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 598.2 KB, 1280x960px",
+        "historicoArquivistico": "Produzida no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de informação para o acesso ao sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d63554f913b8d0c6b9054ae0ce74fff2"
+      }
+    ]
   }
 }
