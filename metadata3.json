@@ -1,4 +1,48 @@
 {
+  "123": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750115211792-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(2).jpg",
+        "sitio": "123",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": [
+          -43.054088,
+          -9.038247
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:22:47",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "20:06",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4331.5 KB, 3000x4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 45,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1b3aee3892fdf7dde57be12c29b5c94a"
+      }
+    ]
+  },
   "lagoa de cima ix toca da": {
     "nivelDescricao": "Série",
     "fundo": "Fiscalis",
