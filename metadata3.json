@@ -132,5 +132,50 @@
         "hashArquivo": "d07a19337c52a41f62feef34a0f73fd0"
       }
     ]
+  },
+  "serrote do antero toca do": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750098148294-0",
+        "nomeArquivo": "SA__Toca_do_Serrote_do_Antero(1).JPG",
+        "sitio": "Serrote do Antero (Toca do)",
+        "co_iphan": "PI2202851BAST00087",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.4232,
+          -8.8049
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "09:20:19",
+        "legenda": "Placa  informativa do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "informação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "15:15",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 600.5 KB, 1280x960px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de informação para o acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "99e726e3fd42bcad941e5ca7168aefbb"
+      }
+    ]
   }
 }
