@@ -312,5 +312,50 @@
         "hashArquivo": "59f09684fcc8cda2a86e46df0ccef359"
       }
     ]
+  },
+  "toca do povo da extrema i": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750100488171-0",
+        "nomeArquivo": "SA_TOCA_DO-POVO_DA_EXTERMA_I(1).jpg",
+        "sitio": "Toca do Povo da Extrema I",
+        "co_iphan": "PI2205359BAST00125",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.7073,
+          -8.6176
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "23:20:33",
+        "legenda": "Placa de Direção do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "direção"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "15:53",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2029.5 KB, 2592x1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata a placa  de direcionamento para acessar o sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b9acb4cf113b8fe07c525b1033ccea79"
+      }
+    ]
   }
 }
