@@ -155,6 +155,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "923689253594d2fba6ada51c7572708c"
+      },
+      {
+        "identificador": "ETSRN-1750033067863-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(1).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.05381,
+          -9.037997
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:20:26",
+        "legenda": "qeqweqwe",
+        "autoria": "qweqwe",
+        "direitosAutorais": "qweqwe",
+        "tags": [
+          "qweqwe"
+        ],
+        "inseridoPor": "qweqwe",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "21:16",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 5930.7 KB, 3000x4000px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "qweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qweqweqwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 44,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b40f4a4abbdf3528ae10e168d5a7a9da"
       }
     ]
   }
