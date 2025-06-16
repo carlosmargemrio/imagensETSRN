@@ -87,5 +87,50 @@
         "hashArquivo": "686d374799ac9ebdf21f8612324b9f23"
       }
     ]
+  },
+  "cera toca da": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750096660512-0",
+        "nomeArquivo": "SA_TOCA_DA_CERA(1).jpg",
+        "sitio": "Cera ( Toca da )",
+        "co_iphan": "PI2201988BAST00042",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7316,
+          -8.6214
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "21:43:14",
+        "legenda": "placa de direção do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "placa",
+          "direção"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "14:43",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1909.8 KB, 2592x1944px",
+        "historicoArquivistico": "Produzida no âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de direcionamento para acessar o sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d07a19337c52a41f62feef34a0f73fd0"
+      }
+    ]
   }
 }
