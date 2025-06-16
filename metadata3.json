@@ -402,5 +402,89 @@
         "hashArquivo": "2e12931143c693b952617215657741a1"
       }
     ]
+  },
+  "toca da embauba": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750102625719-0",
+        "nomeArquivo": "SA_Toca_da_Embaúba(1).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:51:36",
+        "legenda": "Placa de direção do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "direção"
+        ],
+        "inseridoPor": "Eliane Aragão  de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "16:32",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 8249.3 KB, 6000x4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de direcionamento para acessar o sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6e504d11551b9bf79c925589a6ecb1d4"
+      },
+      {
+        "identificador": "ETSRN-1750102648271-0",
+        "nomeArquivo": "SA_Toca_da_Embaúba(1).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:51:36",
+        "legenda": "Placa de direção do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "direção"
+        ],
+        "inseridoPor": "Eliane Aragão  de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "16:32",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 8249.3 KB, 6000x4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de direcionamento para acessar o sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6e504d11551b9bf79c925589a6ecb1d4"
+      }
+    ]
   }
 }
