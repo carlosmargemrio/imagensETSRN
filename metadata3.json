@@ -177,5 +177,50 @@
         "hashArquivo": "99e726e3fd42bcad941e5ca7168aefbb"
       }
     ]
+  },
+  "toca do serrote das moendas": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750098895883-0",
+        "nomeArquivo": "SA_Toca_do_Serrote_das_Moendas(1).JPG",
+        "sitio": "Toca do Serrote das Moendas",
+        "co_iphan": "PI2202851BAST00009",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.4137,
+          -8.816
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "08:21:57",
+        "legenda": "Placa informativa do Sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "informação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "15:24",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 595.2 KB, 1280x960px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma informação para o acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0511f574cad5ba99d2d0d65ac55db8f5"
+      }
+    ]
   }
 }
