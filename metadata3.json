@@ -5,7 +5,7 @@
     "imagens": [
       {
         "identificador": "ETSRN-1750017282456-0",
-        "nome": "SA_Lagoa_de_Cima_IX(6).jpg",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(6).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
         "municipio": "São Braz do Piauí",
@@ -43,7 +43,7 @@
       },
       {
         "identificador": "ETSRN-1750017317727-1",
-        "nome": "SA_Lagoa_de_Cima_IX(12).jpg",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(12).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
         "municipio": "São Braz do Piauí",
@@ -81,7 +81,7 @@
       },
       {
         "identificador": "ETSRN-1750018537740-0",
-        "nome": "SA_Lagoa_de_Cima_IX(10).jpg",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(10).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
         "municipio": "São Braz do Piauí",
@@ -120,7 +120,7 @@
       },
       {
         "identificador": "ETSRN-1750030334966-0",
-        "nome": "SA_Lagoa_de_Cima_IX(6).jpg",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(6).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
         "municipio": "São Braz do Piauí",
@@ -158,7 +158,7 @@
       },
       {
         "identificador": "ETSRN-1750033067863-0",
-        "nomeArquivo": "SA_Lagoa_de_Cima_IX(1).jpg",
+        "nomeArquivoArquivo": "SA_Lagoa_de_Cima_IX(1).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
         "municipio": "São Braz do Piauí",
