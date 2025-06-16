@@ -43,5 +43,49 @@
         "hashArquivo": "b40f4a4abbdf3528ae10e168d5a7a9da"
       }
     ]
+  },
+  "sobrado da conceicao": {
+    "nivelDescricao": "Série",
+    "fundo": "outra",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750095431512-0",
+        "nomeArquivo": "SA_SOBRADO_DA_CONCEIÇÃO (1).JPG",
+        "sitio": "Sobrado da Conceição",
+        "co_iphan": "PI2201929BAST00008",
+        "municipio": "Bonfim do Piauí",
+        "coordinates": [
+          -42.9092,
+          -9.1687
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-01-10",
+        "horario": "02:56:05",
+        "legenda": "Vista geral do sítio",
+        "autoria": "FUMDHAM",
+        "direitosAutorais": "FUMDHAM",
+        "tags": [
+          "Vista geral"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "14:19",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 2285.1 KB, 3872x2592px",
+        "historicoArquivistico": "Enviado através de documentos e relatoria no processo SEI nº.  01402.0003347/2014-04",
+        "ambitoConteudo": "Imagem retrata a vista geral do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar autoria da imagem e Iphan",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "NIKON D80",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "686d374799ac9ebdf21f8612324b9f23"
+      }
+    ]
   }
 }
