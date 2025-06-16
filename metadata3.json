@@ -357,5 +357,50 @@
         "hashArquivo": "b9acb4cf113b8fe07c525b1033ccea79"
       }
     ]
+  },
+  "passagem toca da": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750101252809-0",
+        "nomeArquivo": "SA_TOCA_DA_PASSAGEM(1).jpg",
+        "sitio": "Passagem ( Toca da )",
+        "co_iphan": "PI2201988BAST00063",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7241,
+          -8.5878
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "23:11:25",
+        "legenda": "Placa de direção do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "direção"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-16",
+        "horaInsercao": "16:06",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2217.5 KB, 2592x1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma Placa de direcionamento para acessar o sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2e12931143c693b952617215657741a1"
+      }
+    ]
   }
 }
