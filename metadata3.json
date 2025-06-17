@@ -685,5 +685,50 @@
         "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
       }
     ]
+  },
+  "sambaqui da passagem": {
+    "nivelDescricao": "Série",
+    "fundo": "outra",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750185938052-0",
+        "nomeArquivo": "SA_TOCA_DA_PASSAGEM(17).jpg",
+        "sitio": "Sambaqui da Passagem",
+        "co_iphan": "PI2202083BAST00013",
+        "municipio": "Cajueiro da Praia",
+        "coordinates": [
+          -41.4445,
+          -2.9121
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "23:13:39",
+        "legenda": "Detalhe ilustrativo rupestre do sitio Toca da Passagem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Ilustração",
+          "Rupestre"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "15:37",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 2263.8 KB, 2592x1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata ilustração rupestre do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ad5d3beb9926f569fc6ed70d9c1a1fdb"
+      }
+    ]
   }
 }
