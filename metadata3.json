@@ -562,5 +562,128 @@
         "hashArquivo": "265db7f1095989b52b096da8d84f58a7"
       }
     ]
+  },
+  "julio ii toca do": {
+    "nivelDescricao": "Série",
+    "fundo": "outra",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750183655290-0",
+        "nomeArquivo": "SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
+        "sitio": "Julio II ( Toca do )",
+        "co_iphan": "PI2205359BAST00020",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.6403,
+          -8.4972
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2019-08-25",
+        "horario": "12:03:51",
+        "legenda": "Detalhe Ilustrativo do sítio Toca do Júlio II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Detalhe",
+          "Ilustrativo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "14:38",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 3588.8 KB, 4160x3120px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata detalhe ilustrativo  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
+      },
+      {
+        "identificador": "ETSRN-1750183668769-0",
+        "nomeArquivo": "SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
+        "sitio": "Julio II ( Toca do )",
+        "co_iphan": "PI2205359BAST00020",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.6403,
+          -8.4972
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2019-08-25",
+        "horario": "12:03:51",
+        "legenda": "Detalhe Ilustrativo do sítio Toca do Júlio II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Detalhe",
+          "Ilustrativo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "14:38",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 3588.8 KB, 4160x3120px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata detalhe ilustrativo  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
+      },
+      {
+        "identificador": "ETSRN-1750183694425-0",
+        "nomeArquivo": "SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
+        "sitio": "Julio II ( Toca do )",
+        "co_iphan": "PI2205359BAST00020",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.6403,
+          -8.4972
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2019-08-25",
+        "horario": "12:03:51",
+        "legenda": "Detalhe Ilustrativo do sítio Toca do Júlio II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Detalhe",
+          "Ilustrativo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "14:38",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 3588.8 KB, 4160x3120px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata detalhe ilustrativo  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
+      }
+    ]
   }
 }
