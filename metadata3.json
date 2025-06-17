@@ -175,6 +175,84 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0511f574cad5ba99d2d0d65ac55db8f5"
+      },
+      {
+        "identificador": "ETSRN-1750169285310-5",
+        "nomeArquivo": "SA_Toca_do_Serrote_das_Moendas(7).JPG",
+        "sitio": "Toca do Serrote das Moendas",
+        "co_iphan": "PI2202851BAST00009",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.4137,
+          -8.816
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "08:58:19",
+        "legenda": "Detalhe de instalação de sítio Toca do Serrote das Moendas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Detalhe",
+          "instalação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "10:55",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 598.8 KB, 1280x960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata detalhe de instalação do sítio pelo Iphan",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "51e7034e400c1f4f2721f56f48b5726d"
+      },
+      {
+        "identificador": "ETSRN-1750169308999-5",
+        "nomeArquivo": "SA_Toca_do_Serrote_das_Moendas(7).JPG",
+        "sitio": "Toca do Serrote das Moendas",
+        "co_iphan": "PI2202851BAST00009",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.4137,
+          -8.816
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "08:58:19",
+        "legenda": "Detalhe de instalação de sítio Toca do Serrote das Moendas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Detalhe",
+          "instalação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "10:55",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 598.8 KB, 1280x960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata detalhe de instalação do sítio pelo Iphan",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "51e7034e400c1f4f2721f56f48b5726d"
       }
     ]
   },
