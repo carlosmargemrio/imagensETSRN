@@ -433,6 +433,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2e12931143c693b952617215657741a1"
+      },
+      {
+        "identificador": "ETSRN-1750188208125-0",
+        "nomeArquivo": "SA_TOCA_DA_PASSAGEM(75).jpg",
+        "sitio": "Passagem ( Toca da )",
+        "co_iphan": "PI2201988BAST00063",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7241,
+          -8.5878
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "23:51:09",
+        "legenda": "Detalhe ilustrativo da Fauna do sítio Toca da Passagem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Ilustração",
+          "Fauna"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "16:16",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 2170.4 KB, 2592x1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata detalhe da ilustração da fauna do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ac8dc5fb68360aa0c4150b06e17992e0"
       }
     ]
   },
