@@ -521,5 +521,46 @@
         "hashArquivo": "1b3aee3892fdf7dde57be12c29b5c94a"
       }
     ]
+  },
+  "toca do veredao iv do macabeu i": {
+    "nivelDescricao": "Série",
+    "fundo": "outra",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750181252759-0",
+        "nomeArquivo": "SA_Sítio_Toca_do_Macabeu_I(1).JPG",
+        "sitio": "Toca do Veredão IV do Macabeu I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "22:57:27",
+        "legenda": "Placa de sítio Arqueológico Toca do Veredão IV do Macabeu I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "14:15",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 1288.6 KB, 2304x3072px",
+        "historicoArquivistico": "Fiscalizado pelo Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de informação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/3.2",
+          "distancia_focal": "10.6 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "265db7f1095989b52b096da8d84f58a7"
+      }
+    ]
   }
 }
