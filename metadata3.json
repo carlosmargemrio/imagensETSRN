@@ -812,6 +812,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "696f721a5bf125b53c7cc4db42aece99"
+      },
+      {
+        "identificador": "ETSRN-1750250523112-0",
+        "nomeArquivo": "SA_TOCA_DO_MORCEGO(6).jpg",
+        "sitio": "Toca do Morcego",
+        "co_iphan": "PI2207900BAST00013",
+        "municipio": "Pedro Ii",
+        "coordinates": [
+          -41.4507,
+          -4.4987
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-19",
+        "horario": "01:20:04",
+        "legenda": "Placa de identificação do sítio Toca do Morcego",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "identifivação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-18",
+        "horaInsercao": "09:29",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 1897.9 KB, 2592x1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6627c0fd1356e5fa0e4ad95b7cfea55c"
       }
     ]
   }
