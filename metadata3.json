@@ -1,850 +1,850 @@
 {
-  "sobrado da conceicao": {
-    "nivelDescricao": "Série",
-    "fundo": "outra",
-    "imagens": [
+   "sobrado da conceicao":{
+      "nivelDescricao":"Série",
+      "fundo":"outra",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750095431512-0",
+            "nomeArquivo":"SA_SOBRADO_DA_CONCEIÇÃO (1).JPG",
+            "sitio":"Sobrado da Conceição",
+            "co_iphan":"PI2201929BAST00008",
+            "municipio":"Bonfim do Piauí",
+            "coordinates":[
+               -42.9092,
+               -9.1687
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2006-01-10",
+            "horario":"02:56:05",
+            "legenda":"Vista geral do sítio histórico Sobrado da Conceição",
+            "autoria":"FUMDHAM",
+            "direitosAutorais":"FUMDHAM",
+            "tags":[
+               "Vista geral"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"14:19",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 2285.1 KB, 3872x2592px",
+            "historicoArquivistico":"Enviado através de documentos e relatoria no processo SEI nº.  01402.0003347/2014-04",
+            "ambitoConteudo":"Imagem retrata a vista geral do sítio histórico Sobrado da Conceição",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"Informar autoria da imagem e Iphan",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"NIKON D80",
+               "iso":100,
+               "abertura":"f/f/6.3",
+               "distancia_focal":"18 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"686d374799ac9ebdf21f8612324b9f23"
+         }
+      ]
+   },
+   "cera toca da":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750096660512-0",
+            "nomeArquivo":"SA_TOCA_DA_CERA(1).jpg",
+            "sitio":"Cera ( Toca da )",
+            "co_iphan":"PI2201988BAST00042",
+            "municipio":"Brejo do Piauí",
+            "coordinates":[
+               -42.7316,
+               -8.6214
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2013-10-18",
+            "horario":"21:43:14",
+            "legenda":"placa de direção do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "placa",
+               "direção"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"14:43",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 1909.8 KB, 2592x1944px",
+            "historicoArquivistico":"Produzida no âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma placa de direcionamento para acessar o sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"DSC-H10",
+               "iso":125,
+               "abertura":"f/f/3.5",
+               "distancia_focal":"6.3 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"d07a19337c52a41f62feef34a0f73fd0"
+         }
+      ]
+   },
+   "serrote do antero toca do":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750098148294-0",
+            "nomeArquivo":"SA__Toca_do_Serrote_do_Antero(1).JPG",
+            "sitio":"Serrote do Antero (Toca do)",
+            "co_iphan":"PI2202851BAST00087",
+            "municipio":"Coronel José Dias",
+            "coordinates":[
+               -42.4232,
+               -8.8049
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2005-11-24",
+            "horario":"09:20:19",
+            "legenda":"Placa  informativa do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa",
+               "informação"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"15:15",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 600.5 KB, 1280x960px",
+            "historicoArquivistico":"Produzido no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma placa de informação para o acesso do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"CYBERSHOT",
+               "iso":100,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"9.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"99e726e3fd42bcad941e5ca7168aefbb"
+         }
+      ]
+   },
+   "toca do serrote das moendas":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750098895883-0",
+            "nomeArquivo":"SA_Toca_do_Serrote_das_Moendas(1).JPG",
+            "sitio":"Toca do Serrote das Moendas",
+            "co_iphan":"PI2202851BAST00009",
+            "municipio":"Coronel José Dias",
+            "coordinates":[
+               -42.4137,
+               -8.816
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2005-11-24",
+            "horario":"08:21:57",
+            "legenda":"Placa informativa do Sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa",
+               "informação"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"15:24",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 595.2 KB, 1280x960px",
+            "historicoArquivistico":"Produzido no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma informação para o acesso do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"CYBERSHOT",
+               "iso":100,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"9.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"0511f574cad5ba99d2d0d65ac55db8f5"
+         },
+         {
+            "identificador":"ETSRN-1750169285310-5",
+            "nomeArquivo":"SA_Toca_do_Serrote_das_Moendas(7).JPG",
+            "sitio":"Toca do Serrote das Moendas",
+            "co_iphan":"PI2202851BAST00009",
+            "municipio":"Coronel José Dias",
+            "coordinates":[
+               -42.4137,
+               -8.816
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2005-11-24",
+            "horario":"08:58:19",
+            "legenda":"Detalhe de instalação de sítio Toca do Serrote das Moendas",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Detalhe",
+               "instalação"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"10:55",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 598.8 KB, 1280x960px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata detalhe de instalação do sítio pelo Iphan",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"CYBERSHOT",
+               "iso":100,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"9.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"51e7034e400c1f4f2721f56f48b5726d"
+         },
+         {
+            "identificador":"ETSRN-1750169308999-5",
+            "nomeArquivo":"SA_Toca_do_Serrote_das_Moendas(7).JPG",
+            "sitio":"Toca do Serrote das Moendas",
+            "co_iphan":"PI2202851BAST00009",
+            "municipio":"Coronel José Dias",
+            "coordinates":[
+               -42.4137,
+               -8.816
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2005-11-24",
+            "horario":"08:58:19",
+            "legenda":"Detalhe de instalação de sítio Toca do Serrote das Moendas",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Detalhe",
+               "instalação"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"10:55",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 598.8 KB, 1280x960px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata detalhe de instalação do sítio pelo Iphan",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"CYBERSHOT",
+               "iso":100,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"9.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"51e7034e400c1f4f2721f56f48b5726d"
+         }
+      ]
+   },
+   "prato toca do":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750099404146-0",
+            "nomeArquivo":"SA_Toca_do_Prato(6).JPG",
+            "sitio":"Prato ( Toca do )",
+            "co_iphan":"PI2210607BAST00030",
+            "municipio":"São Raimundo Nonato",
+            "coordinates":[
+               -42.7281,
+               -8.8856
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2005-11-24",
+            "horario":"14:43:23",
+            "legenda":"Placa informativa do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "placa",
+               "informação"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"15:35",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 598.2 KB, 1280x960px",
+            "historicoArquivistico":"Produzida no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma placa de informação para o acesso ao sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"CYBERSHOT",
+               "iso":100,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"9.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"d63554f913b8d0c6b9054ae0ce74fff2"
+         }
+      ]
+   },
+   "toca do povo da extrema ii":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750099885491-0",
+            "nomeArquivo":"SA_DO_POVO_DA_EXTRMA_2013_II(25).jpg",
+            "sitio":"Toca do Povo da Extrema II",
+            "co_iphan":"PI2205359BAST00129",
+            "municipio":"João Costa",
+            "coordinates":[
+               -42.7074,
+               -8.6177
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2013-10-09",
+            "horario":"23:13:46",
+            "legenda":"Placa de direção do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa",
+               "direção"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"15:44",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 2208.7 KB, 2592x1944px",
+            "historicoArquivistico":"Produzido no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma placa de direcionamento para acessar o sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"DSC-H10",
+               "iso":125,
+               "abertura":"f/f/4.0",
+               "distancia_focal":"13.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"59f09684fcc8cda2a86e46df0ccef359"
+         }
+      ]
+   },
+   "toca do povo da extrema i":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750100488171-0",
+            "nomeArquivo":"SA_TOCA_DO-POVO_DA_EXTERMA_I(1).jpg",
+            "sitio":"Toca do Povo da Extrema I",
+            "co_iphan":"PI2205359BAST00125",
+            "municipio":"João Costa",
+            "coordinates":[
+               -42.7073,
+               -8.6176
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2013-10-09",
+            "horario":"23:20:33",
+            "legenda":"Placa de Direção do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa",
+               "direção"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"15:53",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 2029.5 KB, 2592x1944px",
+            "historicoArquivistico":"Produzido no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata a placa  de direcionamento para acessar o sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"DSC-H10",
+               "iso":125,
+               "abertura":"f/f/8.0",
+               "distancia_focal":"6.3 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"b9acb4cf113b8fe07c525b1033ccea79"
+         }
+      ]
+   },
+   "passagem toca da":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750185938052-0",
+            "sitio":"Passagem ( Toca da )",
+            "co_iphan":"PI2201988BAST00063",
+            "municipio":"Brejo do Piauí",
+            "coordinates":[
+               -42.7241,
+               -8.5878
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2013-10-18",
+            "horario":"23:13:39",
+            "legenda":"Detalhe ilustrativo rupestre do sitio Toca da Passagem",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Ilustração",
+               "Rupestre"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"15:37",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 2263.8 KB, 2592x1944px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata ilustração rupestre do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"DSC-H10",
+               "iso":125,
+               "abertura":"f/f/4.0",
+               "distancia_focal":"9.8 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"ad5d3beb9926f569fc6ed70d9c1a1fdb"
+         },
+         {
+            "identificador":"ETSRN-1750101252809-0",
+            "nomeArquivo":"SA_TOCA_DA_PASSAGEM(1).jpg",
+            "sitio":"Passagem ( Toca da )",
+            "co_iphan":"PI2201988BAST00063",
+            "municipio":"Brejo do Piauí",
+            "coordinates":[
+               -42.7241,
+               -8.5878
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2013-10-18",
+            "horario":"23:11:25",
+            "legenda":"Placa de direção do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa",
+               "direção"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"16:06",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 2217.5 KB, 2592x1944px",
+            "historicoArquivistico":"Produzido no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma Placa de direcionamento para acessar o sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"DSC-H10",
+               "iso":125,
+               "abertura":"f/f/3.5",
+               "distancia_focal":"6.3 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"2e12931143c693b952617215657741a1"
+         },
+         {
+            "identificador":"ETSRN-1750188208125-0",
+            "nomeArquivo":"SA_TOCA_DA_PASSAGEM(75).jpg",
+            "sitio":"Passagem ( Toca da )",
+            "co_iphan":"PI2201988BAST00063",
+            "municipio":"Brejo do Piauí",
+            "coordinates":[
+               -42.7241,
+               -8.5878
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2013-10-18",
+            "horario":"23:51:09",
+            "legenda":"Detalhe ilustrativo da Fauna do sítio Toca da Passagem",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Ilustração",
+               "Fauna"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"16:16",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 2170.4 KB, 2592x1944px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata detalhe da ilustração da fauna do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"DSC-H10",
+               "iso":125,
+               "abertura":"f/f/8.0",
+               "distancia_focal":"6.3 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"ac8dc5fb68360aa0c4150b06e17992e0"
+         }
+      ]
+   },
+   "toca da embauba":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750102648271-0",
+            "nomeArquivo":"SA_Toca_da_Embaúba(1).JPG",
+            "sitio":"Toca da Embauba",
+            "co_iphan":"PI2201988BAST00152",
+            "municipio":"Brejo do Piauí",
+            "coordinates":[
+               -42.693,
+               -8.5731
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2024-06-28",
+            "horario":"11:51:36",
+            "legenda":"Placa de direção do sítio",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa",
+               "direção"
+            ],
+            "inseridoPor":"Eliane Aragão  de Souza",
+            "dataInsercao":"2025-06-16",
+            "horaInsercao":"16:32",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 8249.3 KB, 6000x4000px",
+            "historicoArquivistico":"Produzido no Âmbito do Fiscalis",
+            "ambitoConteudo":"A imagem retrata uma placa de direcionamento para acessar o sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"Canon EOS Rebel T7",
+               "iso":125,
+               "abertura":"f/f/4.5",
+               "distancia_focal":"34 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"6e504d11551b9bf79c925589a6ecb1d4"
+         }
+      ]
+   },
+   "lagoa de cima ix toca da":{
+      "nivelDescricao":"Série",
+      "fundo":"Fiscalis",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750166004998-0",
+            "nomeArquivo":"SA_Lagoa_de_Cima_IX(2).jpg",
+            "sitio":"Lagoa de Cima IX ( Toca da )",
+            "co_iphan":"PI2209559BAST00015",
+            "municipio":"São Braz do Piauí",
+            "coordinates":"N/A",
+            "origemCoordenadas":"EXIF",
+            "data":"2024-10-08",
+            "horario":"08:22:47",
+            "legenda":"qwe",
+            "autoria":"qwe",
+            "direitosAutorais":"qwe",
+            "tags":[
+               "qwe"
+            ],
+            "inseridoPor":"qwe",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"10:12",
+            "fundoArquivistico":"Fiscalis",
+            "dimensaoSuporte":"image/jpeg, 4331.5 KB, 3000x4000px",
+            "historicoArquivistico":"qwe",
+            "ambitoConteudo":"qwe",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"SM-A346M",
+               "iso":45,
+               "abertura":"f/f/1.8",
+               "distancia_focal":"4.65 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"1b3aee3892fdf7dde57be12c29b5c94a"
+         }
+      ]
+   },
+   "toca do veredao iv do macabeu i":{
+      "nivelDescricao":"Série",
+      "fundo":"outra",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750181252759-0",
+            "nomeArquivo":"SA_Sítio_Toca_do_Macabeu_I(1).JPG",
+            "sitio":"Toca do Veredão IV do Macabeu I",
+            "co_iphan":"",
+            "municipio":"",
+            "coordinates":"N/A",
+            "origemCoordenadas":"Manual",
+            "data":"2005-11-26",
+            "horario":"22:57:27",
+            "legenda":"Placa de sítio Arqueológico Toca do Veredão IV do Macabeu I",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Placa"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"14:15",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 1288.6 KB, 2304x3072px",
+            "historicoArquivistico":"Fiscalizado pelo Iphan",
+            "ambitoConteudo":"A imagem retrata uma placa de informação do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"E7900",
+               "iso":50,
+               "abertura":"f/f/3.2",
+               "distancia_focal":"10.6 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"265db7f1095989b52b096da8d84f58a7"
+         }
+      ]
+   },
+   "julio ii toca do":{
+      "nivelDescricao":"Série",
+      "fundo":"outra",
+      "imagens":[
+         {
+            "identificador":"ETSRN-1750183655290-0",
+            "nomeArquivo":"SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
+            "sitio":"Julio II ( Toca do )",
+            "co_iphan":"PI2205359BAST00020",
+            "municipio":"João Costa",
+            "coordinates":[
+               -42.6403,
+               -8.4972
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2019-08-25",
+            "horario":"12:03:51",
+            "legenda":"Detalhe Ilustrativo do sítio Toca do Júlio II",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Detalhe",
+               "Ilustrativo"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"14:38",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 3588.8 KB, 4160x3120px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata detalhe ilustrativo  do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"LG-M250",
+               "iso":50,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"3.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"a34dc96c259c3ee5afde47df001e79b4"
+         },
+         {
+            "identificador":"ETSRN-1750183668769-0",
+            "nomeArquivo":"SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
+            "sitio":"Julio II ( Toca do )",
+            "co_iphan":"PI2205359BAST00020",
+            "municipio":"João Costa",
+            "coordinates":[
+               -42.6403,
+               -8.4972
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2019-08-25",
+            "horario":"12:03:51",
+            "legenda":"Detalhe Ilustrativo do sítio Toca do Júlio II",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Detalhe",
+               "Ilustrativo"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"14:38",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 3588.8 KB, 4160x3120px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata detalhe ilustrativo  do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"LG-M250",
+               "iso":50,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"3.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"a34dc96c259c3ee5afde47df001e79b4"
+         },
+         {
+            "identificador":"ETSRN-1750183694425-0",
+            "nomeArquivo":"SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
+            "sitio":"Julio II ( Toca do )",
+            "co_iphan":"PI2205359BAST00020",
+            "municipio":"João Costa",
+            "coordinates":[
+               -42.6403,
+               -8.4972
+            ],
+            "origemCoordenadas":"SICG",
+            "data":"2019-08-25",
+            "horario":"12:03:51",
+            "legenda":"Detalhe Ilustrativo do sítio Toca do Júlio II",
+            "autoria":"Iphan",
+            "direitosAutorais":"Iphan",
+            "tags":[
+               "Detalhe",
+               "Ilustrativo"
+            ],
+            "inseridoPor":"Eliane Aragão de Souza",
+            "dataInsercao":"2025-06-17",
+            "horaInsercao":"14:38",
+            "fundoArquivistico":"outra",
+            "dimensaoSuporte":"image/jpeg, 3588.8 KB, 4160x3120px",
+            "historicoArquivistico":"Fiscalização do Iphan",
+            "ambitoConteudo":"A imagem retrata detalhe ilustrativo  do sítio",
+            "condicoesAcesso":"Público",
+            "condicoesReproducao":"",
+            "motivoRestricao":"",
+            "camera":{
+               "modelo":"LG-M250",
+               "iso":50,
+               "abertura":"f/f/2.2",
+               "distancia_focal":"3.7 mm"
+            },
+            "licencaUso":"CC-BY-NC-SA",
+            "hashArquivo":"a34dc96c259c3ee5afde47df001e79b4"
+         }
+      ]
+   }
+},
+"toca do morcego":{
+   "nivelDescricao":"Série",
+   "fundo":"outra",
+   "imagens":[
       {
-        "identificador": "ETSRN-1750095431512-0",
-        "nomeArquivo": "SA_SOBRADO_DA_CONCEIÇÃO (1).JPG",
-        "sitio": "Sobrado da Conceição",
-        "co_iphan": "PI2201929BAST00008",
-        "municipio": "Bonfim do Piauí",
-        "coordinates": [
-          -42.9092,
-          -9.1687
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2006-01-10",
-        "horario": "02:56:05",
-        "legenda": "Vista geral do sítio histórico Sobrado da Conceição",
-        "autoria": "FUMDHAM",
-        "direitosAutorais": "FUMDHAM",
-        "tags": [
-          "Vista geral"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "14:19",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 2285.1 KB, 3872x2592px",
-        "historicoArquivistico": "Enviado através de documentos e relatoria no processo SEI nº.  01402.0003347/2014-04",
-        "ambitoConteudo": "Imagem retrata a vista geral do sítio histórico Sobrado da Conceição",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "Informar autoria da imagem e Iphan",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "NIKON D80",
-          "iso": 100,
-          "abertura": "f/f/6.3",
-          "distancia_focal": "18 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "686d374799ac9ebdf21f8612324b9f23"
-      }
-    ]
-  },
-  "cera toca da": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750096660512-0",
-        "nomeArquivo": "SA_TOCA_DA_CERA(1).jpg",
-        "sitio": "Cera ( Toca da )",
-        "co_iphan": "PI2201988BAST00042",
-        "municipio": "Brejo do Piauí",
-        "coordinates": [
-          -42.7316,
-          -8.6214
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-18",
-        "horario": "21:43:14",
-        "legenda": "placa de direção do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "placa",
-          "direção"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "14:43",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 1909.8 KB, 2592x1944px",
-        "historicoArquivistico": "Produzida no âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma placa de direcionamento para acessar o sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/3.5",
-          "distancia_focal": "6.3 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "d07a19337c52a41f62feef34a0f73fd0"
-      }
-    ]
-  },
-  "serrote do antero toca do": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750098148294-0",
-        "nomeArquivo": "SA__Toca_do_Serrote_do_Antero(1).JPG",
-        "sitio": "Serrote do Antero (Toca do)",
-        "co_iphan": "PI2202851BAST00087",
-        "municipio": "Coronel José Dias",
-        "coordinates": [
-          -42.4232,
-          -8.8049
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2005-11-24",
-        "horario": "09:20:19",
-        "legenda": "Placa  informativa do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "informação"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "15:15",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 600.5 KB, 1280x960px",
-        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma placa de informação para o acesso do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "CYBERSHOT",
-          "iso": 100,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "9.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "99e726e3fd42bcad941e5ca7168aefbb"
-      }
-    ]
-  },
-  "toca do serrote das moendas": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750098895883-0",
-        "nomeArquivo": "SA_Toca_do_Serrote_das_Moendas(1).JPG",
-        "sitio": "Toca do Serrote das Moendas",
-        "co_iphan": "PI2202851BAST00009",
-        "municipio": "Coronel José Dias",
-        "coordinates": [
-          -42.4137,
-          -8.816
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2005-11-24",
-        "horario": "08:21:57",
-        "legenda": "Placa informativa do Sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "informação"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "15:24",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 595.2 KB, 1280x960px",
-        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma informação para o acesso do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "CYBERSHOT",
-          "iso": 100,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "9.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "0511f574cad5ba99d2d0d65ac55db8f5"
+         "identificador":"ETSRN-1750249546872-0",
+         "nomeArquivo":"SA_TOCA_DO_MORCEGO(1).jpg",
+         "sitio":"Toca do Morcego",
+         "co_iphan":"PI2207900BAST00013",
+         "municipio":"Pedro Ii",
+         "coordinates":[
+            -41.4507,
+            -4.4987
+         ],
+         "origemCoordenadas":"SICG",
+         "data":"2013-10-19",
+         "horario":"01:18:22",
+         "legenda":"Placa de direcionamento do sítio Toca do Morcego",
+         "autoria":"Iphan",
+         "direitosAutorais":"Iphan",
+         "tags":[
+            "Placa",
+            "direção"
+         ],
+         "inseridoPor":"Eliane Aragão de Souza",
+         "dataInsercao":"2025-06-18",
+         "horaInsercao":"09:20",
+         "fundoArquivistico":"outra",
+         "dimensaoSuporte":"image/jpeg, 2320.9 KB, 2592x1944px",
+         "historicoArquivistico":"Fiscalização do Iphan",
+         "ambitoConteudo":"A imagem retrata uma placa de direcionamento do sítio",
+         "condicoesAcesso":"Público",
+         "condicoesReproducao":"",
+         "motivoRestricao":"",
+         "camera":{
+            "modelo":"DSC-H10",
+            "iso":125,
+            "abertura":"f/f/3.5",
+            "distancia_focal":"6.3 mm"
+         },
+         "licencaUso":"CC-BY-NC-SA",
+         "hashArquivo":"696f721a5bf125b53c7cc4db42aece99"
       },
       {
-        "identificador": "ETSRN-1750169285310-5",
-        "nomeArquivo": "SA_Toca_do_Serrote_das_Moendas(7).JPG",
-        "sitio": "Toca do Serrote das Moendas",
-        "co_iphan": "PI2202851BAST00009",
-        "municipio": "Coronel José Dias",
-        "coordinates": [
-          -42.4137,
-          -8.816
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2005-11-24",
-        "horario": "08:58:19",
-        "legenda": "Detalhe de instalação de sítio Toca do Serrote das Moendas",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Detalhe",
-          "instalação"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "10:55",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 598.8 KB, 1280x960px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata detalhe de instalação do sítio pelo Iphan",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "CYBERSHOT",
-          "iso": 100,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "9.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "51e7034e400c1f4f2721f56f48b5726d"
-      },
-      {
-        "identificador": "ETSRN-1750169308999-5",
-        "nomeArquivo": "SA_Toca_do_Serrote_das_Moendas(7).JPG",
-        "sitio": "Toca do Serrote das Moendas",
-        "co_iphan": "PI2202851BAST00009",
-        "municipio": "Coronel José Dias",
-        "coordinates": [
-          -42.4137,
-          -8.816
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2005-11-24",
-        "horario": "08:58:19",
-        "legenda": "Detalhe de instalação de sítio Toca do Serrote das Moendas",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Detalhe",
-          "instalação"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "10:55",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 598.8 KB, 1280x960px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata detalhe de instalação do sítio pelo Iphan",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "CYBERSHOT",
-          "iso": 100,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "9.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "51e7034e400c1f4f2721f56f48b5726d"
+         "identificador":"ETSRN-1750250523112-0",
+         "nomeArquivo":"SA_TOCA_DO_MORCEGO(6).jpg",
+         "sitio":"Toca do Morcego",
+         "co_iphan":"PI2207900BAST00013",
+         "municipio":"Pedro Ii",
+         "coordinates":[
+            -41.4507,
+            -4.4987
+         ],
+         "origemCoordenadas":"SICG",
+         "data":"2013-10-19",
+         "horario":"01:20:04",
+         "legenda":"Placa de identificação do sítio Toca do Morcego",
+         "autoria":"Iphan",
+         "direitosAutorais":"Iphan",
+         "tags":[
+            "Placa",
+            "identifivação"
+         ],
+         "inseridoPor":"Eliane Aragão de Souza",
+         "dataInsercao":"2025-06-18",
+         "horaInsercao":"09:29",
+         "fundoArquivistico":"outra",
+         "dimensaoSuporte":"image/jpeg, 1897.9 KB, 2592x1944px",
+         "historicoArquivistico":"Fiscalização do Iphan",
+         "ambitoConteudo":"A imagem retrata uma placa de identificação do sítio",
+         "condicoesAcesso":"Público",
+         "condicoesReproducao":"",
+         "motivoRestricao":"",
+         "camera":{
+            "modelo":"DSC-H10",
+            "iso":125,
+            "abertura":"f/f/3.5",
+            "distancia_focal":"6.3 mm"
+         },
+         "licencaUso":"CC-BY-NC-SA",
+         "hashArquivo":"6627c0fd1356e5fa0e4ad95b7cfea55c"
       }
-    ]
-  },
-  "prato toca do": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750099404146-0",
-        "nomeArquivo": "SA_Toca_do_Prato(6).JPG",
-        "sitio": "Prato ( Toca do )",
-        "co_iphan": "PI2210607BAST00030",
-        "municipio": "São Raimundo Nonato",
-        "coordinates": [
-          -42.7281,
-          -8.8856
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2005-11-24",
-        "horario": "14:43:23",
-        "legenda": "Placa informativa do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "placa",
-          "informação"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "15:35",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 598.2 KB, 1280x960px",
-        "historicoArquivistico": "Produzida no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma placa de informação para o acesso ao sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "CYBERSHOT",
-          "iso": 100,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "9.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "d63554f913b8d0c6b9054ae0ce74fff2"
-      }
-    ]
-  },
-  "toca do povo da extrema ii": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750099885491-0",
-        "nomeArquivo": "SA_DO_POVO_DA_EXTRMA_2013_II(25).jpg",
-        "sitio": "Toca do Povo da Extrema II",
-        "co_iphan": "PI2205359BAST00129",
-        "municipio": "João Costa",
-        "coordinates": [
-          -42.7074,
-          -8.6177
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-09",
-        "horario": "23:13:46",
-        "legenda": "Placa de direção do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "direção"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "15:44",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 2208.7 KB, 2592x1944px",
-        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma placa de direcionamento para acessar o sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/4.0",
-          "distancia_focal": "13.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "59f09684fcc8cda2a86e46df0ccef359"
-      }
-    ]
-  },
-  "toca do povo da extrema i": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750100488171-0",
-        "nomeArquivo": "SA_TOCA_DO-POVO_DA_EXTERMA_I(1).jpg",
-        "sitio": "Toca do Povo da Extrema I",
-        "co_iphan": "PI2205359BAST00125",
-        "municipio": "João Costa",
-        "coordinates": [
-          -42.7073,
-          -8.6176
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-09",
-        "horario": "23:20:33",
-        "legenda": "Placa de Direção do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "direção"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "15:53",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 2029.5 KB, 2592x1944px",
-        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata a placa  de direcionamento para acessar o sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/8.0",
-          "distancia_focal": "6.3 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "b9acb4cf113b8fe07c525b1033ccea79"
-      }
-    ]
-  },
-  "passagem toca da": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750185938052-0",
-        "sitio": "Passagem ( Toca da )",
-        "co_iphan": "PI2201988BAST00063",
-        "municipio": "Brejo do Piauí",
-        "coordinates": [
-          -42.7241,
-          -8.5878
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-18",
-        "horario": "23:13:39",
-        "legenda": "Detalhe ilustrativo rupestre do sitio Toca da Passagem",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Ilustração",
-          "Rupestre"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "15:37",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 2263.8 KB, 2592x1944px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata ilustração rupestre do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/4.0",
-          "distancia_focal": "9.8 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "ad5d3beb9926f569fc6ed70d9c1a1fdb"
-      },
-      {
-        "identificador": "ETSRN-1750101252809-0",
-        "nomeArquivo": "SA_TOCA_DA_PASSAGEM(1).jpg",
-        "sitio": "Passagem ( Toca da )",
-        "co_iphan": "PI2201988BAST00063",
-        "municipio": "Brejo do Piauí",
-        "coordinates": [
-          -42.7241,
-          -8.5878
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-18",
-        "horario": "23:11:25",
-        "legenda": "Placa de direção do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "direção"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "16:06",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 2217.5 KB, 2592x1944px",
-        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma Placa de direcionamento para acessar o sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/3.5",
-          "distancia_focal": "6.3 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "2e12931143c693b952617215657741a1"
-      },
-      {
-        "identificador": "ETSRN-1750188208125-0",
-        "nomeArquivo": "SA_TOCA_DA_PASSAGEM(75).jpg",
-        "sitio": "Passagem ( Toca da )",
-        "co_iphan": "PI2201988BAST00063",
-        "municipio": "Brejo do Piauí",
-        "coordinates": [
-          -42.7241,
-          -8.5878
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-18",
-        "horario": "23:51:09",
-        "legenda": "Detalhe ilustrativo da Fauna do sítio Toca da Passagem",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Ilustração",
-          "Fauna"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "16:16",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 2170.4 KB, 2592x1944px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata detalhe da ilustração da fauna do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/8.0",
-          "distancia_focal": "6.3 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "ac8dc5fb68360aa0c4150b06e17992e0"
-      }
-    ]
-  },
-  "toca da embauba": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750102648271-0",
-        "nomeArquivo": "SA_Toca_da_Embaúba(1).JPG",
-        "sitio": "Toca da Embauba",
-        "co_iphan": "PI2201988BAST00152",
-        "municipio": "Brejo do Piauí",
-        "coordinates": [
-          -42.693,
-          -8.5731
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2024-06-28",
-        "horario": "11:51:36",
-        "legenda": "Placa de direção do sítio",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "direção"
-        ],
-        "inseridoPor": "Eliane Aragão  de Souza",
-        "dataInsercao": "2025-06-16",
-        "horaInsercao": "16:32",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 8249.3 KB, 6000x4000px",
-        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
-        "ambitoConteudo": "A imagem retrata uma placa de direcionamento para acessar o sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "Canon EOS Rebel T7",
-          "iso": 125,
-          "abertura": "f/f/4.5",
-          "distancia_focal": "34 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "6e504d11551b9bf79c925589a6ecb1d4"
-      }
-    ]
-  },
-  "lagoa de cima ix toca da": {
-    "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750166004998-0",
-        "nomeArquivo": "SA_Lagoa_de_Cima_IX(2).jpg",
-        "sitio": "Lagoa de Cima IX ( Toca da )",
-        "co_iphan": "PI2209559BAST00015",
-        "municipio": "São Braz do Piauí",
-        "coordinates": "N/A",
-        "origemCoordenadas": "EXIF",
-        "data": "2024-10-08",
-        "horario": "08:22:47",
-        "legenda": "qwe",
-        "autoria": "qwe",
-        "direitosAutorais": "qwe",
-        "tags": [
-          "qwe"
-        ],
-        "inseridoPor": "qwe",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "10:12",
-        "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 4331.5 KB, 3000x4000px",
-        "historicoArquivistico": "qwe",
-        "ambitoConteudo": "qwe",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "SM-A346M",
-          "iso": 45,
-          "abertura": "f/f/1.8",
-          "distancia_focal": "4.65 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "1b3aee3892fdf7dde57be12c29b5c94a"
-      }
-    ]
-  },
-  "toca do veredao iv do macabeu i": {
-    "nivelDescricao": "Série",
-    "fundo": "outra",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750181252759-0",
-        "nomeArquivo": "SA_Sítio_Toca_do_Macabeu_I(1).JPG",
-        "sitio": "Toca do Veredão IV do Macabeu I",
-        "co_iphan": "",
-        "municipio": "",
-        "coordinates": "N/A",
-        "origemCoordenadas": "Manual",
-        "data": "2005-11-26",
-        "horario": "22:57:27",
-        "legenda": "Placa de sítio Arqueológico Toca do Veredão IV do Macabeu I",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "14:15",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 1288.6 KB, 2304x3072px",
-        "historicoArquivistico": "Fiscalizado pelo Iphan",
-        "ambitoConteudo": "A imagem retrata uma placa de informação do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "E7900",
-          "iso": 50,
-          "abertura": "f/f/3.2",
-          "distancia_focal": "10.6 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "265db7f1095989b52b096da8d84f58a7"
-      }
-    ]
-  },
-  "julio ii toca do": {
-    "nivelDescricao": "Série",
-    "fundo": "outra",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750183655290-0",
-        "nomeArquivo": "SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
-        "sitio": "Julio II ( Toca do )",
-        "co_iphan": "PI2205359BAST00020",
-        "municipio": "João Costa",
-        "coordinates": [
-          -42.6403,
-          -8.4972
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2019-08-25",
-        "horario": "12:03:51",
-        "legenda": "Detalhe Ilustrativo do sítio Toca do Júlio II",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Detalhe",
-          "Ilustrativo"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "14:38",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 3588.8 KB, 4160x3120px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata detalhe ilustrativo  do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "LG-M250",
-          "iso": 50,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "3.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
-      },
-      {
-        "identificador": "ETSRN-1750183668769-0",
-        "nomeArquivo": "SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
-        "sitio": "Julio II ( Toca do )",
-        "co_iphan": "PI2205359BAST00020",
-        "municipio": "João Costa",
-        "coordinates": [
-          -42.6403,
-          -8.4972
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2019-08-25",
-        "horario": "12:03:51",
-        "legenda": "Detalhe Ilustrativo do sítio Toca do Júlio II",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Detalhe",
-          "Ilustrativo"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "14:38",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 3588.8 KB, 4160x3120px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata detalhe ilustrativo  do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "LG-M250",
-          "iso": 50,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "3.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
-      },
-      {
-        "identificador": "ETSRN-1750183694425-0",
-        "nomeArquivo": "SA_Sítio_da_Toca_do_Júlio_II(5).jpg",
-        "sitio": "Julio II ( Toca do )",
-        "co_iphan": "PI2205359BAST00020",
-        "municipio": "João Costa",
-        "coordinates": [
-          -42.6403,
-          -8.4972
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2019-08-25",
-        "horario": "12:03:51",
-        "legenda": "Detalhe Ilustrativo do sítio Toca do Júlio II",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Detalhe",
-          "Ilustrativo"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "14:38",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 3588.8 KB, 4160x3120px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata detalhe ilustrativo  do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "LG-M250",
-          "iso": 50,
-          "abertura": "f/f/2.2",
-          "distancia_focal": "3.7 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "a34dc96c259c3ee5afde47df001e79b4"
-      }
-    ]
-  },
- },
-  "toca do morcego": {
-    "nivelDescricao": "Série",
-    "fundo": "outra",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750249546872-0",
-        "nomeArquivo": "SA_TOCA_DO_MORCEGO(1).jpg",
-        "sitio": "Toca do Morcego",
-        "co_iphan": "PI2207900BAST00013",
-        "municipio": "Pedro Ii",
-        "coordinates": [
-          -41.4507,
-          -4.4987
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-19",
-        "horario": "01:18:22",
-        "legenda": "Placa de direcionamento do sítio Toca do Morcego",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "direção"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-18",
-        "horaInsercao": "09:20",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 2320.9 KB, 2592x1944px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata uma placa de direcionamento do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/3.5",
-          "distancia_focal": "6.3 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "696f721a5bf125b53c7cc4db42aece99"
-      },
-      {
-        "identificador": "ETSRN-1750250523112-0",
-        "nomeArquivo": "SA_TOCA_DO_MORCEGO(6).jpg",
-        "sitio": "Toca do Morcego",
-        "co_iphan": "PI2207900BAST00013",
-        "municipio": "Pedro Ii",
-        "coordinates": [
-          -41.4507,
-          -4.4987
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-19",
-        "horario": "01:20:04",
-        "legenda": "Placa de identificação do sítio Toca do Morcego",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Placa",
-          "identifivação"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-18",
-        "horaInsercao": "09:29",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 1897.9 KB, 2592x1944px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata uma placa de identificação do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/3.5",
-          "distancia_focal": "6.3 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "6627c0fd1356e5fa0e4ad95b7cfea55c"
-      }
-    ]
-  }
+   ]
+}
