@@ -856,6 +856,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "6cc71f5e4dabdb1c043dc41747db8f85"
+      },
+      {
+        "identificador": "ETSRN-1750264583685-0",
+        "nomeArquivo": "SA_Sítio_Toca_do_Mangueira_do_Boqueirão_Grande(26).JPG",
+        "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
+        "co_iphan": "PI2201988BAST00038",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.859,
+          -8.6095
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "11:22:34",
+        "legenda": "Vista Geral do sítio Mangueira do Boqueirão Grande",
+        "autoria": "Acervo do Iphan",
+        "direitosAutorais": "Acervo do Iphan",
+        "tags": [
+          "Fitomorfas",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-18",
+        "horaInsercao": "13:18",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 574.7 KB, 1280x960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Uma paisagem fitomorfos",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "12.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "20b21db05ec74cd969eb121321d59c38"
       }
     ]
   },
