@@ -939,6 +939,41 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b40f4a4abbdf3528ae10e168d5a7a9da"
+      },
+      {
+        "identificador": "ETSRN-1750268139927-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(10).jpg",
+        "sitio": "toca do Iphan",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-10-08",
+        "horario": "09:28:03",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-18",
+        "horaInsercao": "14:34",
+        "fundoArquivistico": "Pesquisa arqueológica processo sei....",
+        "dimensaoSuporte": "image/jpeg, 1929.8 KB, 6000x4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "28 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "354efdfd09b0e53c16693d6e791d22a1"
       }
     ]
   }
