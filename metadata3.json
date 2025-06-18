@@ -16,7 +16,7 @@
         "origemCoordenadas": "SICG",
         "data": "2006-01-10",
         "horario": "02:56:05",
-        "legenda": "Vista geral do sítio",
+        "legenda": "Vista geral do sítio histórico Sobrado da Conceição",
         "autoria": "FUMDHAM",
         "direitosAutorais": "FUMDHAM",
         "tags": [
@@ -28,7 +28,7 @@
         "fundoArquivistico": "outra",
         "dimensaoSuporte": "image/jpeg, 2285.1 KB, 3872x2592px",
         "historicoArquivistico": "Enviado através de documentos e relatoria no processo SEI nº.  01402.0003347/2014-04",
-        "ambitoConteudo": "Imagem retrata a vista geral do sítio",
+        "ambitoConteudo": "Imagem retrata a vista geral do sítio histórico Sobrado da Conceição",
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar autoria da imagem e Iphan",
         "motivoRestricao": "",
@@ -396,6 +396,44 @@
     "fundo": "Fiscalis",
     "imagens": [
       {
+        "identificador": "ETSRN-1750185938052-0",
+        "sitio": "Passagem ( Toca da )",
+        "co_iphan": "PI2201988BAST00063",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7241,
+          -8.5878
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "23:13:39",
+        "legenda": "Detalhe ilustrativo rupestre do sitio Toca da Passagem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Ilustração",
+          "Rupestre"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-17",
+        "horaInsercao": "15:37",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 2263.8 KB, 2592x1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata ilustração rupestre do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ad5d3beb9926f569fc6ed70d9c1a1fdb"
+      },
+      {
         "identificador": "ETSRN-1750101252809-0",
         "nomeArquivo": "SA_TOCA_DA_PASSAGEM(1).jpg",
         "sitio": "Passagem ( Toca da )",
@@ -725,51 +763,7 @@
       }
     ]
   },
-  "sambaqui da passagem": {
-    "nivelDescricao": "Série",
-    "fundo": "outra",
-    "imagens": [
-      {
-        "identificador": "ETSRN-1750185938052-0",
-        "nomeArquivo": "SA_TOCA_DA_PASSAGEM(17).jpg",
-        "sitio": "Sambaqui da Passagem",
-        "co_iphan": "PI2202083BAST00013",
-        "municipio": "Cajueiro da Praia",
-        "coordinates": [
-          -41.4445,
-          -2.9121
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2013-10-18",
-        "horario": "23:13:39",
-        "legenda": "Detalhe ilustrativo rupestre do sitio Toca da Passagem",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-          "Ilustração",
-          "Rupestre"
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-17",
-        "horaInsercao": "15:37",
-        "fundoArquivistico": "outra",
-        "dimensaoSuporte": "image/jpeg, 2263.8 KB, 2592x1944px",
-        "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata ilustração rupestre do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "DSC-H10",
-          "iso": 125,
-          "abertura": "f/f/4.0",
-          "distancia_focal": "9.8 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "ad5d3beb9926f569fc6ed70d9c1a1fdb"
-      }
-    ]
-  },
+ },
   "toca do morcego": {
     "nivelDescricao": "Série",
     "fundo": "outra",
