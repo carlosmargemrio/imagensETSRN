@@ -769,5 +769,50 @@
         "hashArquivo": "ad5d3beb9926f569fc6ed70d9c1a1fdb"
       }
     ]
+  },
+  "toca do morcego": {
+    "nivelDescricao": "Série",
+    "fundo": "outra",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750249546872-0",
+        "nomeArquivo": "SA_TOCA_DO_MORCEGO(1).jpg",
+        "sitio": "Toca do Morcego",
+        "co_iphan": "PI2207900BAST00013",
+        "municipio": "Pedro Ii",
+        "coordinates": [
+          -41.4507,
+          -4.4987
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-19",
+        "horario": "01:18:22",
+        "legenda": "Placa de direcionamento do sítio Toca do Morcego",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "direção"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-18",
+        "horaInsercao": "09:20",
+        "fundoArquivistico": "outra",
+        "dimensaoSuporte": "image/jpeg, 2320.9 KB, 2592x1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "696f721a5bf125b53c7cc4db42aece99"
+      }
+    ]
   }
 }
