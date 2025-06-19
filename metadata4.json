@@ -1,1 +1,47 @@
-
+{
+  "lagoa de cima ix toca da": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750367727230-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(1).jpg",
+        "nomeOriginal": "qqqq.jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.054,
+          -9.0382
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-10-08",
+        "horario": "09:37:29",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "18:15",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2480.4 KB, 5883×3894px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 1600,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "22 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "92e0b34187d613ddc4b4daf452e890f3"
+      }
+    ]
+  }
+}
