@@ -682,6 +682,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "923689253594d2fba6ada51c7572708c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750365385922-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_(_Toca_da_)(13).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(9).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.053785,
+          -9.038435
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:51:33",
+        "legenda": "Vista parcial do oeste do abrigo rochoso no sítio arqueológico Lagoa de Cima IX.",
+        "autoria": "Ana Stela de Negreiros Oliveira",
+        "direitosAutorais": "Ana Stela de Negreiros Oliveira",
+        "tags": [
+          "Vista parcial",
+          "Oeste",
+          "Abrigo"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "17:36",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4850.9 KB, 3000×4000px",
+        "historicoArquivistico": "Produzida no âmbito do Fiscalis",
+        "ambitoConteudo": "Uma vista parcial na visada Oeste do abrigo que não contem registros rupestres visíveis",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "informar acervo do Iphan e autoria da imagem",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 61,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b21cef21deef0c473e007fcff2ac5f6a"
       }
     ]
   },
