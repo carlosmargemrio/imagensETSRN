@@ -937,6 +937,41 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "553a0fc034f3893c0ee4eb8463b283cd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750337494194-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(13).jpg",
+        "sitio": "toca do iphan",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-10-08",
+        "horario": "09:37:29",
+        "legenda": "asd",
+        "autoria": "asd",
+        "direitosAutorais": "asd",
+        "tags": [
+          "asd"
+        ],
+        "inseridoPor": "asd",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "09:50",
+        "fundoArquivistico": "Pesquisa Acadêmica",
+        "dimensaoSuporte": "image/jpeg, 2480.4 KB, 5883×3894px",
+        "historicoArquivistico": "asd",
+        "ambitoConteudo": "asd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "asd",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 1600,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "22 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "92e0b34187d613ddc4b4daf452e890f3"
       }
     ]
   }
