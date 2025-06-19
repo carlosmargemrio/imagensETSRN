@@ -1,1 +1,53 @@
-
+{
+  "lagoa de cima ix toca da": {
+    "nivelDescricao": "Série",
+    "fundo": "Fiscalis",
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750371658393-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(11).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.054,
+          -9.0382
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-10-08",
+        "horario": "09:27:03",
+        "legenda": "Detalhe de registros rupestre em um dos painéis do sítio arqueológico Lagoa de Cima IX",
+        "autoria": "Carlos Rocha",
+        "direitosAutorais": "Carlos Rocha",
+        "tags": [
+          "Escala",
+          "Vermelho",
+          "Zoomorfos",
+          "Antropomorfos",
+          "Geométricos",
+          "Preenchida",
+          "Cervídeo"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "19:20",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4118.2 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no âmbito da fiscalização do Iphan Fiscalis",
+        "ambitoConteudo": "Trata-se de uma imagem que registra a representação de pelo menos 9 figuras dentre as quais 4 se assemelham com figuras humanas e 2 com animais sendo eles um cervídeo e um lagarto. Além disso uma figura que parece está incompleta, mas que ao comparar com as demais indica uma semelhança com os outros antropomorfos do mesmo painel; Ainda há uma figura geométrica no canto superior esquerdo",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Imagem pertence ao acervo do Iphan e deve ser informado a autoria da imagem",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "26 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
+      }
+    ]
+  }
+}
