@@ -899,6 +899,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f5f9a7ff95f8aafef0c4632256325426"
+      },
+      {
+        "identificador": "ETSRN-1750335053542-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(15).jpg",
+        "sitio": "Toca Do IPHAN",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": [
+          -43.054173,
+          -9.038182
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:25:53",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "09:10",
+        "fundoArquivistico": "1234",
+        "dimensaoSuporte": "image/jpeg, 2133.6 KB, 3264×2448px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "553a0fc034f3893c0ee4eb8463b283cd"
       }
     ]
   }
