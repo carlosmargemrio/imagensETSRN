@@ -857,5 +857,49 @@
         "hashArquivo": "20b21db05ec74cd969eb121321d59c38"
       }
     ]
+  },
+  "toca do iphan": {
+    "nivelDescricao": "Série",
+    "fundo": "qweqweqwe",
+    "imagens": [
+      {
+        "identificador": "ETSRN-1750334775583-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX(8).jpg",
+        "sitio": "toca do Iphan",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": [
+          -43.053735,
+          -9.038371
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:44:02",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "09:05",
+        "fundoArquivistico": "qweqweqwe",
+        "dimensaoSuporte": "image/jpeg, 3024.7 KB, 3000×4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 150,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f5f9a7ff95f8aafef0c4632256325426"
+      }
+    ]
   }
 }
