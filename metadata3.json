@@ -1008,6 +1008,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "92e0b34187d613ddc4b4daf452e890f3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750345903831-0",
+        "nomeArquivo": "SA_toca_do_IPHAN(17).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(7).jpg",
+        "sitio": "toca do IPHAN",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": [
+          -43.053785,
+          -9.038385
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:41:59",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-19",
+        "horaInsercao": "12:11",
+        "fundoArquivistico": "qwe",
+        "dimensaoSuporte": "image/jpeg, 2493.9 KB, 3000×4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "qweqwe",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 104,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "07f0de36460d2a0b3169d4c31c978a11"
       }
     ]
   }
