@@ -174,5 +174,49 @@
       "Fiscalis",
       "Fiscalização após denúncia de depredação processo SEI nº xxxxx"
     ]
+  },
+  "toca do formulario": {
+    "nivelDescricao": "Série",
+    "fundoArquivistico": [
+      "Pesquisa Acadêmica"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750521547575-0",
+        "nomeArquivo": "SA_toca_do_formulario(1).jpeg",
+        "nomeOriginal": "Captura de tela_demostrando_deteccao_de_duplicatas.jpeg",
+        "sitio": "toca do formulário",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-06-20",
+        "horario": "19:59",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-21",
+        "horaInsercao": "12:59",
+        "fundoArquivistico": "Pesquisa Acadêmica",
+        "dimensaoSuporte": "image/jpeg, 88.5 KB, 1786×936px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "qweqweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7deeb187d6510900ae5817731781aa01"
+      }
+    ]
   }
 }
