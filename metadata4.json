@@ -135,7 +135,8 @@
   "toca do formulario": {
     "nivelDescricao": "Série",
     "fundoArquivistico": [
-      "SICG-Cadastro-atualização"
+      "SICG-Cadastro-atualização",
+      "Projeto Banco de Imagens Processo SEI nº. xxxxx"
     ],
     "imagens": [
       {
@@ -173,6 +174,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2e815c8d72fb26dd2ced38c9b5a253d4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750520482423-0",
+        "nomeArquivo": "SA_Toca_do_formulario(2).jpeg",
+        "nomeOriginal": "Captura de tela_demostrando_deteccao_de_duplicatas.jpeg",
+        "sitio": "Toca do formulário",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-06-19",
+        "horario": "12:40",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "informe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-21",
+        "horaInsercao": "12:41",
+        "fundoArquivistico": "Projeto Banco de Imagens Processo SEI nº. xxxxx",
+        "dimensaoSuporte": "image/jpeg, 88.5 KB, 1786×936px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7deeb187d6510900ae5817731781aa01"
       }
     ]
   }
