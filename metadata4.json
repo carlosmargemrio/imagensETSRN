@@ -3,7 +3,8 @@
     "nivelDescricao": "Série",
     "fundoArquivistico": [
       "Fiscalis",
-      "Fiscalização após denúncia de depredação processo SEI nº xxxxx"
+      "Fiscalização após denúncia de depredação processo SEI nº xxxxx",
+      "foi no Fiscalis estou só testando"
     ],
     "imagens": [
       {
@@ -172,6 +173,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b40f4a4abbdf3528ae10e168d5a7a9da"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750525512003-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(5).jpg",
+        "nomeOriginal": "Original_TimePhoto_20241008_082624.jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.05408,
+          -9.0381
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:26:24",
+        "legenda": "Painel de registro rupestre no sítio arqueológico Toca da Lagoa de Cima IX",
+        "autoria": "Ana Stela de Negreiros Oliveira",
+        "direitosAutorais": "Ana Stela de Negreiros Oliveira",
+        "tags": [
+          "Vermelha",
+          "Geométrico",
+          "Incompleto"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-21",
+        "horaInsercao": "14:05",
+        "fundoArquivistico": "foi no Fiscalis estou só testando",
+        "dimensaoSuporte": "image/jpeg, 3231.1 KB, 3000×4000px",
+        "historicoArquivistico": "Produzida no âmbito do Fiscalis",
+        "ambitoConteudo": "Trata-se de um painel de registro rupestre que registra imagens que parecem terem sido finalizadas, em pelo menos 2 delas. As demais são traços e pontos.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 71,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8d28c59ac74419b6d308c41fc8bce0f6"
       }
     ]
   },
