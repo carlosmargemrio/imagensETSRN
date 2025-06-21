@@ -1,6 +1,11 @@
 {
-  "lagoa de cima ix toca da": {
-    "nivelDescricao": "Série",
+  lagoa de cima ix toca da": {
+  "nivelDescricao": "Série",
+  "fundos": [
+    "Fiscalis",
+    "Fiscalização após denúncia de depredação processo SEI nº xxxxx",
+    "foi no Fiscalis estou só testando"
+  ],
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1750371658393-0",
@@ -255,7 +260,7 @@
   },
   "toca do formulario": {
     "nivelDescricao": "Série",
-    "fundoArquivistico": [
+    "fundos": [
       "Pesquisa Acadêmica"
     ],
     "imagens": [
