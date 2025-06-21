@@ -1,7 +1,6 @@
 {
   "lagoa de cima ix toca da": {
     "nivelDescricao": "Série",
-    "fundo": "Fiscalis",
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1750371658393-0",
@@ -129,7 +128,51 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "923689253594d2fba6ada51c7572708c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750521303606-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(4).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(1).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.05381,
+          -9.037997
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:20:26",
+        "legenda": "Detalhe da trilha de acesso ao sítio arqueológico Toca da Lagoa de Cima IX",
+        "autoria": "Ana Stela de Negreiros Oliveira",
+        "direitosAutorais": "Ana Stela de Negreiros Oliveira",
+        "tags": [
+          "Acesso",
+          "Trilha"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-21",
+        "horaInsercao": "12:55",
+        "fundoArquivistico": "Fiscalização após denúncia de depredação processo SEI nº xxxxx",
+        "dimensaoSuporte": "image/jpeg, 5930.7 KB, 3000×4000px",
+        "historicoArquivistico": "Produzida no âmbito do Fiscalis",
+        "ambitoConteudo": "Trata-se do início da trilha de acesso ao sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 44,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b40f4a4abbdf3528ae10e168d5a7a9da"
       }
+    ],
+    "fundoArquivistico": [
+      "Fiscalis",
+      "Fiscalização após denúncia de depredação processo SEI nº xxxxx"
     ]
   }
 }
