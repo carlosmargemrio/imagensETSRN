@@ -87,6 +87,48 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "92e0b34187d613ddc4b4daf452e890f3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750469120472-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(3).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(6).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.053825,
+          -9.038408
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:41:26",
+        "legenda": "Detalhe da estrutura de contenção que permite o acesso a um registro rupestre localizada na base do paredão rochoso do sítio arqueológico Lagoa de Cima IX",
+        "autoria": "Ana Stela de Negreiros Oliveira",
+        "direitosAutorais": "Ana Stela de Negreiros Oliveira",
+        "tags": [
+          "Estrutura",
+          "Contenção",
+          "Escavação",
+          "Escada de acesso"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-21",
+        "horaInsercao": "22:25",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4952.9 KB, 3000×4000px",
+        "historicoArquivistico": "Imagem gerada no âmbito da fiscalização do ETSRN-PI",
+        "ambitoConteudo": "Trata-se de uma imagem da estrutura que foi edificada para fazer a contenção e permitir o acesso dos visitantes a registros rupestres que estão na base do abrigo rochoso sem a qual não se poderia visualizar tais registros.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informe ao publicar a origem do acervo Iphan e a autoria da imagem",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 56,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "923689253594d2fba6ada51c7572708c"
       }
     ]
   }
