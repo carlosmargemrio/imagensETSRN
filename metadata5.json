@@ -356,5 +356,49 @@
         "hashArquivo": "b0dbbb1ea98565e3755ecdd42efaa17f"
       }
     ]
+  },
+  "toca do fidalmo": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750702560166-0",
+        "nomeArquivo": "SA_Toca_do_Fidalmo(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_Do_Fidalmo_II(5).JPG",
+        "sitio": "Toca do Fidalmo",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "21:57:23",
+        "legenda": "Demonstração de figuras Zoomorfas do sítio Toca do Fidalmo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "15:16",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1242.1 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata figuras Zoomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.3",
+          "distancia_focal": "19.1 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "03d24dd59783fbf3f26f1b9d85b48dc5"
+      }
+    ]
   }
 }
