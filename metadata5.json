@@ -40,6 +40,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "e1f523e54a5bea762661667a6058447a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750688942128-0",
+        "nomeArquivo": "SA_Mangueira_do_Boqueirao_Grande_Toca_da(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_Mangueira_do_Boqueirão_Grande(5).JPG",
+        "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
+        "co_iphan": "PI2201988BAST00038",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "-8.6095, -42.859",
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "16:56:12",
+        "legenda": "Instalação de Porteira de acesso ao sítio Toca do Mangueira do Boqueirão Grande",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitomorfos",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "11:29",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 595.2 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma Porteira de acesso ao sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fa81109a56d5fd39904d35af6fe6254a"
       }
     ]
   }
