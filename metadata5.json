@@ -312,5 +312,49 @@
         "hashArquivo": "3d7f586b044544b2203e37e81aec48a5"
       }
     ]
+  },
+  "toca do fidalmo ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750701627871-0",
+        "nomeArquivo": "SA_Toca_do_Fidalmo_II(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_Do_Fidalmo_II(7).JPG",
+        "sitio": "Toca do Fidalmo II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "21:59:04",
+        "legenda": "Placa de sítio Arqueológico do sítio Toca do Fidalmo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "15:00",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1372.6 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de sítio arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b0dbbb1ea98565e3755ecdd42efaa17f"
+      }
+    ]
   }
 }
