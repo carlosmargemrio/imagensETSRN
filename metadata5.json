@@ -77,6 +77,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "fa81109a56d5fd39904d35af6fe6254a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750689815822-0",
+        "nomeArquivo": "SA_Mangueira_do_Boqueirao_Grande_Toca_da(3).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_Mangueira_do_Boqueirão_Grande(8).JPG",
+        "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
+        "co_iphan": "PI2201988BAST00038",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "-8.6095, -42.859",
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-28",
+        "horario": "12:14:10",
+        "legenda": "Finalização de cercamento  do sítio Toca do Mangueira do Boqueirão",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitomorfos",
+          "vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "11:43",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 588.2 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata finalização de cercamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "06dc205fd77b64b91f610754d1813707"
       }
     ]
   }
