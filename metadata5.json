@@ -116,5 +116,49 @@
         "hashArquivo": "06dc205fd77b64b91f610754d1813707"
       }
     ]
+  },
+  "jose ferreira toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750690733853-0",
+        "nomeArquivo": "SA_Jose_Ferreira_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_JoséFerreira(4).JPG",
+        "sitio": "José Ferreira (Toca do)",
+        "co_iphan": "PI2201988BAST00122",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "-8.612, -42.7132",
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "12:00:38",
+        "legenda": "Placa de Identificação do sítio Toca do José Ferreira",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "11:58",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 9268.3 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "48 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f1506a58c60b6c096082422305de4265"
+      }
+    ]
   }
 }
