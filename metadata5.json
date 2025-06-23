@@ -354,6 +354,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b0dbbb1ea98565e3755ecdd42efaa17f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750704200000-0",
+        "nomeArquivo": "SA_Toca_do_Fidalmo_II(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_Do_Fidalmo_II(2).JPG",
+        "sitio": "Toca do Fidalmo II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "03:07:11",
+        "legenda": "Demonstrativo Fitomorfos do sítio Toca do Fidalmo II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitimorfos",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "15:43",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1285.5 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata figuras Fitomorfas ou seja a vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9c2daf2b09b641d0556cc8cb750df7bb"
       }
     ]
   },
