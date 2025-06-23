@@ -518,5 +518,49 @@
         "hashArquivo": "0d1c17dcd6a1fad10efe680555ced831"
       }
     ]
+  },
+  "toca do cabra bom": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750706077094-0",
+        "nomeArquivo": "SA_TOCA_DO_CABRA_BOM(1).jpg",
+        "nomeOriginal": "TOCA_DO_CABRA_BOM(1).jpg",
+        "sitio": "TOCA DO CABRA BOM",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-18",
+        "horario": "23:54:43",
+        "legenda": "Placa de Identificação do sitio Toca do Cabra Bom",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "16:14",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2106.5 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "721f34e4e08787d99ad578860e027a0f"
+      }
+    ]
   }
 }
