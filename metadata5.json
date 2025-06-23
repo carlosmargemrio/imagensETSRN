@@ -560,6 +560,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "721f34e4e08787d99ad578860e027a0f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750706509469-0",
+        "nomeArquivo": "SA_Toca_do_Cabra_Bom(2).jpg",
+        "nomeOriginal": "TOCA_DO_CABRA_BOM(16).jpg",
+        "sitio": "Toca  do Cabra Bom",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-18",
+        "horario": "23:54:48",
+        "legenda": "Demonstrativo de Figuras Antropomorfas do sítio Toca  do Cabra Bom",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "16:21",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2311.0 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Figuras Antropomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2eae6fa0dabc780503e8fb4ef8ea94ed"
       }
     ]
   }
