@@ -598,5 +598,122 @@
         "hashArquivo": "2eae6fa0dabc780503e8fb4ef8ea94ed"
       }
     ]
+  },
+  "toca do caititu": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750707212767-0",
+        "nomeArquivo": "SA_Toca_do_Caititu(1).jpg",
+        "nomeOriginal": "SA_toca_do_Caititu (1).JPG",
+        "sitio": "Toca do Caititu",
+        "co_iphan": "PI2210607BAST00095",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": "-8.8536, -42.5868",
+        "origemCoordenadas": "SICG",
+        "data": "2006-07-04",
+        "horario": "23:39:25",
+        "legenda": "Visão Geraldo sitio Toca do Caititu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Visão Geral"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "16:33",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1164.0 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma Visão Geral do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7942babebf172347e5e1497f44bc03ae"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750707517643-1",
+        "nomeArquivo": "SA_Toca_do_Caititu(1).jpg",
+        "nomeOriginal": "SA_toca_do_Caititu (2).JPG",
+        "sitio": "Toca do Caititu",
+        "co_iphan": "PI2210607BAST00095",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-07-04",
+        "horario": "23:42:17",
+        "legenda": "Demonstrativo de Figura Zoomorfas do sítio Toca do Caititu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "16:38",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1250.2 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma figura zoomorfa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5af485c9dae85bc61ef2503daae61ea1"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750707905434-2",
+        "nomeArquivo": "SA_Toca_do_Caititu(1).jpg",
+        "nomeOriginal": "SA_toca_do_Caititu (3).JPG",
+        "sitio": "Toca do Caititu",
+        "co_iphan": "PI2210607BAST00095",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-07-04",
+        "horario": "23:49:27",
+        "legenda": "Demonstrativo de figuras Antropomorfas e zoomorfas do sítio Toca do Caititu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "16:45",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1209.4 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Figuras Antropomorfas e Zoomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ded9c84c566f28cd27304a0eec4b86c0"
+      }
+    ]
   }
 }
