@@ -194,6 +194,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "342774eebd2117722b75dc6a5cb88bea"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750698886466-0",
+        "nomeArquivo": "SA_Jose_Ferreira_Toca_do(3).jpg",
+        "nomeOriginal": "SA_Toca_do_JoséFerreira(5).JPG",
+        "sitio": "José Ferreira (Toca do)",
+        "co_iphan": "PI2201988BAST00122",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "-8.612, -42.7132",
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "12:00:49",
+        "legenda": "Demonstração de figura Antropomorfas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "14:14",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 13448.0 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma figura Antropomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2dbbe6d7d0e2369c1328729a691e2a75"
       }
     ]
   }
