@@ -2,7 +2,8 @@
   "lagoa de cima ix toca da": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalis"
+      "Fiscalis",
+      "sei que é fiscalis"
     ],
     "imagens": [
       {
@@ -46,6 +47,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750637341313-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(4).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(6).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": "-9.038408, -43.053825",
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:41:26",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "21:09",
+        "fundoArquivistico": "sei que é fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4952.9 KB, 3000×4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 56,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "923689253594d2fba6ada51c7572708c"
       }
     ]
   }
