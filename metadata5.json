@@ -232,5 +232,49 @@
         "hashArquivo": "2dbbe6d7d0e2369c1328729a691e2a75"
       }
     ]
+  },
+  "garrancho toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750700454003-0",
+        "nomeArquivo": "SA_Garrancho_Toca_do(1).jpg",
+        "nomeOriginal": "SA_TOCA_DOGARRANCHO(1).jpg",
+        "sitio": "Garrancho ( Toca do )",
+        "co_iphan": "PI2201988BAST00048",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "-8.675, -42.7292",
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "22:28:39",
+        "legenda": "Placa de Identificação do sitio Toca do Garrancho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "14:40",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2161.9 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "659ca1b20a70f528ad8f627673543a77"
+      }
+    ]
   }
 }
