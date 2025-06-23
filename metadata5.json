@@ -479,6 +479,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "c816908d296c9328d45edd5aa3ad6d10"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750705482606-0",
+        "nomeArquivo": "SA_Toca_do_Fidalgo_I(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_Do_Fidalgo_I( (3).JPG",
+        "sitio": "Toca do Fidalgo I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "22:19:37",
+        "legenda": "Placa de sítio  Arqueológico e Portão de acesso ao sítio Toca do Fidalgo I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "16:04",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1274.9 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma placa de sítio Arqueológico e Portão de acesso ao sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0d1c17dcd6a1fad10efe680555ced831"
       }
     ]
   }
