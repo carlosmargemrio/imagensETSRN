@@ -1,1 +1,46 @@
-{}
+{
+  "mangueira do boqueirao grande toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750688577766-0",
+        "nomeArquivo": "SA_Mangueira_do_Boqueirao_Grande_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_Mangueira_do_Boqueirão_Grande(3).JPG",
+        "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
+        "co_iphan": "PI2201988BAST00038",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "-8.6095, -42.859",
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "16:52:15",
+        "legenda": "Instalação de Placa de sítio Arqueológico Toca do Mangueira do Boqueirão Grande",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-23",
+        "horaInsercao": "11:22",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 593.8 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A Imagem retrata uma placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e1f523e54a5bea762661667a6058447a"
+      }
+    ]
+  }
+}
