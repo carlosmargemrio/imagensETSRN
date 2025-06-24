@@ -209,6 +209,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "01f56c8ba3c34e8d56832d2c9657a547"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750769911198-0",
+        "nomeArquivo": "SA_Pilao_Manicobeiro_Toca_do(2).jpg",
+        "nomeOriginal": "SA_TOCA-DO_PILÃO(2).jpg",
+        "sitio": "Pilão Maniçobeiro ( Toca do )",
+        "co_iphan": "PI2201988BAST00066",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7223,
+          -8.5996
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "22:44:11",
+        "legenda": "Placa de Identificação do sitio Toca do Pilão Maniçobeiro",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Pilão Maniçobeiro"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "09:58",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1885.3 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de Identificação do sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "c8f368d659d6515010ad43b41e2d0f3d"
       }
     ]
   }
