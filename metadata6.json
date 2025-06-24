@@ -129,7 +129,8 @@
     "fundos": [
       "Pesquisa AcadÃÂÃÂªmica",
       "SICG-Cadastro-atualizaÃÂÃÂ§ÃÂÃÂ£o",
-      "Fiscalis"
+      "Fiscalis",
+      "SICG-Cadastro-atualização"
     ],
     "imagens": [
       {
@@ -347,6 +348,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "db60aa36693c0e9a2c72314c7aa8dc83"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750740030593-0",
+        "nomeArquivo": "SA_Toca_do_Candido(7).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(5).jpg",
+        "sitio": "Toca do Cândido",
+        "co_iphan": "PI2211209BAST00001",
+        "municipio": "Uruçuí",
+        "coordinates": [
+          -43.054083,
+          -9.038135
+        ],
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:24:27",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "01:40",
+        "fundoArquivistico": "SICG-Cadastro-atualização",
+        "dimensaoSuporte": "image/jpeg, 4970.4 KB, 3000×4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "SM-A346M",
+          "iso": 64,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.65 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7022a731163bfb906172e2ddbbe391db"
       }
     ]
   }
