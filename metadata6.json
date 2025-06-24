@@ -250,5 +250,52 @@
         "hashArquivo": "c8f368d659d6515010ad43b41e2d0f3d"
       }
     ]
+  },
+  "toca do pinga do boi": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750770192614-0",
+        "nomeArquivo": "SA_Toca_do_Pinga_do_Boi(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Pinga_do_Boi(1).JPG",
+        "sitio": "Toca do Pinga do Boi",
+        "co_iphan": "PI2201988BAST00025",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6816,
+          -8.5565
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "15:39:35",
+        "legenda": "Placa de direcionamento do sítio Toca do Pinga do Boi",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "10:03",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 7283.1 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "25 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7df5b3ab8190ad75c8dc261cb5dbf960"
+      }
+    ]
   }
 }
