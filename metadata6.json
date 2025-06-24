@@ -1,6 +1,6 @@
 {
   "lagoa de cima ix toca da": {
-    "nivelDescricao": "SÃ©rie",
+    "nivelDescricao": "SÃÂ©rie",
     "fundos": [
       "Fiscalis"
     ],
@@ -11,7 +11,7 @@
         "nomeOriginal": "SA_Lagoa_de_Cima_IX(11).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
-        "municipio": "SÃ£o Braz do PiauÃ­",
+        "municipio": "SÃÂ£o Braz do PiauÃÂ­",
         "coordinates": [
           -43.054,
           -9.0382
@@ -29,10 +29,10 @@
         "dataInsercao": "2025-06-24",
         "horaInsercao": "00:30",
         "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 4118.2 KB, 6000Ã4000px",
+        "dimensaoSuporte": "image/jpeg, 4118.2 KB, 6000ÃÂ4000px",
         "historicoArquivistico": "qwe",
         "ambitoConteudo": "qwe",
-        "condicoesAcesso": "PÃºblico",
+        "condicoesAcesso": "PÃÂºblico",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
@@ -50,7 +50,7 @@
         "nomeOriginal": "SA_Lagoa_de_Cima_IX(12).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
-        "municipio": "SÃ£o Braz do PiauÃ­",
+        "municipio": "SÃÂ£o Braz do PiauÃÂ­",
         "coordinates": [
           -43.054,
           -9.0382
@@ -68,10 +68,10 @@
         "dataInsercao": "2025-06-24",
         "horaInsercao": "00:31",
         "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 1775.5 KB, 6000Ã4000px",
+        "dimensaoSuporte": "image/jpeg, 1775.5 KB, 6000ÃÂ4000px",
         "historicoArquivistico": "qwe",
         "ambitoConteudo": "qwe",
-        "condicoesAcesso": "PÃºblico",
+        "condicoesAcesso": "PÃÂºblico",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
@@ -89,7 +89,7 @@
         "nomeOriginal": "SA_Lagoa_de_Cima_IX(13).jpg",
         "sitio": "Lagoa de Cima IX ( Toca da )",
         "co_iphan": "PI2209559BAST00015",
-        "municipio": "SÃ£o Braz do PiauÃ­",
+        "municipio": "SÃÂ£o Braz do PiauÃÂ­",
         "coordinates": [
           -43.054,
           -9.0382
@@ -107,10 +107,10 @@
         "dataInsercao": "2025-06-24",
         "horaInsercao": "00:31",
         "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 2480.4 KB, 5883Ã3894px",
+        "dimensaoSuporte": "image/jpeg, 2480.4 KB, 5883ÃÂ3894px",
         "historicoArquivistico": "qwe",
         "ambitoConteudo": "qwe",
-        "condicoesAcesso": "PÃºblico",
+        "condicoesAcesso": "PÃÂºblico",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
@@ -125,19 +125,20 @@
     ]
   },
   "toca do candido": {
-    "nivelDescricao": "Série",
+    "nivelDescricao": "SÃ©rie",
     "fundos": [
-      "Pesquisa Acadêmica",
-      "SICG-Cadastro-atualização"
+      "Pesquisa AcadÃªmica",
+      "SICG-Cadastro-atualizaÃ§Ã£o",
+      "Fiscalis"
     ],
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1750738160558-0",
         "nomeArquivo": "SA_Toca_do_Candido(1).jpg",
         "nomeOriginal": "SA_Lagoa_de_Cima_IX(6).jpg",
-        "sitio": "Toca do Cândido",
+        "sitio": "Toca do CÃ¢ndido",
         "co_iphan": "PI2211209BAST00001",
-        "municipio": "Uruçuí",
+        "municipio": "UruÃ§uÃ­",
         "coordinates": "-9.038408, -43.053825",
         "origemCoordenadas": "EXIF",
         "data": "2024-10-08",
@@ -151,11 +152,11 @@
         "inseridoPor": "qwe",
         "dataInsercao": "2025-06-24",
         "horaInsercao": "01:09",
-        "fundoArquivistico": "Pesquisa Acadêmica",
-        "dimensaoSuporte": "image/jpeg, 4952.9 KB, 3000×4000px",
+        "fundoArquivistico": "Pesquisa AcadÃªmica",
+        "dimensaoSuporte": "image/jpeg, 4952.9 KB, 3000Ã4000px",
         "historicoArquivistico": "qwe",
         "ambitoConteudo": "qwe",
-        "condicoesAcesso": "Público",
+        "condicoesAcesso": "PÃºblico",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
@@ -171,9 +172,9 @@
         "identificador": "ETSRN-PI22-1750738187092-1",
         "nomeArquivo": "SA_Toca_do_Candido(2).jpg",
         "nomeOriginal": "SA_Lagoa_de_Cima_IX(7).jpg",
-        "sitio": "Toca do Cândido",
+        "sitio": "Toca do CÃ¢ndido",
         "co_iphan": "PI2211209BAST00001",
-        "municipio": "Uruçuí",
+        "municipio": "UruÃ§uÃ­",
         "coordinates": "-9.038385, -43.053785",
         "origemCoordenadas": "EXIF",
         "data": "2024-10-08",
@@ -187,11 +188,11 @@
         "inseridoPor": "qwe",
         "dataInsercao": "2025-06-24",
         "horaInsercao": "01:09",
-        "fundoArquivistico": "SICG-Cadastro-atualização",
-        "dimensaoSuporte": "image/jpeg, 2493.9 KB, 3000×4000px",
+        "fundoArquivistico": "SICG-Cadastro-atualizaÃ§Ã£o",
+        "dimensaoSuporte": "image/jpeg, 2493.9 KB, 3000Ã4000px",
         "historicoArquivistico": "qwe",
         "ambitoConteudo": "qwe",
-        "condicoesAcesso": "Público",
+        "condicoesAcesso": "PÃºblico",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
@@ -207,9 +208,9 @@
         "identificador": "ETSRN-PI22-1750738211033-2",
         "nomeArquivo": "SA_Toca_do_Candido(3).jpg",
         "nomeOriginal": "SA_Lagoa_de_Cima_IX(8).jpg",
-        "sitio": "Toca do Cândido",
+        "sitio": "Toca do CÃ¢ndido",
         "co_iphan": "PI2211209BAST00001",
-        "municipio": "Uruçuí",
+        "municipio": "UruÃ§uÃ­",
         "coordinates": "-9.038371, -43.053735",
         "origemCoordenadas": "EXIF",
         "data": "2024-10-08",
@@ -223,11 +224,11 @@
         "inseridoPor": "qwe",
         "dataInsercao": "2025-06-24",
         "horaInsercao": "01:10",
-        "fundoArquivistico": "SICG-Cadastro-atualização",
-        "dimensaoSuporte": "image/jpeg, 3024.7 KB, 3000×4000px",
+        "fundoArquivistico": "SICG-Cadastro-atualizaÃ§Ã£o",
+        "dimensaoSuporte": "image/jpeg, 3024.7 KB, 3000Ã4000px",
         "historicoArquivistico": "qwe",
         "ambitoConteudo": "qwe",
-        "condicoesAcesso": "Público",
+        "condicoesAcesso": "PÃºblico",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
@@ -238,6 +239,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f5f9a7ff95f8aafef0c4632256325426"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750738935068-0",
+        "nomeArquivo": "SA_Toca_do_Candido(4).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(15).jpg",
+        "sitio": "Toca do Cândido",
+        "co_iphan": "PI2211209BAST00001",
+        "municipio": "Uruçuí",
+        "coordinates": "-9.038182, -43.054173",
+        "origemCoordenadas": "EXIF",
+        "data": "2024-10-08",
+        "horario": "08:25:53",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "01:22",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2133.6 KB, 3264×2448px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Redmi Note 9S",
+          "iso": 100,
+          "abertura": "f/f/1.8",
+          "distancia_focal": "4.74 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "553a0fc034f3893c0ee4eb8463b283cd"
       }
     ]
   }
