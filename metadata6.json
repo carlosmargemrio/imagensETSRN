@@ -456,6 +456,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ded5790c678134fb55dd20e4f063d933"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750792670737-0",
+        "nomeArquivo": "SA_Toca_do_Pinga_Velho(2).jpg",
+        "nomeOriginal": "S075foto (65).JPG",
+        "sitio": "Toca do Pinga Velho",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-19",
+        "horario": "11:15:43",
+        "legenda": "Demonstrativo de Figuras Fitomorfas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "16:17",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 40.0 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma Figura Fitomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b048d08d21b432fc3fccf5728288d86d"
       }
     ]
   }
