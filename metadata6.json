@@ -1,0 +1,46 @@
+{
+  "toca do grafismo": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750765056035-0",
+        "nomeArquivo": "SA_Toca_do_Grafismo(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Grafismo(!) (2).JPG",
+        "sitio": "Toca do Grafismo",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-06-29",
+        "horario": "09:40:32",
+        "legenda": "Placa de Identificação do sitio  Toca do Grafismo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "08:37",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 11245.1 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma Placa de Identificação do sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "84f7806c9240d46a6059caf106342a7c"
+      }
+    ]
+  }
+}
