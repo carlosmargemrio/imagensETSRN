@@ -12,14 +12,19 @@
         "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
         "co_iphan": "PI2201988BAST00038",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.859, -8.6095],
+        "coordinates": [
+          -42.859,
+          -8.6095
+        ],
         "origemCoordenadas": "SICG",
         "data": "2005-11-26",
         "horario": "16:52:15",
         "legenda": "Instalação de Placa de sítio Arqueológico Toca do Mangueira do Boqueirão Grande",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Placa"],
+        "tags": [
+          "Placa"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "11:22",
@@ -30,7 +35,12 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "CYBERSHOT", "iso": 100, "abertura": "f/f/4.0", "distancia_focal": "9.7 mm" },
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "e1f523e54a5bea762661667a6058447a"
       },
@@ -41,14 +51,20 @@
         "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
         "co_iphan": "PI2201988BAST00038",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.859, -8.6095],
+        "coordinates": [
+          -42.859,
+          -8.6095
+        ],
         "origemCoordenadas": "SICG",
         "data": "2005-11-26",
         "horario": "16:56:12",
         "legenda": "Instalação de Porteira de acesso ao sítio Toca do Mangueira do Boqueirão Grande",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Fitomorfos", "Vegetação"],
+        "tags": [
+          "Fitomorfos",
+          "Vegetação"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "11:29",
@@ -59,7 +75,12 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "CYBERSHOT", "iso": 100, "abertura": "f/f/3.2", "distancia_focal": "9.7 mm" },
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.2",
+          "distancia_focal": "9.7 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "fa81109a56d5fd39904d35af6fe6254a"
       },
@@ -70,14 +91,20 @@
         "sitio": "Mangueira do Boqueirão Grande ( Toca da )",
         "co_iphan": "PI2201988BAST00038",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.859, -8.6095],
+        "coordinates": [
+          -42.859,
+          -8.6095
+        ],
         "origemCoordenadas": "SICG",
         "data": "2005-11-28",
         "horario": "12:14:10",
         "legenda": "Finalização de cercamento  do sítio Toca do Mangueira do Boqueirão",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Fitomorfos", "vegetação"],
+        "tags": [
+          "Fitomorfos",
+          "vegetação"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "11:43",
@@ -88,16 +115,22 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "CYBERSHOT", "iso": 100, "abertura": "f/f/4.0", "distancia_focal": "9.7 mm" },
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "06dc205fd77b64b91f610754d1813707"
       }
     ]
   },
-
   "jose ferreira toca do": {
     "nivelDescricao": "Série",
-    "fundos": ["Fiscalização do Iphan"],
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1750690733853-0",
@@ -106,14 +139,19 @@
         "sitio": "José Ferreira (Toca do)",
         "co_iphan": "PI2201988BAST00122",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.7132, -8.612],
+        "coordinates": [
+          -42.7132,
+          -8.612
+        ],
         "origemCoordenadas": "SICG",
         "data": "2024-06-27",
         "horario": "12:00:38",
         "legenda": "Placa de Identificação do sítio Toca do José Ferreira",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Placa"],
+        "tags": [
+          "Placa"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "11:58",
@@ -124,7 +162,12 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "Canon EOS Rebel T7", "iso": 100, "abertura": "f/f/7.1", "distancia_focal": "48 mm" },
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "48 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f1506a58c60b6c096082422305de4265"
       },
@@ -135,14 +178,19 @@
         "sitio": "José Ferreira (Toca do)",
         "co_iphan": "PI2201988BAST00122",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.7132, -8.612],
+        "coordinates": [
+          -42.7132,
+          -8.612
+        ],
         "origemCoordenadas": "SICG",
         "data": "2024-06-27",
         "horario": "12:05:40",
         "legenda": "Placa de direcionamento do sítio toca do José Ferreira",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Placa"],
+        "tags": [
+          "Placa"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "13:55",
@@ -153,7 +201,12 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "Canon EOS Rebel T7", "iso": 100, "abertura": "f/f/7.1", "distancia_focal": "55 mm" },
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "55 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "342774eebd2117722b75dc6a5cb88bea"
       },
@@ -164,14 +217,19 @@
         "sitio": "José Ferreira (Toca do)",
         "co_iphan": "PI2201988BAST00122",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.7132, -8.612],
+        "coordinates": [
+          -42.7132,
+          -8.612
+        ],
         "origemCoordenadas": "SICG",
         "data": "2024-06-27",
         "horario": "12:00:49",
         "legenda": "Demonstração de figura Antropomorfas",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Antropomorfos"],
+        "tags": [
+          "Antropomorfos"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "14:14",
@@ -182,16 +240,22 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "Canon EOS Rebel T7", "iso": 100, "abertura": "f/f/5.0", "distancia_focal": "18 mm" },
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "18 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2dbbe6d7d0e2369c1328729a691e2a75"
       }
     ]
   },
-
   "garrancho toca do": {
     "nivelDescricao": "Série",
-    "fundos": ["Fiscalis"],
+    "fundos": [
+      "Fiscalis"
+    ],
     "imagens": [
       {
         "identificador": "ETSRN-PI22-1750700454003-0",
@@ -200,14 +264,19 @@
         "sitio": "Garrancho ( Toca do )",
         "co_iphan": "PI2201988BAST00048",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.7292, -8.675],
+        "coordinates": [
+          -42.7292,
+          -8.675
+        ],
         "origemCoordenadas": "SICG",
         "data": "2013-10-07",
         "horario": "22:28:39",
         "legenda": "Placa de Identificação do sitio Toca do Garrancho",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Placa"],
+        "tags": [
+          "Placa"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "14:40",
@@ -218,7 +287,12 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "DSC-H10", "iso": 125, "abertura": "f/f/4.0", "distancia_focal": "15.2 mm" },
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "659ca1b20a70f528ad8f627673543a77"
       },
@@ -229,14 +303,19 @@
         "sitio": "Garrancho ( Toca do )",
         "co_iphan": "PI2201988BAST00048",
         "municipio": "Brejo do Piauí",
-        "coordinates": [-42.7292, -8.675],
+        "coordinates": [
+          -42.7292,
+          -8.675
+        ],
         "origemCoordenadas": "SICG",
         "data": "2013-10-07",
         "horario": "22:48:14",
         "legenda": "Placa de direcionamento do sítio Toca do Garrancho",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
-        "tags": ["Placa"],
+        "tags": [
+          "Placa"
+        ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-23",
         "horaInsercao": "14:49",
@@ -247,7 +326,12 @@
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
-        "camera": { "modelo": "DSC-H10", "iso": 125, "abertura": "f/f/3.5", "distancia_focal": "6.3 mm" },
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "3d7f586b044544b2203e37e81aec48a5"
       }
@@ -653,6 +737,59 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ded9c84c566f28cd27304a0eec4b86c0"
+      }
+    ]
+  },
+  "lagoa de cima ix toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750733707053-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Lagoa_de_Cima_IX(11).jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.054,
+          -9.0382
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-10-08",
+        "horario": "09:27:03",
+        "legenda": "Detalhe de registros rupestre em um dos painéis do sítio arqueológico Lagoa de Cima IX",
+        "autoria": "Carlos Rocha",
+        "direitosAutorais": "Carlos Rocha",
+        "tags": [
+          "Escala",
+          "Vermelho",
+          "Zoomorfos",
+          "Antropomorfos",
+          "Geométricos",
+          "Preenchida",
+          "Cervídeo"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "23:55",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4118.2 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no âmbito da fiscalização do Iphan Fiscalis",
+        "ambitoConteudo": "Trata-se de uma imagem que registra a representação de pelo menos 9 figuras dentre as quais 4 se assemelham com figuras humanas e 2 com animais sendo eles um cervídeo e um lagarto. Além disso uma figura que parece está incompleta, mas que ao comparar com as demais indica uma semelhança com os outros antropomorfos do mesmo painel; Ainda há uma figura geométrica no canto superior esquerdo",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "26 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
       }
     ]
   }
