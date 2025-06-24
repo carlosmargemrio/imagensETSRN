@@ -334,6 +334,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "67c13e88ba3e5e2df19ffcc2de21eda1"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750771336945-0",
+        "nomeArquivo": "SA_Toca_do_Pinga_do_Boi(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Pinga_do_Boi(6).JPG",
+        "sitio": "Toca do Pinga do Boi",
+        "co_iphan": "PI2201988BAST00025",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6816,
+          -8.5565
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "15:50:31",
+        "legenda": "Figuras Antropomorfas Toca do Pinga do Boi",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-24",
+        "horaInsercao": "10:22",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 10181.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata Figuras Antropomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "60ebac1fde986b948c03de74ea4d6099"
       }
     ]
   }
