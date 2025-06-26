@@ -994,7 +994,8 @@
   "salitre toca do": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Iphan"
+      "Fiscalização do Iphan",
+      "fiscalização do Iphan"
     ],
     "imagens": [
       {
@@ -1241,6 +1242,328 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "184b0c619f0b438a72bb3e8235ba16c7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750960360407-0",
+        "nomeArquivo": "SA_Salitre_Toca_do(7).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(20).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:01:23",
+        "legenda": "demonstrativo de registro zoomorfos do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "14:52",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1626.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a8b8a81bf1cc58b69932d81bb52ef501"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750960684285-1",
+        "nomeArquivo": "SA_Salitre_Toca_do(8).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(21).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:06:04",
+        "legenda": "Demonstrativo de registro Zoomorfos do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "14:58",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1370.6 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b1d85472fcc590bff782fb57f5264059"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750961027160-2",
+        "nomeArquivo": "SA_Salitre_Toca_do(9).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(22).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:06:22",
+        "legenda": "Demonstrativo de registro Zoomorfos do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:03",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1400.7 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "739fa29fa69761bbb29f11eb56fc9f51"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750961394769-3",
+        "nomeArquivo": "SA_Salitre_Toca_do(10).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(23).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:06:44",
+        "legenda": "demonstrativo de registro Zoomorfos do Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:09",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1389.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata o registro Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "20cd4b6f6ce2d835ba9301ab000ceba4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750961791192-4",
+        "nomeArquivo": "SA_Salitre_Toca_do(11).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(24).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:07:36",
+        "legenda": "Demonstrativo de registro Antropomorfos Zoomorfos do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Zoomorfos",
+          "Vermelho",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:16",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1349.7 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomorfos e Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d328e379a1328ceeb56cc1f696ab0086"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750962125947-5",
+        "nomeArquivo": "SA_Salitre_Toca_do(12).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(25).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:07:54",
+        "legenda": "Demonstrativo de registo Antropomorfos e Zoomorfos do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:22",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1388.5 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomorfos e Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "33ad2ad1d0e5625d496a66d377a85a09"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750962466037-6",
+        "nomeArquivo": "SA_Salitre_Toca_do(13).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(26).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:08:12",
+        "legenda": "Demonstrativo de registro Antropomorfos do sítio Toca do Salitre",
+        "autoria": "IPhan",
+        "direitosAutorais": "IPhan",
+        "tags": [
+          "Antropomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1381.9 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registo Antropomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "dc74250eb8320e8883af5aebf2aa6fe9"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750962842842-7",
+        "nomeArquivo": "SA_Salitre_Toca_do(14).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(27).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:08:30",
+        "legenda": "Demonstrativo de registro Fitomorfos do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:34",
+        "fundoArquivistico": "fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1382.0 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Fitomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "bc1b48442aa117471f34d4ba988258a8"
       }
     ]
   },
