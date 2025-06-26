@@ -654,6 +654,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "878d489b69ced599d6d9a4cd835f1612"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750942700202-0",
+        "nomeArquivo": "SA_TOCA_DO_PICA_PAU(3).jpg",
+        "nomeOriginal": "SA_TOCA_DO_PICA_PAU(10).jpg",
+        "sitio": "TOCA DO PICA PAU",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-09",
+        "horario": "23:54:26",
+        "legenda": "Demonstração de Figuras Zoomorfas do sítio Toca do Pica Pau",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "09:58",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2101.1 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata Figuras Zoomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4f15758bdf9333172052540d3c783208"
       }
     ]
   }
