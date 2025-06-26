@@ -530,5 +530,50 @@
         "hashArquivo": "14f6b02776506af3c2db6223f2c7c6d7"
       }
     ]
+  },
+  "toca do pingo velho": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750941161614-0",
+        "nomeArquivo": "SA_Toca_do_Pingo_Velho(1).jpg",
+        "nomeOriginal": "S075foto (113)abrigo.JPG",
+        "sitio": "Toca do Pingo Velho",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-19",
+        "horario": "11:05:00",
+        "legenda": "Vista Geral do sítio Toca do Pingo Velho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitomorfos",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "09:32",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 61.6 KB, 544×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma vista geral, com figuras Fitomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "68c547b842d098d61d50a171846fb7b5"
+      }
+    ]
   }
 }
