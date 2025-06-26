@@ -575,5 +575,49 @@
         "hashArquivo": "68c547b842d098d61d50a171846fb7b5"
       }
     ]
+  },
+  "toca do pica pau": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750941868202-0",
+        "nomeArquivo": "SA_TOCA_DO_PICA_PAU(1).jpg",
+        "nomeOriginal": "SA_TOCA_DO_PICA_PAU(1).jpg",
+        "sitio": "TOCA DO PICA PAU",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-09",
+        "horario": "23:51:14",
+        "legenda": "Placa de Identificação do sitio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "09:44",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2225.6 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma placa de Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "89e2925f34c96214a135e35c9c6f04de"
+      }
+    ]
   }
 }
