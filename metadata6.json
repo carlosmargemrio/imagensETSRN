@@ -822,6 +822,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ea02c51b52d8950f93031a06035ab984"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750945059081-0",
+        "nomeArquivo": "SA_Toca_do_Pau_D_arco(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_Pau_D'arco(7).JPG",
+        "sitio": "Toca do Pau D'arco",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "20:23:18",
+        "legenda": "Instalação de cerca e portão de acesso ao sítio Toca do Pau D'arco",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "10:37",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1393.5 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Instalação de cerca e portão de acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a00f9c942f3568cb8dacc6298b5c871c"
       }
     ]
   },
