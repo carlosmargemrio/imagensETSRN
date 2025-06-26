@@ -1564,6 +1564,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "bc1b48442aa117471f34d4ba988258a8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750963436527-0",
+        "nomeArquivo": "SA_Salitre_Toca_do(15).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(94).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "22:47:53",
+        "legenda": "Vista Geral do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Paisagem",
+          "vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "15:43",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2226.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de paisagem de vista geral do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6bb2e0f7f14a6ecab588433d461eedfc"
       }
     ]
   },
