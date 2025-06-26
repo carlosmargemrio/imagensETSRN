@@ -990,5 +990,52 @@
         "hashArquivo": "963b4451f7071d122b371a26b312305e"
       }
     ]
+  },
+  "salitre toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750956417311-0",
+        "nomeArquivo": "SA_Salitre_Toca_do(1).jpg",
+        "nomeOriginal": "SA_TOCA_DO_SALITRE(9).jpg",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.8843,
+          -8.9859
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-02-05",
+        "horario": "21:51:53",
+        "legenda": "Demonstrativo de Figuras Zoomorfas  do sítio Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "13:46",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1418.5 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Figuras Zoomorfas  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e47d77adbd9202ab12094607f4e1ed1f"
+      }
+    ]
   }
 }
