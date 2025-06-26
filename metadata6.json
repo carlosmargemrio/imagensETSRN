@@ -824,5 +824,49 @@
         "hashArquivo": "ea02c51b52d8950f93031a06035ab984"
       }
     ]
+  },
+  "sitio toca do pau darco": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750944657585-0",
+        "nomeArquivo": "SA_Sitio_Toca_do_Pau_D_arco(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_Pau_D'arco(5).JPG",
+        "sitio": "Sítio Toca do Pau D'arco",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "20:22:28",
+        "legenda": "Demonstrativo de Figuras Zoomorfas do sítio Toca do Pau D'arco",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "10:30",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1207.2 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Figuras Zoomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.6",
+          "distancia_focal": "21.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4ae727f6a1571b77ccd305724b39fbf6"
+      }
+    ]
   }
 }
