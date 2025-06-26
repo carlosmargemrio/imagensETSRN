@@ -692,5 +692,49 @@
         "hashArquivo": "4f15758bdf9333172052540d3c783208"
       }
     ]
+  },
+  "sitio toca do pau de arara": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750943116970-0",
+        "nomeArquivo": "SA_Sitio_Toca_do_pau_de_Arara(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca do_pau_de_Arara(1).JPG",
+        "sitio": "Sítio Toca do pau de Arara",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-18",
+        "horario": "20:55:23",
+        "legenda": "Placa de Identificação do Sítio Toca do pau de Arara",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "10:05",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2250.6 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma Placa de Identificação do sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "c4f17a770703880ba879a4c354bfa3dc"
+      }
+    ]
   }
 }
