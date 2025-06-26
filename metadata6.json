@@ -736,5 +736,49 @@
         "hashArquivo": "c4f17a770703880ba879a4c354bfa3dc"
       }
     ]
+  },
+  "sitio toca do pau do arara": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1750943558417-0",
+        "nomeArquivo": "SA_Sitio_Toca_do_pau_do_Arara(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca do_pau_de_Arara(5).JPG",
+        "sitio": "Sítio Toca do pau do Arara",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-18",
+        "horario": "20:55:54",
+        "legenda": "Demonstrativo de Figuras Antropomorfas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "10:12",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2351.6 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata Figuras Antropomorfas do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e6b8f2a79e7f5959b3d0b6a205355567"
+      }
+    ]
   }
 }
