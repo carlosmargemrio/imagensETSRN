@@ -1202,6 +1202,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "6d524e035f03e590cb3013be529ed84c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1750959861324-0",
+        "nomeArquivo": "SA_Salitre_Toca_do(6).jpg",
+        "nomeOriginal": "SA_Toca_do_Salitre(157).JPG",
+        "sitio": "Salitre (Toca do)",
+        "co_iphan": "PI2210607BAST00131",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.884,
+          -8.9854
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-23",
+        "horario": "15:00:42",
+        "legenda": "Placa de sítio arqueológico Toca do Salitre",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-26",
+        "horaInsercao": "14:44",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1449.5 KB, 1536×2048px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "12.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "184b0c619f0b438a72bb3e8235ba16c7"
       }
     ]
   },
