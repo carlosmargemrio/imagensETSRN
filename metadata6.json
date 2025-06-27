@@ -2058,6 +2058,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ca997cf8919780d239cc70b29d5b7b33"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751026528994-0",
+        "nomeArquivo": "SA_Prato_Toca_do(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Prato(2).JPG",
+        "sitio": "Prato ( Toca do )",
+        "co_iphan": "PI2210607BAST00030",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7281,
+          -8.8856
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "14:40:10",
+        "legenda": "Portão de acesso ao sítio Toca do Prato",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-27",
+        "horaInsercao": "09:15",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 591.9 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Acesso e Vegetação do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "bee6687eaaea737e8973e0f80408e2ef"
       }
     ]
   }
