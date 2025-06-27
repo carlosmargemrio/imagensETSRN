@@ -1,13 +1,15 @@
 name: Gerar Thumbnails
 
 permissions:
-  contents: write           # permite gravar no repositório
+  contents: write                 # permite gravar no repositório
+  
+  concurrency: 
+      group: thumbs              # todos os jobs deste workflow entram na mesma fila
+      cancel-in-progress: true # só mantém o mais recente; aborta o anterior
 
 on:
   push:
     paths:
-      - 'imagens7/*.jpg'
-      - 'imagens7/*.jpeg'
       - 'imagens7/**/*.jpg'
       - 'imagens7/**/*.jpeg'
   workflow_dispatch:
@@ -19,8 +21,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0     # necessário para dar push
-          lfs: true          # se você usa Git LFS para as fotos
+          fetch-depth: 0          # precisamos do histórico completo
+          lfs: true               # se suas fotos estão em Git LFS
 
       - name: Instalar ImageMagick
         run: |
@@ -33,10 +35,8 @@ jobs:
           mkdir -p imagens7/thumbs
           for f in imagens7/*.{jpg,JPG,jpeg,JPEG} imagens7/**/*.{jpg,JPG,jpeg,JPEG}; do
             [ -f "$f" ] || continue
-            base=$(basename "$f")
-            out="imagens7/thumbs/${base%.*}.webp"
-            [ -e "$out" ] && continue
-            echo "→ Gerando $out"
+            out="imagens7/thumbs/$(basename "${f%.*}").webp"
+            [ -e "$out" ] && continue          # já tem? pula
             convert "$f" -resize 800x800 -quality 75 "$out"
           done
 
@@ -44,10 +44,14 @@ jobs:
         run: |
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
-          if [ -n "$(git status --porcelain imagens7/thumbs)" ]; then
-            git add imagens7/thumbs
-            git commit -m "Add/Update thumbnails"
-            git push
-          else
-            echo "Nada a commitar"
+
+          # há algo modificado?
+          if [ -z "$(git status --porcelain imagens7/thumbs)" ]; then
+            echo "Nada a commitar"; exit 0
           fi
+
+          git add imagens7/thumbs
+          git commit -m "Add/Update thumbnails"
+
+          🔹git pull --rebase --autostash     # sincroniza com o remoto
+          git push
