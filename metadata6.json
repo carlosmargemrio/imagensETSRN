@@ -2013,5 +2013,52 @@
         "hashArquivo": "da0e0cfcc2666bbaeef1a1fa4e38f233"
       }
     ]
+  },
+  "prato toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751026100961-0",
+        "nomeArquivo": "SA_Prato_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Prato(1).JPG",
+        "sitio": "Prato ( Toca do )",
+        "co_iphan": "PI2210607BAST00030",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7281,
+          -8.8856
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "14:36:22",
+        "legenda": "Instalação de Placa de sítio Arqueológico do Sítio Toca do Prato",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-27",
+        "horaInsercao": "09:08",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 588.4 KB, 1280×960px",
+        "historicoArquivistico": "fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ca997cf8919780d239cc70b29d5b7b33"
+      }
+    ]
   }
 }
