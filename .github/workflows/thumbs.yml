@@ -1,12 +1,13 @@
 name: Gerar Thumbnails
 
+permissions:
+  contents: write        # ← novo
+
 on:
   push:
     paths:
       - 'imagens7/**/*.jpg'
       - 'imagens7/**/*.jpeg'
-
-  # opcional: permite disparar manualmente em "Actions → Run workflow"
   workflow_dispatch:
 
 jobs:
@@ -14,8 +15,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0       # necessário para poder dar push
 
       - name: Instalar ImageMagick
         run: |
@@ -26,7 +28,7 @@ jobs:
         run: |
           mkdir -p imagens7/thumbs
           for f in imagens7/**/*.jpg imagens7/**/*.jpeg; do
-            [ -e "$f" ] || continue          # pula se não existir
+            [ -e "$f" ] || continue
             base=$(basename "$f")
             convert "$f" -resize 800x800 -quality 75 \
                     "imagens7/thumbs/${base%.*}.webp"
@@ -36,6 +38,11 @@ jobs:
         run: |
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
-          git add imagens7/thumbs
-          git commit -m "Add/Update thumbnails" || echo "Nada a commitar"
-          git push
+          CHANGED=$(git status --porcelain | wc -l)
+          if [ "$CHANGED" -gt 0 ]; then
+            git add imagens7/thumbs
+            git commit -m "Add/Update thumbnails"
+            git push
+          else
+            echo "Nada a commitar"
+          fi
