@@ -3,27 +3,33 @@ name: Gerar Thumbnails
 on:
   push:
     paths:
-      - 'imagens7/*.jpg'
-      - 'imagens7/*.jpeg'
+      - 'imagens7/**/*.jpg'
+      - 'imagens7/**/*.jpeg'
+
+  # opcional: permite disparar manualmente em "Actions → Run workflow"
+  workflow_dispatch:
 
 jobs:
   thumbs:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
 
       - name: Instalar ImageMagick
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
 
-      - name: Criar miniaturas
+      - name: Criar miniaturas WebP (800 px, 75 %)
         run: |
           mkdir -p imagens7/thumbs
-          for f in imagens7/*.jpg imagens7/*.jpeg; do
-            [ -e "$f" ] || continue
+          for f in imagens7/**/*.jpg imagens7/**/*.jpeg; do
+            [ -e "$f" ] || continue          # pula se não existir
             base=$(basename "$f")
-            convert "$f" -resize 800x800 -quality 75 "imagens7/thumbs/${base%.*}.webp"
+            convert "$f" -resize 800x800 -quality 75 \
+                    "imagens7/thumbs/${base%.*}.webp"
           done
 
       - name: Commit & push thumbnails
