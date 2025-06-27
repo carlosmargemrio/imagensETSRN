@@ -2426,6 +2426,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "65658041ab98d98f9367c29d03f01522"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751047095356-0",
+        "nomeArquivo": "SA_Toca_do_Joao_Arsena(6).jpg",
+        "nomeOriginal": "SA_Toca-do_Joâo_Arcena(52).JPG",
+        "sitio": "Toca do João Arsena",
+        "co_iphan": "PI2201988BAST00013",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6928,
+          -8.5725
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:20:41",
+        "legenda": "Vista geral do sítio Toca do João Arsena",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem"
+        ],
+        "inseridoPor": "ELiane Aragão de Souza",
+        "dataInsercao": "2025-06-27",
+        "horaInsercao": "14:58",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 9118.2 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata uma Paisagem do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "24 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "79fc7bc269a2212b5bd7152dce049261"
       }
     ]
   }
