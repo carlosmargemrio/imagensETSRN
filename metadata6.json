@@ -2386,6 +2386,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "fdb5246616ed5eef0afa29ba7581fe94"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751034177166-0",
+        "nomeArquivo": "SA_Toca_do_Joao_Arsena(5).jpg",
+        "nomeOriginal": "SA_Toca-do_Joâo_Arcena(37).JPG",
+        "sitio": "Toca do João Arsena",
+        "co_iphan": "PI2201988BAST00013",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6928,
+          -8.5725
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:14:01",
+        "legenda": "Registro Antropomorfos e Zoomorfos do sítio Toca do João Arsena",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-27",
+        "horaInsercao": "11:22",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 9365.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomorfos e Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "65658041ab98d98f9367c29d03f01522"
       }
     ]
   }
