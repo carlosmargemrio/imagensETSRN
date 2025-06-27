@@ -1,57 +1,70 @@
 name: Gerar Thumbnails
 
+# ---- permissões & fila -----------------------------------------------------
 permissions:
-  contents: write                 # permite gravar no repositório
-  
-  concurrency: 
-      group: thumbs              # todos os jobs deste workflow entram na mesma fila
-      cancel-in-progress: true # só mantém o mais recente; aborta o anterior
+  contents: write           # permite gravar no branch
 
+concurrency:
+  group: gerar-thumbs       # todos os jobs deste workflow entram na mesma fila
+  cancel-in-progress: true  # cancela o job anterior se um novo push chegar
+
+# ---- gatilhos --------------------------------------------------------------
 on:
   push:
     paths:
       - 'imagens7/**/*.jpg'
       - 'imagens7/**/*.jpeg'
-  workflow_dispatch:
+  workflow_dispatch:        # disparo manual opcional
 
+# ---- job principal ---------------------------------------------------------
 jobs:
   thumbs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0          # precisamos do histórico completo
-          lfs: true               # se suas fotos estão em Git LFS
+    # 1) checkout completo (precisa do histórico para rebase)
+    - name: Checkout do repositório
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0      # histórico completo
+        lfs: true           # se suas fotos usam Git LFS
 
-      - name: Instalar ImageMagick
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
+    # 2) dependências
+    - name: Instalar ImageMagick
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick
 
-      - name: Criar miniaturas WebP (800 px, 75 %)
-        run: |
-          shopt -s globstar nullglob
-          mkdir -p imagens7/thumbs
-          for f in imagens7/*.{jpg,JPG,jpeg,JPEG} imagens7/**/*.{jpg,JPG,jpeg,JPEG}; do
-            [ -f "$f" ] || continue
-            out="imagens7/thumbs/$(basename "${f%.*}").webp"
-            [ -e "$out" ] && continue          # já tem? pula
-            convert "$f" -resize 800x800 -quality 75 "$out"
-          done
+    # 3) gerar miniaturas
+    - name: Criar miniaturas WebP (800 px, 75 %)
+      run: |
+        shopt -s globstar nullglob           # habilita ** e ignora padrões vazios
+        mkdir -p imagens7/thumbs
+        for f in imagens7/*.{jpg,JPG,jpeg,JPEG} imagens7/**/*.{jpg,JPG,jpeg,JPEG}; do
+          [ -f "$f" ] || continue            # garante que é arquivo normal
+          out="imagens7/thumbs/$(basename "${f%.*}").webp"
+          [ -e "$out" ] && continue          # já existe? pula
+          echo "→ Gerando $out"
+          convert "$f" -resize 800x800 -quality 75 "$out"
+        done
 
-      - name: Commit & push thumbnails
-        run: |
-          git config user.name  "github-actions"
-          git config user.email "actions@github.com"
+    # 4) commit & push (com rebase para evitar non-fast-forward)
+    - name: Commit & push thumbnails
+      env:
+        GIT_AUTHOR_NAME:  github-actions
+        GIT_AUTHOR_EMAIL: actions@github.com
+        GIT_COMMITTER_NAME:  github-actions
+        GIT_COMMITTER_EMAIL: actions@github.com
+      run: |
+        # há mudanças?
+        if [ -z "$(git status --porcelain imagens7/thumbs)" ]; then
+          echo "Nenhuma miniatura nova ou atualizada."
+          exit 0
+        fi
 
-          # há algo modificado?
-          if [ -z "$(git status --porcelain imagens7/thumbs)" ]; then
-            echo "Nada a commitar"; exit 0
-          fi
+        git add imagens7/thumbs
+        git commit -m "Add/Update thumbnails"
 
-          git add imagens7/thumbs
-          git commit -m "Add/Update thumbnails"
-
-          🔹git pull --rebase --autostash     # sincroniza com o remoto
-          git push
+        # sincroniza com remoto; reaplica o commit no topo
+        git pull --rebase --autostash
+        git push
