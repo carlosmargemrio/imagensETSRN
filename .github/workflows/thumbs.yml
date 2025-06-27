@@ -1,11 +1,13 @@
 name: Gerar Thumbnails
 
 permissions:
-  contents: write        # ← novo
+  contents: write           # permite gravar no repositório
 
 on:
   push:
     paths:
+      - 'imagens7/*.jpg'
+      - 'imagens7/*.jpeg'
       - 'imagens7/**/*.jpg'
       - 'imagens7/**/*.jpeg'
   workflow_dispatch:
@@ -17,7 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0       # necessário para poder dar push
+          fetch-depth: 0     # necessário para dar push
+          lfs: true          # se você usa Git LFS para as fotos
 
       - name: Instalar ImageMagick
         run: |
@@ -26,20 +29,22 @@ jobs:
 
       - name: Criar miniaturas WebP (800 px, 75 %)
         run: |
+          shopt -s globstar nullglob
           mkdir -p imagens7/thumbs
-          for f in imagens7/**/*.jpg imagens7/**/*.jpeg; do
-            [ -e "$f" ] || continue
+          for f in imagens7/*.{jpg,JPG,jpeg,JPEG} imagens7/**/*.{jpg,JPG,jpeg,JPEG}; do
+            [ -f "$f" ] || continue
             base=$(basename "$f")
-            convert "$f" -resize 800x800 -quality 75 \
-                    "imagens7/thumbs/${base%.*}.webp"
+            out="imagens7/thumbs/${base%.*}.webp"
+            [ -e "$out" ] && continue
+            echo "→ Gerando $out"
+            convert "$f" -resize 800x800 -quality 75 "$out"
           done
 
       - name: Commit & push thumbnails
         run: |
           git config user.name  "github-actions"
           git config user.email "actions@github.com"
-          CHANGED=$(git status --porcelain | wc -l)
-          if [ "$CHANGED" -gt 0 ]; then
+          if [ -n "$(git status --porcelain imagens7/thumbs)" ]; then
             git add imagens7/thumbs
             git commit -m "Add/Update thumbnails"
             git push
