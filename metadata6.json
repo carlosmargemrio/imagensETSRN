@@ -2991,7 +2991,8 @@
     "nivelDescricao": "Série",
     "fundos": [
       "Fiscalização do Iphan",
-      "Fiscalização do iphan"
+      "Fiscalização do iphan",
+      "FIscalização do Iphan"
     ],
     "imagens": [
       {
@@ -3190,6 +3191,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7d4d5cf87d6bacd70ddc8856f0d1252b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751306389029-0",
+        "nomeArquivo": "SA_Caboclinho_Toca_do(6).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLIHO(25).jpg",
+        "sitio": "Caboclinho (Toca do)",
+        "co_iphan": "PI2210607BAST00070",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.728,
+          -8.6706
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "23:18:57",
+        "legenda": "Vista Geral e Vegetação do sítio Toca do caboclinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "14:59",
+        "fundoArquivistico": "FIscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2212.2 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata vista geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "42d9ec24f3fcdd9e88015b18895c50d7"
       }
     ]
   }
