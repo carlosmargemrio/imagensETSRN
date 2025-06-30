@@ -2990,7 +2990,8 @@
   "caboclinho toca do": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Iphan"
+      "Fiscalização do Iphan",
+      "Fiscalização do iphan"
     ],
     "imagens": [
       {
@@ -3031,6 +3032,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "16537815473f336e777a62457d84b440"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751305026965-0",
+        "nomeArquivo": "SA_Caboclinho_Toca_do(2).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLIHO(8).jpg",
+        "sitio": "Caboclinho (Toca do)",
+        "co_iphan": "PI2210607BAST00070",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.728,
+          -8.6706
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "23:07:51",
+        "legenda": "Registro Zoomorfos do sítio Toca do Caboclinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "14:37",
+        "fundoArquivistico": "Fiscalização do iphan",
+        "dimensaoSuporte": "image/jpeg, 2198.9 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata  Registro Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "cfe5498b0242430c05c9d1181164e203"
       }
     ]
   }
