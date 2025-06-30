@@ -2785,6 +2785,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "bc4cf4a09c6582ebd7741f713944b231"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751290027186-0",
+        "nomeArquivo": "SA_TOca_do_Satu_I(5).jpg",
+        "nomeOriginal": "SA_Toca_do_satú_II(6).JPG",
+        "sitio": "TOca do Satú I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-28",
+        "horario": "08:42:47",
+        "legenda": "Registro Antropomorfos de sítio Toca do Satú I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "10:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1419.8 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "3557b814b9e34c94112008a515aa7924"
       }
     ]
   }
