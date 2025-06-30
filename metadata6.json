@@ -2675,6 +2675,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "8bd0a760349ea6f495341b2d79766cad"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751288451891-0",
+        "nomeArquivo": "SA_Toca_do_Satu_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Satú_I(2).JPG",
+        "sitio": "Toca do Satù I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-28",
+        "horario": "08:31:21",
+        "legenda": "Registro de flora e Vegetação do sítio Toca do Satù I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "flora",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "10:00",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1440.6 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata registro de Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "12e47c19599e5f956482efef7a35f600"
       }
     ]
   }
