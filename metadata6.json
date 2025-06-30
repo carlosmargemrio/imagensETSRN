@@ -3279,6 +3279,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "5996b41dd799cad78a51c8fde66d0682"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751307021081-0",
+        "nomeArquivo": "SA_Toca_do_Mulungu_2(2).jpg",
+        "nomeOriginal": "SA_TOCA_DO_MULIGU_II(8).jpg",
+        "sitio": "Toca do Mulungu 2",
+        "co_iphan": "PI2201988BAST00167",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7252,
+          -8.6609
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-08",
+        "horario": "00:11:03",
+        "legenda": "Vista Geral do sítio Toca do mulungu 2",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "15:10",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2323.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata vista geral do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b0c497469dfc3cd91868e451b822ed54"
       }
     ]
   }
