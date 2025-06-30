@@ -3071,6 +3071,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "cfe5498b0242430c05c9d1181164e203"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751305392801-0",
+        "nomeArquivo": "SA_Caboclinho_Toca_do(3).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLIHO(11).jpg",
+        "sitio": "Caboclinho (Toca do)",
+        "co_iphan": "PI2210607BAST00070",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.728,
+          -8.6706
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "23:08:29",
+        "legenda": "Registro de Antropomorfos do sítio Toca do Caboclinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "14:43",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2272.0 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Registro Antropomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "11e3b5de65eaa7fe2010d7e3a145685e"
       }
     ]
   }
