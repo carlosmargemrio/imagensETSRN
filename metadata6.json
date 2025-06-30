@@ -2945,6 +2945,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "68c853a5856c8875fe750d9146174797"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751300897030-0",
+        "nomeArquivo": "SA_Candu_II_Toca_do(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Candu_I(10).JPG",
+        "sitio": "Candú II (Toca do)",
+        "co_iphan": "PI2205359BAST00070",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.6819,
+          -8.555
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-07-10",
+        "horario": "10:27:31",
+        "legenda": "Registro de Zoomorfos do sítio Toca do Candú I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "13:28",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 12160.8 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata Registro Zoomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "008c06d88e044c07eada700528b9c6c1"
       }
     ]
   }
