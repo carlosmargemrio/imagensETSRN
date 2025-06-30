@@ -3150,6 +3150,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0917f8b4f8f7277abccc3681696dad3f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751306089980-0",
+        "nomeArquivo": "SA_Caboclinho_Toca_do(5).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLIHO(17).jpg",
+        "sitio": "Caboclinho (Toca do)",
+        "co_iphan": "PI2210607BAST00070",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.728,
+          -8.6706
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "23:09:27",
+        "legenda": "Registro de Zoomorfos do sítio Toca do Caboclinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "14:54",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2345.3 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "12.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7d4d5cf87d6bacd70ddc8856f0d1252b"
       }
     ]
   }
