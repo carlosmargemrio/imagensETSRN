@@ -3233,5 +3233,53 @@
         "hashArquivo": "42d9ec24f3fcdd9e88015b18895c50d7"
       }
     ]
+  },
+  "toca do mulungu 2": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751306738599-0",
+        "nomeArquivo": "SA_Toca_do_Mulungu_2(1).jpg",
+        "nomeOriginal": "SA_TOCA_DO_MULIGU_II(3).jpg",
+        "sitio": "Toca do Mulungu 2",
+        "co_iphan": "PI2201988BAST00167",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7252,
+          -8.6609
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-08",
+        "horario": "00:08:42",
+        "legenda": "Registro Zoomorfos e Fitomorfos do sítio Toca do Mulungu 2",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Fitomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "15:05",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2103.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Zoomorfos e Fitomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5996b41dd799cad78a51c8fde66d0682"
+      }
+    ]
   }
 }
