@@ -3365,6 +3365,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2216501342afe6d29f04e95e94cbb6e8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751308617180-0",
+        "nomeArquivo": "SA_Toca_do_Estevo_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_EStevo_I(96).JPG",
+        "sitio": "Toca do Estevo I",
+        "co_iphan": "PI2205359BAST00138",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.444,
+          -8.6205
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-25",
+        "horario": "00:22:35",
+        "legenda": "Vista Geral, Paisagem e Vegetação  sítio Toca do Estevo I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "15:36",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1343.9 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4edda536a08c31491450a1cbb0564b04"
       }
     ]
   }
