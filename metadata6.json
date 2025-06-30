@@ -2821,6 +2821,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "3557b814b9e34c94112008a515aa7924"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751292076643-0",
+        "nomeArquivo": "SA_Toca_do_Satu_I(7).jpg",
+        "nomeOriginal": "SA_Toca_do_satú_II(7).JPG",
+        "sitio": "Toca do Satu I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-28",
+        "horario": "08:43:20",
+        "legenda": "Registro de paisagem e Vegetação do sitio Toca do Satu I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-06-30",
+        "horaInsercao": "11:01",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1339.9 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma vista geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "79ba2e10c3ba49556e940f673e0e40ab"
       }
     ]
   }
