@@ -3820,6 +3820,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2f975a4b98b4282ce20a5dd889543f1e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751390316753-0",
+        "nomeArquivo": "SA_Toca_do_Pau_D_oia(2).jpg",
+        "nomeOriginal": "SA_TOCA_DO_PAU_DÓIA(4).jpg",
+        "sitio": "Toca do Pau D'óia",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-10",
+        "horario": "00:41:53",
+        "legenda": "Registro Zoomorfos do Sítio Toca do Pau D'óia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-01",
+        "horaInsercao": "14:18",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2156.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "Aimagem Retrata Registro Zoomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1786627c1472743761c5ebae0d374729"
       }
     ]
   }
