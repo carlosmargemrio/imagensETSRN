@@ -3969,6 +3969,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "9322a50f5a1039e04f6c9f22b0c9b4db"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751392987986-0",
+        "nomeArquivo": "SA_Toca_do_Pau_D_oia(6).jpg",
+        "nomeOriginal": "SA_TOCA_DO_PAU_DÓIA(27).jpg",
+        "sitio": "Toca do Pau D'óia",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-10",
+        "horario": "00:49:41",
+        "legenda": "Registro de Visão Geral Paisagem e Vegetação do Sítio Toca do Pau D'óia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Visão Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-01",
+        "horaInsercao": "15:03",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2345.1 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro da Visão Geral, Paisagem e Vegetação do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ef37bc4c557395a059936d897da32399"
       }
     ]
   }
