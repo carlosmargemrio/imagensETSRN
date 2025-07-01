@@ -3778,5 +3778,49 @@
         "hashArquivo": "5997038bfafe6759fca75f89bf44f11d"
       }
     ]
+  },
+  "toca do pau doia": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751389738231-0",
+        "nomeArquivo": "SA_Toca_do_Pau_D_oia(1).jpg",
+        "nomeOriginal": "SA_TOCA_DO_PAU_DÓIA(1).jpg",
+        "sitio": "Toca do Pau D'óia",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-10",
+        "horario": "00:41:07",
+        "legenda": "Placa de Direcionamento do Sítio Toca do Pau D'óia",
+        "autoria": "Iplhan",
+        "direitosAutorais": "Iplhan",
+        "tags": [
+          "Plca"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-01",
+        "horaInsercao": "14:08",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2066.1 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2f975a4b98b4282ce20a5dd889543f1e"
+      }
+    ]
   }
 }
