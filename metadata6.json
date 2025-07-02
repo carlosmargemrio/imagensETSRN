@@ -4009,5 +4009,52 @@
         "hashArquivo": "ef37bc4c557395a059936d897da32399"
       }
     ]
+  },
+  "pinhaozeiro ou pinhaozinho toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751467339101-0",
+        "nomeArquivo": "SA_Pinhaozeiro_ou_Pinhaozinho_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Pinhâozinho(1).JPG",
+        "sitio": "Pinhãozeiro ou Pinhãozinho (Toca do)",
+        "co_iphan": "PI2201988BAST00128",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7103,
+          -8.6135
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "12:06:04",
+        "legenda": "Placa de Identificação do Sítio Toca do Pinhãozinho",
+        "autoria": "IPhan",
+        "direitosAutorais": "IPhan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-02",
+        "horaInsercao": "11:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 12173.7 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Placa de Identificação do Sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "28 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "517354e312aab7ee3c03b282f0c98ccd"
+      }
+    ]
   }
 }
