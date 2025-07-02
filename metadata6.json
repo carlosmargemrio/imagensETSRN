@@ -4134,6 +4134,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "e34c9600c4e32b451f0adbe43aad5bb2"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751482981215-0",
+        "nomeArquivo": "SA_Pinhaozeiro_ou_Pinhaozinho_Toca_do(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Pinhâozinho(15).JPG",
+        "sitio": "Pinhãozeiro ou Pinhãozinho (Toca do)",
+        "co_iphan": "PI2201988BAST00128",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7103,
+          -8.6135
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "12:26:34",
+        "legenda": "Registro Antropomorfos do Sítio Toca do Pinhãozinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-02",
+        "horaInsercao": "16:03",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 9613.3 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Antropomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a3950e1392a25a06769b9d938cdec6db"
       }
     ]
   }
