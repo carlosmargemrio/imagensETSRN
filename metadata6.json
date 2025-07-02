@@ -4094,6 +4094,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ff318abf4432003f47ab65830f270bda"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751468086613-0",
+        "nomeArquivo": "SA_Pinhaozeiro_ou_Pinhaozinho_Toca_do(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Pinhâozinho(13).JPG",
+        "sitio": "Pinhãozeiro ou Pinhãozinho (Toca do)",
+        "co_iphan": "PI2201988BAST00128",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7103,
+          -8.6135
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "12:08:50",
+        "legenda": "Vista geral e Vegetação do Sítio Toca do Pinhãozinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-02",
+        "horaInsercao": "11:54",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 11663.7 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata uma Visão geral e Vegetação do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e34c9600c4e32b451f0adbe43aad5bb2"
       }
     ]
   }
