@@ -4428,6 +4428,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7cd911eb192a3273332d5bdc258fc735"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751567268710-0",
+        "nomeArquivo": "SA_Veado_Toca_do(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Veado(49).JPG",
+        "sitio": "Veado (Toca do)",
+        "co_iphan": "PI2205359BAST00062",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.693,
+          -8.5728
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:47:10",
+        "legenda": "Registro de Zoomorfos do Sítio Toca do Veado",
+        "autoria": "Eliane Aragão de Souza",
+        "direitosAutorais": "Eliane Aragão de Souza",
+        "tags": [
+          "Iphan"
+        ],
+        "inseridoPor": "Fiscalização do Iphan",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "15:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 13188.9 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Zoomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "cf2b30e111ff077a91745b86fdf02645"
       }
     ]
   }
