@@ -4514,6 +4514,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "97ffab787267f92a25a645a6b1297585"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751568041483-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(!) (6).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:11:43",
+        "legenda": "Registro de Antropomorfos do Sítio Toca do Visgueiro I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "15:40",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 11912.9 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata Registro Antropomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "28 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d891e91d81011b7232f5bfcd55b4a796"
       }
     ]
   }
