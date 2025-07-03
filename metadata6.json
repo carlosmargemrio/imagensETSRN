@@ -4268,6 +4268,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "03d0af076b7715f0484b6fa655457b62"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751553141207-0",
+        "nomeArquivo": "SA_Veado_Toca_do(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Veado(5).JPG",
+        "sitio": "Veado (Toca do)",
+        "co_iphan": "PI2205359BAST00062",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.693,
+          -8.5728
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:28:14",
+        "legenda": "Vista geral e Vegetação do Sítio Toca do Veado",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "11:32",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 12129.3 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e Vegetação do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "af03042876e2890e992743528f9beaa1"
       }
     ]
   }
