@@ -4176,5 +4176,52 @@
         "hashArquivo": "a3950e1392a25a06769b9d938cdec6db"
       }
     ]
+  },
+  "serrote do antero toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751544669057-0",
+        "nomeArquivo": "SA_Serrote_do_Antero_Toca_do(1).jpg",
+        "nomeOriginal": "SA__Toca_do_Serrote_do_Antero(2).JPG",
+        "sitio": "Serrote do Antero (Toca do)",
+        "co_iphan": "PI2202851BAST00087",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.4232,
+          -8.8049
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "09:20:49",
+        "legenda": "Placa de Sítio Arqueológico do Sítio Toca de Serrote do Antero",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "09:11",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 587.7 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata registro placa de Sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "50da2d4b878158d2669dc144aad6385d"
+      }
+    ]
   }
 }
