@@ -4223,5 +4223,52 @@
         "hashArquivo": "50da2d4b878158d2669dc144aad6385d"
       }
     ]
+  },
+  "veado toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751552749818-0",
+        "nomeArquivo": "SA_Veado_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Veado(1).JPG",
+        "sitio": "Veado (Toca do)",
+        "co_iphan": "PI2205359BAST00062",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.693,
+          -8.5728
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:24:08",
+        "legenda": "Placa de Direcionamento do Sítio Toca do Veado",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "11:25",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 9069.4 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de direcionamento do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "28 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "03d0af076b7715f0484b6fa655457b62"
+      }
+    ]
   }
 }
