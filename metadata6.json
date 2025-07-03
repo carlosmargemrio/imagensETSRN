@@ -4554,6 +4554,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "d891e91d81011b7232f5bfcd55b4a796"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751569000722-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(!) (15).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:14:32",
+        "legenda": "Registro Zoomorfos e Fitomorfos do Sítio Toca do Visgueiro",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos. Fitomorfos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "15:56",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 11156.4 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata Registro Zoomorfos e Fitomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "29 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9174a67e7b5a3a37f2aaa6a24fbfc8b3"
       }
     ]
   }
