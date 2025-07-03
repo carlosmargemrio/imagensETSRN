@@ -4636,5 +4636,52 @@
         "hashArquivo": "9174a67e7b5a3a37f2aaa6a24fbfc8b3"
       }
     ]
+  },
+  "escada toca alta da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751572445105-0",
+        "nomeArquivo": "SA_Escada_Toca_Alta_da(1).jpg",
+        "nomeOriginal": "SA_Toca_Alta_da_Escada(7).JPG",
+        "sitio": "Escada (Toca Alta da)",
+        "co_iphan": "PI2201988BAST00083",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6858,
+          -8.558
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-29",
+        "horario": "10:09:24",
+        "legenda": "Placa de identificação do sítio Toca Alta da Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "16:54",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9721.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem Retrata Placa De Identificação de Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8579a0ae671dedc73f56adb9ea9bc3fe"
+      }
+    ]
   }
 }
