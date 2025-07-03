@@ -4469,5 +4469,52 @@
         "hashArquivo": "cf2b30e111ff077a91745b86fdf02645"
       }
     ]
+  },
+  "toca do visgueiro i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751567661006-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(!) (1).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:09:49",
+        "legenda": "Placa de Identificação do Sítio Toca do Visgueiro I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-03",
+        "horaInsercao": "15:34",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 9246.2 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata uma Placa de identificação de sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "39 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "97ffab787267f92a25a645a6b1297585"
+      }
+    ]
   }
 }
