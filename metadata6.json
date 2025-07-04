@@ -4681,6 +4681,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "8579a0ae671dedc73f56adb9ea9bc3fe"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751630708256-0",
+        "nomeArquivo": "SA_Escada_Toca_Alta_da(2).jpg",
+        "nomeOriginal": "SA_Toca_Alta_da_Escada(3).JPG",
+        "sitio": "Escada (Toca Alta da)",
+        "co_iphan": "PI2201988BAST00083",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6858,
+          -8.558
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-29",
+        "horario": "10:07:42",
+        "legenda": "Visão Geral e Vegetação do sítio Toca Alta da Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Visão Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-04",
+        "horaInsercao": "09:05",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11546.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata visão geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "36 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4e949e023ebce44735ed8eac621b9dbc"
       }
     ]
   }
