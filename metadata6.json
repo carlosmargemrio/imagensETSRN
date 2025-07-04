@@ -5048,6 +5048,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "4ef2cf420510ff3851bb2c6d61ed7f71"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751640658139-0",
+        "nomeArquivo": "SA_Embauba_Toca_da(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(8).JPG",
+        "sitio": "Embaúba (Toca da)",
+        "co_iphan": "PI2205359BAST00118",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.693,
+          -8.573
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:27",
+        "legenda": "Registro de Antropomorfos do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão fe Souza",
+        "dataInsercao": "2025-07-04",
+        "horaInsercao": "11:50",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9891.6 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Antropomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1f823e404337914ea8afb856cb4ecb7a"
       }
     ]
   }
