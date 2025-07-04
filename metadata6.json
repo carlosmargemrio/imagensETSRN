@@ -4804,5 +4804,49 @@
         "hashArquivo": "b585448829e0b39fb71a280dfc2d446a"
       }
     ]
+  },
+  "toca da correnteza": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751635534184-0",
+        "nomeArquivo": "SA_Toca_da_Correnteza(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Correnteza(3).JPG",
+        "sitio": "Toca da Correnteza",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-07-10",
+        "horario": "10:39:09",
+        "legenda": "Placa de Identificação do sítio Toca da Correnteza",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-04",
+        "horaInsercao": "10:25",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 8575.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata placa de identificação de sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "51 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9f5598835707c597099fde2705bf0134"
+      }
+    ]
   }
 }
