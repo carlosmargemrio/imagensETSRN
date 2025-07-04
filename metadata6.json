@@ -4883,6 +4883,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "9b23d46100aab62c834bf5b9cb75a3a3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751637211534-0",
+        "nomeArquivo": "SA_Toca_da_Correnteza(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Correnteza(15).JPG",
+        "sitio": "Toca da Correnteza",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-07-10",
+        "horario": "10:55:22",
+        "legenda": "Registro de Zoomorfos do sítio Toca da Correnteza",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-04",
+        "horaInsercao": "10:53",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9176.6 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "37 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "dd7989412be54ee2379583b323c5c008"
       }
     ]
   }
