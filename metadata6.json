@@ -4967,6 +4967,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "fd80489740ad2c275cdc76ee57fb05b4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751638337799-0",
+        "nomeArquivo": "SA_Embauba_Toca_da(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(14).JPG",
+        "sitio": "Embaúba (Toca da)",
+        "co_iphan": "PI2205359BAST00118",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.693,
+          -8.573
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:58:55",
+        "legenda": "Vista geral, paisagem e vegetação do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista geral",
+          "paisagem",
+          "vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-04",
+        "horaInsercao": "11:12",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10434.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata vista geral, paisagem e vegetação do sítio",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "Por  conter imagem pessoal",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 160,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "37fbbaa89efc249630e1b446976f23b6"
       }
     ]
   }
