@@ -5400,7 +5400,8 @@
   "toca da rancharia da escada": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11"
     ],
     "imagens": [
       {
@@ -5482,6 +5483,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "e2ff501d531bc08cc5e503bdabab7f9d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751912288204-0",
+        "nomeArquivo": "SA_Toca_da_Rancharia_da_Escada(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Ranchariada_Escada(3).JPG",
+        "sitio": "Toca da Rancharia da Escada",
+        "co_iphan": "PI2205359BAST00096",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.681,
+          -8.5536
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-07-10",
+        "horario": "11:14:15",
+        "legenda": "Vista geral e Paisagem do sítio Toca da Rancharia da Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista geral",
+          "Paisagem"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "15:18",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11287.0 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A Imagem retrata registro geral e Paisagem do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ec9a4ea63274922a9f420de5740eebc8"
       }
     ]
   }
