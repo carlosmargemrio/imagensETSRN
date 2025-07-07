@@ -5135,6 +5135,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "168b926d914a70e956d7e03e1429f79e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751893684935-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Solta_da_Serra_Branca(2).jpg",
+        "nomeOriginal": "SA_TOCA_PEDRA_SOLTA(4).jpg",
+        "sitio": "Toca da Pedra Solta da Serra Branca",
+        "co_iphan": "PI2201988BAST00019",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6993,
+          -8.5729
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-10",
+        "horario": "00:23:54",
+        "legenda": "Registro de Zoomorfos do sítio Toca da Pedra Solta da Serra Branca",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Zoomorfos",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "10:08",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 1913.1 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A ima retrata registro de Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "cabd493fcb44ffd4f5616206244c9a73"
       }
     ]
   }
