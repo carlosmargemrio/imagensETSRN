@@ -5441,6 +5441,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "16c65e256a4e50afaed3135891a961b3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751910662850-0",
+        "nomeArquivo": "SA_Toca_da_Rancharia_da_Escada(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Ranchariada_Escada(1).JPG",
+        "sitio": "Toca da Rancharia da Escada",
+        "co_iphan": "PI2205359BAST00096",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.681,
+          -8.5536
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-07-10",
+        "horario": "11:12:03",
+        "legenda": "Paisagem, Flora e Fauna do sítio Toca da Rancharia da Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Paisagem",
+          "Flora",
+          "Fauna"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "14:51",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11363.1 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de  Paisagem, Flora e Fauna do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e2ff501d531bc08cc5e503bdabab7f9d"
       }
     ]
   }
