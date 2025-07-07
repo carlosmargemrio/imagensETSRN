@@ -5563,6 +5563,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "44968c773adac8d665c9fac6f84dc7a3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751914201871-0",
+        "nomeArquivo": "SA_Toca_da_Rancharia_da_Escada(6).jpg",
+        "nomeOriginal": "SA_Toca_da_Ranchariada_Escada(23).JPG",
+        "sitio": "Toca da Rancharia da Escada",
+        "co_iphan": "PI2205359BAST00096",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.681,
+          -8.5536
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-07-10",
+        "horario": "11:22:40",
+        "legenda": "Registro de Zoomorfos do Sítio Toca da Rancharia da Escada",
+        "autoria": "UNIVAF",
+        "direitosAutorais": "UNIVAF",
+        "tags": [
+          "Zoomorfos",
+          "preenchido",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "15:50",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 13621.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "febafdde2fee8c4095fd03eda1d95436"
       }
     ]
   }
