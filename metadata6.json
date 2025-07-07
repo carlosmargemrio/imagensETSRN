@@ -5215,6 +5215,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "35e3af0723c63f7bf4b6ffd5a8b5bf15"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751894747515-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Solta_da_Serra_Branca(4).jpg",
+        "nomeOriginal": "SA_TOCA_PEDRA_SOLTA(34).jpg",
+        "sitio": "Toca da Pedra Solta da Serra Branca",
+        "co_iphan": "PI2201988BAST00019",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6993,
+          -8.5729
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-10",
+        "horario": "00:33:47",
+        "legenda": "Registro de Antropomorfos do sítio Toca da Pedra Solta da Serra Branca",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "10:25",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 2241.1 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem Retrata registro de Antropomorfos do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9f9a9862e351133d1bb9203468ccd750"
       }
     ]
   }
