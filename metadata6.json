@@ -5396,5 +5396,52 @@
         "hashArquivo": "73eb0d5ef3037fb94b24324423e79ed2"
       }
     ]
+  },
+  "toca da rancharia da escada": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751909579057-0",
+        "nomeArquivo": "SA_Toca_da_Rancharia_da_Escada(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Ranchariada_Escada(4).JPG",
+        "sitio": "Toca da Rancharia da Escada",
+        "co_iphan": "PI2205359BAST00096",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.681,
+          -8.5536
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-07-10",
+        "horario": "11:14:38",
+        "legenda": "Placa de identificação do sítio Toca da Rancharia da Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "14:32",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10104.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata placa de identificação de sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "53 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "16c65e256a4e50afaed3135891a961b3"
+      }
+    ]
   }
 }
