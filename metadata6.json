@@ -5305,6 +5305,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "cc83d22d276899629642080f68e8cc33"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751898934626-0",
+        "nomeArquivo": "SA_Toca_do_Baixao_da_Pedra_Preta_I(2).jpg",
+        "nomeOriginal": "SA_Toca _da _Pedra _Preta_ I (3).JPG",
+        "sitio": "Toca do Baixão da Pedra Preta I",
+        "co_iphan": "PI2202851BAST00299",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.5735,
+          -8.8471
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-05-20",
+        "horario": "14:18:42",
+        "legenda": "Registro Antropomorfos do sítio Toca do Baixão da Pedra Preta I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "11:35",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 531.4 KB, 960×1280px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A Imagem retrata registro de Antropomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fdb4d584f1e567341d1164dfa208eb5f"
       }
     ]
   }
