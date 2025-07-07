@@ -5347,5 +5347,54 @@
         "hashArquivo": "fdb4d584f1e567341d1164dfa208eb5f"
       }
     ]
+  },
+  "pedra preta ii toca do baixao da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751899376722-0",
+        "nomeArquivo": "SA_Pedra_Preta_II_Toca_do_Baixao_da(1).jpg",
+        "nomeOriginal": "SA_Toca_ da_ _Pedra_ Preta_ II_ (1).JPG",
+        "sitio": "Pedra Preta II (Toca do Baixão da)",
+        "co_iphan": "PI2202851BAST00249",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.5734,
+          -8.8472
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-05-20",
+        "horario": "14:15:46",
+        "legenda": "Registro de Zoomorfos do sítio Toca do Baixão da Pedra Preta II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Preenchidos",
+          "Vermelhos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "11:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 578.1 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Zoomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.1",
+          "distancia_focal": "9.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "73eb0d5ef3037fb94b24324423e79ed2"
+      }
+    ]
   }
 }
