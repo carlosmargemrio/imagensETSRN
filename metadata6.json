@@ -5090,5 +5090,52 @@
         "hashArquivo": "1f823e404337914ea8afb856cb4ecb7a"
       }
     ]
+  },
+  "toca da pedra solta da serra branca": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751893342117-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Solta_da_Serra_Branca(1).jpg",
+        "nomeOriginal": "SA_TOCA_PEDRA_SOLTA(2).jpg",
+        "sitio": "Toca da Pedra Solta da Serra Branca",
+        "co_iphan": "PI2201988BAST00019",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6993,
+          -8.5729
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-10",
+        "horario": "00:22:16",
+        "legenda": "Placa de direcionamento do sítio Toca da Pedra Solta da Serra Branca",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-07",
+        "horaInsercao": "10:02",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 2193.7 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata uma  placa de direcionamento de sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "168b926d914a70e956d7e03e1429f79e"
+      }
+    ]
   }
 }
