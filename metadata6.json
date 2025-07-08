@@ -6071,6 +6071,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0f54ed07360c9630875876904b9011a3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751997247969-0",
+        "nomeArquivo": "SA_Meninas_Toca_das(6).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_das Meninas(1).JPG",
+        "sitio": "Meninas ( Toca das )",
+        "co_iphan": "PI2210607BAST00026",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7355,
+          -8.8912
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-28",
+        "horario": "07:41:11",
+        "legenda": "Registro de Zoomorfos do sítio Toca das Meninas",
+        "autoria": "Ihan",
+        "direitosAutorais": "Ihan",
+        "tags": [
+          "Zoomorfos",
+          "Preenchido",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "14:54",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1327.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a66b5fd3c796d130e867e0f9bd691a97"
       }
     ]
   }
