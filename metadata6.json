@@ -5988,6 +5988,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f0bd67562e7c57cc8ff0591684eb458e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751992681419-0",
+        "nomeArquivo": "SA_Meninas_Toca_das(4).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_das Meninas(2).JPG",
+        "sitio": "Meninas ( Toca das )",
+        "co_iphan": "PI2210607BAST00026",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7355,
+          -8.8912
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-28",
+        "horario": "07:36:05",
+        "legenda": "Acesso de Entrada, vista geral e vegetação do sítio Meninas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Placa",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "13:38",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1443.4 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata vista geral, placa e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "46950825804e52da19bdcadc59bdd10a"
       }
     ]
   }
