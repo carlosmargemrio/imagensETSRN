@@ -5648,6 +5648,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "fc01f7214a7e47c6fffce5b8111fe978"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751978295211-0",
+        "nomeArquivo": "SA_Toca_da_Velha_Mulata(2).jpg",
+        "nomeOriginal": "TOCA_DA_VELHA_MULATA(10).jpg",
+        "sitio": "Toca da Velha Mulata",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-07",
+        "horario": "21:59:44",
+        "legenda": "Registro de Antropomorfos do Sítio Toca da Velha Mulata",
+        "autoria": "IPhan",
+        "direitosAutorais": "IPhan",
+        "tags": [
+          "Antropomorfos",
+          "Preenchido",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "09:38",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2159.6 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5e57f1439acbe93139a2e08be73da88b"
       }
     ]
   }
