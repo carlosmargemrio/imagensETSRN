@@ -6280,6 +6280,48 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "45a6ac03be4fd815df0439f159ab2026"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751999845758-0",
+        "nomeArquivo": "SA_Amancio_Toca_do(3).jpg",
+        "nomeOriginal": "SA_TOCA_DO_AMANCIO(2).jpg",
+        "sitio": "Amâncio (Toca do)",
+        "co_iphan": "PI2201988BAST00080",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7007,
+          -8.5345
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-19",
+        "horario": "00:52:57",
+        "legenda": "Registro de Zoomorfos do sitio Toca do Amâncio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vasado",
+          "Vermelho",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "15:37",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2063.4 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5db3ffb716e13f00e6fdc873e6362cfa"
       }
     ]
   }
