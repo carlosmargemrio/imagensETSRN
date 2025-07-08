@@ -5686,6 +5686,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "5e57f1439acbe93139a2e08be73da88b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751978794445-0",
+        "nomeArquivo": "SA_Toca_da_Velha_Mulata(3).jpg",
+        "nomeOriginal": "TOCA_DA_VELHA_MULATA(23).jpg",
+        "sitio": "Toca da Velha Mulata",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-07",
+        "horario": "22:04:04",
+        "legenda": "Vista geral, Paisagem e vegetação do sítio Toca da Velha Mulata",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Paisagem",
+          "vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "09:46",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2241.1 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A Imagem retrata Vista geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6927f096713210940d1a223aaa58f5d6"
       }
     ]
   }
