@@ -5606,5 +5606,49 @@
         "hashArquivo": "febafdde2fee8c4095fd03eda1d95436"
       }
     ]
+  },
+  "toca da velha mulata": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751977876387-0",
+        "nomeArquivo": "SA_Toca_da_Velha_Mulata(1).jpg",
+        "nomeOriginal": "TOCA_DA_VELHA_MULATA(8).jpg",
+        "sitio": "Toca da Velha Mulata",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-07",
+        "horario": "21:59:30",
+        "legenda": "Placa de Identificação do sitio Toca da Velha Mulata",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "09:31",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2210.3 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata placa de identificação de sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fc01f7214a7e47c6fffce5b8111fe978"
+      }
+    ]
   }
 }
