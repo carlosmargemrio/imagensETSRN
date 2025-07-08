@@ -6152,6 +6152,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "913b6f6282c79b3217b4bf774dccff03"
+      },
+      {
+        "identificador": "ETSRN-PI22-1751998144136-0",
+        "nomeArquivo": "SA_Meninas_Toca_das(8).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_das Meninas(5).JPG",
+        "sitio": "Meninas ( Toca das )",
+        "co_iphan": "PI2210607BAST00026",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7355,
+          -8.8912
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-28",
+        "horario": "07:38:46",
+        "legenda": "Vista geral e Portão de Acesso  a entrada do sítio Toca das Meninas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Paisagem"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "15:09",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1468.8 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A A imagem retrata um ambiente natural com grandes formações de rochas Avermelhadas e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.4",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7dbe6ce47e4d53f5c1b40597cc3975f1"
       }
     ]
   }
