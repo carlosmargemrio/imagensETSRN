@@ -5815,5 +5815,51 @@
         "hashArquivo": "b251c4ab7bf9323c02e32aaba39061fd"
       }
     ]
+  },
+  "toca das maos do bom sucesso": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1751980165434-0",
+        "nomeArquivo": "SA_Toca_das_Maos_do_Bom_Sucesso(1).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_MÃOS_DO_BOM_SUCESSO(5).JPG",
+        "sitio": "Toca das Mãos do Bom Sucesso",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-12",
+        "horario": "12:37:52",
+        "legenda": "Vista geral, Paisagem e Vegetação do sítio Toca das Mãos do Bom Sucesso",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-08",
+        "horaInsercao": "10:09",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 47.0 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata vista geral, Paisagem e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "3c5e646129908fdb444c5bc4d504dfb7"
+      }
+    ]
   }
 }
