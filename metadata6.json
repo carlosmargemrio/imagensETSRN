@@ -6531,6 +6531,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "774d26bbd752839bddbf7a4d5cedf639"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752071123818-0",
+        "nomeArquivo": "SA_Toca_do_Arapua_da_Serra_Branca_I(5).jpg",
+        "nomeOriginal": "SA_Toca_do_Arapuá_da_Serra_Branca_I(37).JPG",
+        "sitio": "Toca do Arapuá da Serra Branca I",
+        "co_iphan": "PI2205359BAST00130",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.7063,
+          -8.6482
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-26",
+        "horario": "12:14:57",
+        "legenda": "Vista geral, Paisagem e Vegetação do sitio Toca do Arapuá da Serra Branca I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão  de Souza",
+        "dataInsercao": "2025-07-09",
+        "horaInsercao": "11:25",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 14779.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata Vista geral, Superfície rochosa e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "3c1ff8e1d53fce34368655fa8f0f632f"
       }
     ]
   }
