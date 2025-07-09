@@ -6368,7 +6368,8 @@
   "toca do arapua da serra branca i": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
     ],
     "imagens": [
       {
@@ -6572,6 +6573,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "3c1ff8e1d53fce34368655fa8f0f632f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752071907777-0",
+        "nomeArquivo": "SA_Toca_do_Arapua_da_Serra_Branca_I(6).jpg",
+        "nomeOriginal": "SA_Toca_do_Arapuá_da_Serra_Branca_I(38).JPG",
+        "sitio": "Toca do Arapuá da Serra Branca I",
+        "co_iphan": "PI2205359BAST00130",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.7063,
+          -8.6482
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-26",
+        "horario": "12:15:07",
+        "legenda": "Vista geral, superfície rochosa e Vegetação sítio Toca do Arapuá da Serra Branca I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-09",
+        "horaInsercao": "11:38",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 12176.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata Vista geral, superfície rochosa e Vegetação  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 400,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2f3bd61263f5a574ff7a7b22e0f8781f"
       }
     ]
   }
