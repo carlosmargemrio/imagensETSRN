@@ -6364,5 +6364,52 @@
         "hashArquivo": "1623e893ccd0e5ade03689ffce400da3"
       }
     ]
+  },
+  "toca do arapua da serra branca i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752068802347-0",
+        "nomeArquivo": "SA_Toca_do_Arapua_da_Serra_Branca_I(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Arapuá_da_Serra_Branca_I(24).JPG",
+        "sitio": "Toca do Arapuá da Serra Branca I",
+        "co_iphan": "PI2205359BAST00130",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.7063,
+          -8.6481
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-26",
+        "horario": "12:01:27",
+        "legenda": "Placa de identificação do sítio Toca do Arapuá da Serra Branca I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-09",
+        "horaInsercao": "10:46",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10175.3 KB, 6000×4000px",
+        "historicoArquivistico": "PProduzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 400,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "92b7aee6044e662f9045e7c956d8451b"
+      }
+    ]
   }
 }
