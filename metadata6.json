@@ -6409,6 +6409,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "92b7aee6044e662f9045e7c956d8451b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752069155001-0",
+        "nomeArquivo": "SA_Toca_do_Arapua_da_Serra_Branca_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Arapuá_da_Serra_Branca_I(21).JPG",
+        "sitio": "Toca do Arapuá da Serra Branca I",
+        "co_iphan": "PI2205359BAST00130",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.7063,
+          -8.6482
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-26",
+        "horario": "12:00:11",
+        "legenda": "Registro Zoomorfos do sítio Toca do Arapuá da Serra Branca I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-09",
+        "horaInsercao": "10:52",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11801.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 1000,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "45181eb2dee0c8c743c8a2950157b733"
       }
     ]
   }
