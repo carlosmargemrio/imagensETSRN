@@ -6693,6 +6693,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f56493a6f8e156aa1df700cb67bb12e9"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752154552222-0",
+        "nomeArquivo": "SA_Toca_do_Arapua_da_Serra_Branca_I(9).jpg",
+        "nomeOriginal": "SA_Toca_do_Arapuá_da_Serra_Branca_I(28).JPG",
+        "sitio": "Toca do Arapuá da Serra Branca I",
+        "co_iphan": "PI2205359BAST00130",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.7063,
+          -8.6482
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-26",
+        "horario": "12:03:57",
+        "legenda": "Registro de Zoomorfos do sitio Toca  do Arapuá da Serra Branca I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-10",
+        "horaInsercao": "10:35",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11409.3 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e814bbaf3d6a29e983d818395b0bfe64"
       }
     ]
   }
