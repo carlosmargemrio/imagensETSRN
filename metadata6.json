@@ -4231,49 +4231,6 @@
         "hashArquivo": "03d0af076b7715f0484b6fa655457b62"
       },
       {
-        "identificador": "ETSRN-PI22-1751032248338-0",
-        "nomeArquivo": "SA_Veado_Toca_do(7).jpg",
-        "nomeOriginal": "SA_Toca-do_Joâo_Arcena(55).JPG",
-        "sitio": "Veado (Toca do)",
-        "co_iphan": "PI2205359BAST00062",
-        "municipio": "João Costa",
-        "coordinates": [
-           -42.693,
-          -8.5728
-        ],
-        "origemCoordenadas": "SICG",
-        "data": "2024-06-28",
-        "horario": "11:21:30",
-        "legenda": "Vista geral do sítio Toca do Toca do João Arsena",
-        "autoria": "Iphan",
-        "direitosAutorais": "Iphan",
-        "tags": [
-            
-          "vista geral",
-          "Afloramento",
-          "Estrutura de proteção"
-          
-        ],
-        "inseridoPor": "Eliane Aragão de Souza",
-        "dataInsercao": "2025-06-27",
-        "horaInsercao": "10:50",
-        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11",
-        "dimensaoSuporte": "image/jpeg, 13844.6 KB, 6000×4000px",
-        "historicoArquivistico": "Produzido pelo Fiscalis",
-        "ambitoConteudo": "A imagem retrata Paisagem do sítio",
-        "condicoesAcesso": "Público",
-        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
-        "motivoRestricao": "",
-        "camera": {
-          "modelo": "Canon EOS Rebel T7",
-          "iso": 100,
-          "abertura": "f/f/7.1",
-          "distancia_focal": "18 mm"
-        },
-        "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "e5dfd6ac2eab204adacc43ca074a8fa8"
-      },
-      {
         "identificador": "ETSRN-PI22-1751553141207-0",
         "nomeArquivo": "SA_Veado_Toca_do(2).jpg",
         "nomeOriginal": "SA_Toca_do_Veado(5).JPG",
