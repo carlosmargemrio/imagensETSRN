@@ -4188,7 +4188,8 @@
     "nivelDescricao": "Série",
     "fundos": [
       "Fiscalização do Iphan",
-      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11"
     ],
     "imagens": [
       {
@@ -4389,7 +4390,7 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7cd911eb192a3273332d5bdc258fc735"
-      },     
+      },
       {
         "identificador": "ETSRN-PI22-1751571182153-0",
         "nomeArquivo": "SA_Veado_Toca_do(6).jpg",
@@ -4429,6 +4430,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "3da4faea7275c63e0dcafadcf3acc427"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752243343874-0",
+        "nomeArquivo": "SA_Veado_Toca_do(7).jpg",
+        "nomeOriginal": "SA_Toca-do_Joâo_Arcena(55).jpg",
+        "sitio": "Veado (Toca do)",
+        "co_iphan": "PI2205359BAST00062",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.693,
+          -8.5728
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:21:30",
+        "legenda": "Vista geral do compartimento do sítio arqueológico Toca do Veado",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "vista geral",
+          "Afloramento",
+          "Estrutura de proteção"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-07-11",
+        "horaInsercao": "11:15",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11",
+        "dimensaoSuporte": "image/jpeg, 13844.6 KB, 6000×4000px",
+        "historicoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11 . corrigido no banco de dados: Registro foi originalmente ao sítio arqueológico Toca do João Arsena no dia 27-06-2025",
+        "ambitoConteudo": "A imagem oferece uma visão panorâmica do compartimento geomorfológico do sítio arqueológico Toca do Veado. Captada a partir da Toca do João Arsena, em destaque a estrutura protetiva instalada para mitigar a incidência solar sobre o painel de registro rupestre.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e5dfd6ac2eab204adacc43ca074a8fa8"
       }
     ]
   },
