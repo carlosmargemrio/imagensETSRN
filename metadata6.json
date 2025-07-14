@@ -6824,6 +6824,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "08b9d24a8a949a313e4dcbccfeb70611"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752504618802-0",
+        "nomeArquivo": "SA_Toca_do_Arco_do_Urubu(4).jpg",
+        "nomeOriginal": "SA_TOCA_DO_ARCO_DO_URUBÚ(4).JPG",
+        "sitio": "Toca do Arco do Urubu",
+        "co_iphan": "PI2204550BAST00105",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.4482,
+          -8.9026
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-11",
+        "horario": "11:41:08",
+        "legenda": "Vista Geral, Paisagem e Vegetação do sítio Toca do Arco do Urubu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-14",
+        "horaInsercao": "11:50",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 98.2 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e Vegetação do sítio",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "Por conter imagem de Pessoas",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7c9cd568ac1cd66e93332825c1bdb968"
       }
     ]
   }
