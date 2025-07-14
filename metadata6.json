@@ -7060,6 +7060,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "95348091535058297f66519a39f1359f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752517996805-0",
+        "nomeArquivo": "SA_Toca_do_Armazem(6).jpg",
+        "nomeOriginal": "TOCA_DO_ARMAZEM(6).jpg",
+        "sitio": "Toca do Armazém",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-19",
+        "horario": "00:26:07",
+        "legenda": "Registro de superfície rochosa com buraco circular do sítio Toca do Armazém",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Rochosa",
+          "Avermelhada"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-14",
+        "horaInsercao": "15:33",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2260.9 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de uma superfície rochosa de cor avermelhada com buraco circular central",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0d433e839fe72efc6575463ccd413d5d"
       }
     ]
   }
