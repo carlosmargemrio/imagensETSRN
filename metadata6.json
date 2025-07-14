@@ -6784,6 +6784,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "6a5efc1f2725cb899486f3d31a90c846"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752504131335-0",
+        "nomeArquivo": "SA_Toca_do_Arco_do_Urubu(3).jpg",
+        "nomeOriginal": "SA_TOCA_DO_ARCO_DO_URUBÚ(3).JPG",
+        "sitio": "Toca do Arco do Urubu",
+        "co_iphan": "PI2204550BAST00105",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.4482,
+          -8.9026
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-11",
+        "horario": "11:37:24",
+        "legenda": "Registro de Zoomorfos do sítio Toca do Arco do Urubu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane  Aragão de Souza",
+        "dataInsercao": "2025-07-14",
+        "horaInsercao": "11:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 60.0 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "08b9d24a8a949a313e4dcbccfeb70611"
       }
     ]
   }
