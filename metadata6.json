@@ -7172,6 +7172,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "dff70a0810654af8e364831ab6ecb377"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752520051164-0",
+        "nomeArquivo": "SA_Toca_do_Armazem(9).jpg",
+        "nomeOriginal": "TOCA_DO_ARMAZEM(10).jpg",
+        "sitio": "Toca do  Armazém",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-19",
+        "horario": "00:26:56",
+        "legenda": "Registro de zoomorfos, Antropomorfos e Fitomorfos do sítio Toca do  Armazém",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "zoomorfos",
+          "Antropomorfos",
+          "Fitomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-14",
+        "horaInsercao": "16:07",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2166.6 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Zoomorfos, Antropomorfos e Fitomorfos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b3b367317cfd65777fb1d6a9b8419e17"
       }
     ]
   }
