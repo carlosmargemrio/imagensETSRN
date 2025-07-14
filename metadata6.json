@@ -7286,6 +7286,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7229e6c520b2b154ee8624972286d940"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752521493741-0",
+        "nomeArquivo": "SA_Toca_do_Armazem(12).jpg",
+        "nomeOriginal": "TOCA_DO_ARMAZEM(26).jpg",
+        "sitio": "Toca do Armazém",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-19",
+        "horario": "00:33:17",
+        "legenda": "Vista Geral, Paisagem e Vegetação do sítio Toca do Armazém",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-14",
+        "horaInsercao": "16:31",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2316.8 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Vista geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0264e04cc7c0fd190788bb58f2b09c54"
       }
     ]
   }
