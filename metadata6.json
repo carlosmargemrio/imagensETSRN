@@ -6986,6 +6986,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "de7a10480a33731eca59e34ef0d757f1"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752516677444-0",
+        "nomeArquivo": "SA_Toca_do_Armazem(4).jpg",
+        "nomeOriginal": "TOCA_DO_ARMAZEM(5).jpg",
+        "sitio": "Toca do Armazém",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-19",
+        "horario": "00:26:00",
+        "legenda": "Registro de Geométricos do sítio Toca do Armazém",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-14",
+        "horaInsercao": "15:11",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2262.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata registro geométricos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "53eef4c37e55080bc644f0d5081187f7"
       }
     ]
   }
