@@ -7729,6 +7729,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "88b67d13741b7b869123548c3f9fc4a5"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752608528660-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha(9).jpg",
+        "nomeOriginal": "SA_TOCA_DA_IGREJINHA(19).jpg",
+        "sitio": "Toca da Igrejinha",
+        "co_iphan": "PI2210607BAST00021",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7317,
+          -8.684
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "21:11:45",
+        "legenda": "Registro de cavidade visível, folha seca  do sítio Toca da Igrejinha",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vegetação",
+          "Seca"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "16:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2232.0 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de cavidade visível e folha seca em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "64dd60db4f7cfd0e07a25f8115ce5681"
       }
     ]
   },
