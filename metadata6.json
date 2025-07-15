@@ -7657,6 +7657,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0bdb98443d84da321095fc28f7c946c7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752598223142-0",
+        "nomeArquivo": "SA_Pau_de_Arara_Toca_do(2).jpg",
+        "nomeOriginal": "SA_TOCA_DO_PAU_DE_ARARA(2).jpg",
+        "sitio": "Pau de Arara ( Toca do )",
+        "co_iphan": "PI2201988BAST00054",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7279,
+          -8.6193
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "20:55:30",
+        "legenda": "Registro Rupestre contemporâneo do sítio  Toca do Pau de Arara",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Avião",
+          "Branco"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "13:50",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2204.6 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Rupestre contemporâneo em superfície rochosa  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ae3c029d057217eb176516a3c7c4bc3a"
       }
     ]
   }
