@@ -7529,6 +7529,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b612ebc5075e88359f60399676fb98a2"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752588680241-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha(4).jpg",
+        "nomeOriginal": "SA_TOCA_DA_IGREJINHA(2).jpg",
+        "sitio": "Toca da Igrejinha",
+        "co_iphan": "PI2210607BAST00021",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7317,
+          -8.684
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "21:02:31",
+        "legenda": "Vista Geral, Paisagem e Vegetação do sítio Toca da Igrejinha",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Gereal",
+          "Paisagem e Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "11:11",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2242.5 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Vista geral, Paisagem e vegetação seca do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f5f39ff18783c2d1c364effa72e91b29"
       }
     ]
   }
