@@ -7362,6 +7362,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "9c6c28b6f918f9831ad4ed0f1dcc6f8c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752581679699-0",
+        "nomeArquivo": "SA_Toca_do_Armazem(14).jpg",
+        "nomeOriginal": "TOCA_DO_ARMAZEM(29).jpg",
+        "sitio": "Toca do Armazém",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-19",
+        "horario": "00:52:41",
+        "legenda": "Registo de superfície Texturizada ou formação rochosa, com linha diagonal ou rachadura do sítio Toca do Armazém",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Marrom",
+          "vermelho",
+          "cinza"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "09:14",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2214.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata uma superfície texturizada, ou formação rochosa, com linha diagonal ou rachadura natural do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4e9781fe1b470506c6a42ab239b789ae"
       }
     ]
   }
