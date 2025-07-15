@@ -7569,6 +7569,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f5f39ff18783c2d1c364effa72e91b29"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752589590651-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha(5).jpg",
+        "nomeOriginal": "SA_TOCA_DA_IGREJINHA(7).jpg",
+        "sitio": "Toca da Igrejinha",
+        "co_iphan": "PI2210607BAST00021",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7317,
+          -8.684
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "21:05:07",
+        "legenda": "Registro de Orifício circular e gravuras em Superfície rochosa do sítio Toca da Igrejinha",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Gravuras"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "11:26",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2204.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Orifício circular, gravuras e Marcas ou descolorações, possivelmente devido à exposição ao tempo ou à presença de urina de mocó.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8d3f01e026bb36a1fcad213c6742bc85"
       }
     ]
   }
