@@ -7697,6 +7697,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ae3c029d057217eb176516a3c7c4bc3a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752602249662-0",
+        "nomeArquivo": "SA_Pau_de_Arara_Toca_do(3).jpg",
+        "nomeOriginal": "SA_Sítio_Toca do_pau_de_Arara(3).JPG",
+        "sitio": "Pau de Arara ( Toca do )",
+        "co_iphan": "PI2201988BAST00054",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7279,
+          -8.6193
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "20:55:41",
+        "legenda": "Registro Rupestre contemporâneo do sítio Toca do  Pau de Arara",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Carro",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "14:57",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2197.6 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Rupestre contemporâneo, com presença de cupim em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "037ab0f53748b73d17c09bc2d187e6d2"
       }
     ]
   }
