@@ -7448,6 +7448,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "d92b6ce901d64e04a0efdf70a230b1bd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752586795157-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_IGREJINHA(72).jpg",
+        "sitio": "Toca da Igrejinha",
+        "co_iphan": "PI2210607BAST00021",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7317,
+          -8.684
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "21:44:36",
+        "legenda": "Registro de Fragmentos Cerâmicos do sítio Toca da Igrejinha",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vermelho",
+          "Marrom",
+          "Cinza"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-15",
+        "horaInsercao": "10:39",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2213.3 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Fragmentos cerâmicos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "902aeb5c30c07045d0768339b756e5de"
       }
     ]
   }
