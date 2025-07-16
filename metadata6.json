@@ -7407,7 +7407,8 @@
     "nivelDescricao": "Série",
     "fundos": [
       "Fiscalização do Iphan",
-      "fiscalização do iphan"
+      "fiscalização do iphan",
+      "Fiscalização do iphan"
     ],
     "imagens": [
       {
@@ -7848,6 +7849,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "cc1d11a21ef4f4c1cedd96eecd27ffa9"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752676226089-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha(12).jpg",
+        "nomeOriginal": "SA_TOCA_DA_IGREJINHA(50).jpg",
+        "sitio": "Toca da Igrejinha",
+        "co_iphan": "PI2210607BAST00021",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7317,
+          -8.684
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "21:27:35",
+        "legenda": "Registro de Geométricos do sítio Toca da Igrejinha",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos. vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-16",
+        "horaInsercao": "11:30",
+        "fundoArquivistico": "Fiscalização do iphan",
+        "dimensaoSuporte": "image/jpeg, 2215.5 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Geométricos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "bf304384942edb362a337cb46d6a159d"
       }
     ]
   },
