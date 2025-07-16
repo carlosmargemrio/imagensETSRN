@@ -8270,5 +8270,54 @@
         "hashArquivo": "f79e5993a4c09d3000d6e37d222a8aa5"
       }
     ]
+  },
+  "passagem toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752692507477-0",
+        "nomeArquivo": "SA_Passagem_Toca_da(1).jpg",
+        "nomeOriginal": "SA_TOCA_DA_PASSAGEM(2).jpg",
+        "sitio": "Passagem ( Toca da )",
+        "co_iphan": "PI2201988BAST00063",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7241,
+          -8.5878
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "23:11:30",
+        "legenda": "Registro Geométrico e cerca de estaca do sítio Toca da Passagem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho",
+          "Cerca"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-16",
+        "horaInsercao": "16:01",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2277.0 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata registro Geométrico e cerca de estaca do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "365a6b824ad2cd3b0a9ccd0e979a3411"
+      }
+    ]
   }
 }
