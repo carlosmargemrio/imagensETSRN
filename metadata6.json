@@ -8274,7 +8274,8 @@
   "passagem toca da": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Iphan"
+      "Fiscalização do Iphan",
+      "Fiscalização do iphan"
     ],
     "imagens": [
       {
@@ -8317,6 +8318,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "365a6b824ad2cd3b0a9ccd0e979a3411"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752693533263-0",
+        "nomeArquivo": "SA_Passagem_Toca_da(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_PASSAGEM(16).jpg",
+        "sitio": "Passagem ( Toca da )",
+        "co_iphan": "PI2201988BAST00063",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7241,
+          -8.5878
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-18",
+        "horario": "23:13:34",
+        "legenda": "Registro de Antropomorfos do sítio  Toca da Passagem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane  Aragão de Souza",
+        "dataInsercao": "2025-07-16",
+        "horaInsercao": "16:18",
+        "fundoArquivistico": "Fiscalização do iphan",
+        "dimensaoSuporte": "image/jpeg, 2361.5 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Antropomorfos em superfície rochosa do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d1fd793c8dc10412719fb7e0eac5dc71"
       }
     ]
   }
