@@ -7888,6 +7888,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "bf304384942edb362a337cb46d6a159d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752677137815-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha(13).jpg",
+        "nomeOriginal": "SA_TOCA_DA_IGREJINHA(20).jpg",
+        "sitio": "Toca da Igrejinha",
+        "co_iphan": "PI2210607BAST00021",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7317,
+          -8.684
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-07",
+        "horario": "21:12:56",
+        "legenda": "Registro de  estrutura a base de Pedra e Argila do sítio  Toca da Igrejinha",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Caverna",
+          "Pedra",
+          "Argila"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-16",
+        "horaInsercao": "11:45",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2154.8 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de estrutura a base de pedra e argila em caverna do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5a1a75687149624f916ff930ec3da497"
       }
     ]
   },
