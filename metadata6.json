@@ -8227,6 +8227,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f43d7263a8844aaa0a38bf1a21564010"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752691486911-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Branca_de_Baixo(4).jpg",
+        "nomeOriginal": "SA_TOCA_DA_PEDRA_BRANCA_DE_BAIXO(4).JPG",
+        "sitio": "Toca da Pedra Branca de Baixo",
+        "co_iphan": "PI2204550BAST00016",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.776,
+          -9.249
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-15",
+        "horario": "22:41:31",
+        "legenda": "Registro de Vista geral, Paisagem e Vegetação do sítio Toca da Pedra Branca de Baixo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-16",
+        "horaInsercao": "15:44",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 62.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f79e5993a4c09d3000d6e37d222a8aa5"
       }
     ]
   }
