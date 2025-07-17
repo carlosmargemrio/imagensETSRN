@@ -8448,6 +8448,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2dbd27b67fe0a53ab06645c4d887d342"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752756594051-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Comprida_I(2).jpg",
+        "nomeOriginal": "SA-TOCA_DA_PEDRA_COMPRIDA_I(2).jpg",
+        "sitio": "Toca da Pedra Comprida I",
+        "co_iphan": "PI2204550BAST00002",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5003,
+          -9.1911
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-10-06",
+        "horario": "11:00:48",
+        "legenda": "Registro Geométricos do sítio Toca da Pedra Comprida I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-17",
+        "horaInsercao": "09:49",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 37.3 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométricos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.9",
+          "distancia_focal": "8.5 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e07a9c355fc55da87456b20deac859e6"
       }
     ]
   }
