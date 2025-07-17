@@ -8401,5 +8401,54 @@
         "hashArquivo": "1f2ac6f670d15f46c2dc42991adc194a"
       }
     ]
+  },
+  "toca da pedra comprida i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752755337028-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Comprida_I(1).jpg",
+        "nomeOriginal": "SA-TOCA_DA_PEDRA_COMPRIDA_I(1).jpg",
+        "sitio": "Toca da Pedra Comprida I",
+        "co_iphan": "PI2204550BAST00002",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5003,
+          -9.1911
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-10-06",
+        "horario": "10:58:09",
+        "legenda": "Registro de Vista geral, Paisagem e Vegetação Seca do sítio Toca da Pedra Comprida I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-17",
+        "horaInsercao": "09:28",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 47.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral, Paisagem e vegetação seca do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2dbd27b67fe0a53ab06645c4d887d342"
+      }
+    ]
   }
 }
