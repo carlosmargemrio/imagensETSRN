@@ -8530,6 +8530,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7e528d2f7f597638d1e0bb402a420559"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752758529777-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Comprida_I(4).jpg",
+        "nomeOriginal": "SA-TOCA_DA_PEDRA_COMPRIDA_I(4).jpg",
+        "sitio": "Toca da Pedra Comprida I",
+        "co_iphan": "PI2204550BAST00002",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5003,
+          -9.1911
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-10-06",
+        "horario": "11:03:10",
+        "legenda": "Registro de Antropomorfos do sítio Toca da Pedra Comprida I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfos",
+          "Cinza"
+        ],
+        "inseridoPor": "Eliane Aragão de souza",
+        "dataInsercao": "2025-07-17",
+        "horaInsercao": "10:22",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 43.0 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Antropomorfos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9c6e055893ce081df1b711c4a1863f32"
       }
     ]
   }
