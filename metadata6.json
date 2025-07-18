@@ -9068,6 +9068,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "6b2bfa991bb88d37b92d4133c7c897e7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752847405325-0",
+        "nomeArquivo": "SA_Toca_da_Saida_da_Travessia(5).jpg",
+        "nomeOriginal": "SA_Toca_da_Roça _das_ Aboboras(1).JPG",
+        "sitio": "Toca da Saída da Travessia",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-10-01",
+        "horario": "10:28:55",
+        "legenda": "Registro Zoomórficos do sitio Toca da Saída da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "11:03",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1426.0 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "8.1 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "465ef1e901973bfbefce1c4d5a9dbd96"
       }
     ]
   }
