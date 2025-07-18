@@ -9476,6 +9476,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "71175063a41b110f2dad1c5b13d13489"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752867513982-0",
+        "nomeArquivo": "SA_Toca_da_Siriema_do_Muquem(4).jpg",
+        "nomeOriginal": "SA_TOCA_DA_SIRIEMA_DO_MUQUEM(4).JPG",
+        "sitio": "Toca da Siriema do Muquem",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-08",
+        "horario": "11:13:52",
+        "legenda": "Registro Geométrico do sítio  Toca da Siriema do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "16:38",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 61.2 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9afa54eea6218138c8e8cb7ffff912d6"
       }
     ]
   }
