@@ -9439,6 +9439,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "4daa0eb7f2b3b36770326f6e4a302bdd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752867128806-0",
+        "nomeArquivo": "SA_Toca_da_Siriema_do_Muquem(3).jpg",
+        "nomeOriginal": "SA_TOCA_DA_SIRIEMA_DO_MUQUEM(3).JPG",
+        "sitio": "Toca da Siriema do Muquem",
+        "co_iphan": "PI2204550BAST00060",
+        "municipio": "Guaribas",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-08",
+        "horario": "11:11:56",
+        "legenda": "Registro de Zoomorfos do sítio Toca da Siriema do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho e Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "16:32",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 31.7 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórficos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "71175063a41b110f2dad1c5b13d13489"
       }
     ]
   }
