@@ -9152,5 +9152,53 @@
         "hashArquivo": "db8ab7065edbf1fe2f66a862f93115ce"
       }
     ]
+  },
+  "sitio fazenda serrinha ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752859696960-0",
+        "nomeArquivo": "SA_Sitio_Fazenda_Serrinha_II(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Serrinha_II(1).JPG",
+        "sitio": "Sítio Fazenda Serrinha II",
+        "co_iphan": "PI2200053BAST00003",
+        "municipio": "Acauã",
+        "coordinates": [
+          -41.0733,
+          -8.4137
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-01-06",
+        "horario": "15:39:38",
+        "legenda": "Registro de Zoomorfos do sítio Sítio Fazenda Serrinha II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "14:28",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 315.8 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórficos em superfície rochosa  do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 160,
+          "abertura": "f/f/2.5",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "296fa15760269655a23f3e991a185821"
+      }
+    ]
   }
 }
