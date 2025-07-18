@@ -8694,5 +8694,51 @@
         "hashArquivo": "81cef52412eb2dec537b59baf00d4122"
       }
     ]
+  },
+  "toca da pedra preta i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752841774171-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Preta_I(1).jpg",
+        "nomeOriginal": "SA_Toca _da _Pedra _Preta_ I (2).JPG",
+        "sitio": "Toca da Pedra Preta I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-05-20",
+        "horario": "15:28:09",
+        "legenda": "Registro de Zoomorfos do sítio Toca da Pedra Preta I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "09:29",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 524.4 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórficos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a74ef86132ba8d6931e152a20cc3870b"
+      }
+    ]
   }
 }
