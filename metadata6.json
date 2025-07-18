@@ -8901,5 +8901,174 @@
         "hashArquivo": "a74ef86132ba8d6931e152a20cc3870b"
       }
     ]
+  },
+  "toca da saida da travessia": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do iphan",
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752845811679-0",
+        "nomeArquivo": "SA_Toca_da_Saida_da_Travessia(1).jpg",
+        "nomeOriginal": "SA_TOCA_DA_SAÍDA_DA_TRAVESSIA(1).JPG",
+        "sitio": "Toca da Saída da Travessia",
+        "co_iphan": "PI2204550BAST00068",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5958,
+          -9.1421
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "12:59:27",
+        "legenda": "Registro Geométricos do sítio Toca da Saída da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "10:36",
+        "fundoArquivistico": "Fiscalização do iphan",
+        "dimensaoSuporte": "image/jpeg, 47.8 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométricos do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d4a2d07dfd6649447840f28906e1147a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752846162480-1",
+        "nomeArquivo": "SA_Toca_da_Saida_da_Travessia(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_SAÍDA_DA_TRAVESSIA(2).JPG",
+        "sitio": "Toca da Saída da Travessia",
+        "co_iphan": "PI2204550BAST00068",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5958,
+          -9.1421
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:06:53",
+        "legenda": "Registro de caverna do sítio Toca da Saída da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Caverna",
+          "Paisagem"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "10:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 48.2 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de caverna em Superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 250,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "44b6af0553453d2fa3f22c1c6d689b3b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752846487595-2",
+        "nomeArquivo": "SA_Toca_da_Saida_da_Travessia(3).jpg",
+        "nomeOriginal": "SA_TOCA_DA_SAÍDA_DA_TRAVESSIA(3).JPG",
+        "sitio": "Toca da Saída da Travessia",
+        "co_iphan": "PI2204550BAST00068",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5958,
+          -9.1421
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:10:12",
+        "legenda": "Registro Geométricos do sítio Toca da Saída da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "10:48",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 38.5 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométricos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2111231ed1841fbcf98f7002f8bf0d41"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752846756860-3",
+        "nomeArquivo": "SA_Toca_da_Saida_da_Travessia(4).jpg",
+        "nomeOriginal": "SA_TOCA_DA_SAÍDA_DA_TRAVESSIA(4).JPG",
+        "sitio": "Toca da Saída da Travessia",
+        "co_iphan": "PI2204550BAST00068",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5958,
+          -9.1421
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "12:58:57",
+        "legenda": "Registro de Vista Geral, Paisagem e Vegetação do sítio Toca da Saída da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "10:52",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 58.7 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6b2bfa991bb88d37b92d4133c7c897e7"
+      }
+    ]
   }
 }
