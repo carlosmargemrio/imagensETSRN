@@ -9319,6 +9319,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "9e3105d54994af1c8a132e3334bf477a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752863330244-0",
+        "nomeArquivo": "SA_Toca_da_Serrinha_II(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Serrinha_II(14).JPG",
+        "sitio": "Toca  da Serrinha II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-01-06",
+        "horario": "15:40:22",
+        "legenda": "Registro Zoomórfico de sítio Toca da Serrinha II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "15:28",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 324.7 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 120,
+          "abertura": "f/f/2.5",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b1ceff87d94614842aaa49f818591881"
       }
     ]
   }
