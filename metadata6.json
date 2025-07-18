@@ -5057,7 +5057,8 @@
   "toca da pedra solta da serra branca": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Fiscalização do Iphan"
     ],
     "imagens": [
       {
@@ -5218,6 +5219,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "9f9a9862e351133d1bb9203468ccd750"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752842214050-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Solta_da_Serra_Branca(5).jpg",
+        "nomeOriginal": "SA_Toca_da_Pedra_Solta_da_Serra_branca(9)_.JPG",
+        "sitio": "Toca da Pedra Solta da Serra Branca",
+        "co_iphan": "PI2201988BAST00019",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6993,
+          -8.5729
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "10:00:51",
+        "legenda": "Placa de Identificação do sítio Toca da Pedra Solta da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "09:36",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 9914.7 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de identificação de sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7e0ad3ba45ceb741984f192627333c70"
       }
     ]
   },
