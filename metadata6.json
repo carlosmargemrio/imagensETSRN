@@ -8572,5 +8572,127 @@
         "hashArquivo": "9c6e055893ce081df1b711c4a1863f32"
       }
     ]
+  },
+  "toca da pedra comprida ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do IPhan",
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1752840441028-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Comprida_II(1).jpg",
+        "nomeOriginal": "SA_TOCA_DA_PEDRA_COMPRIDA_II(1).jpg",
+        "sitio": "Toca da Pedra Comprida II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-10-06",
+        "horario": "11:10:25",
+        "legenda": "Vista Geral, Paisagem e Vegetação do sítio Toca da Pedra Comprida II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "09:07",
+        "fundoArquivistico": "Fiscalização do IPhan",
+        "dimensaoSuporte": "image/jpeg, 40.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.9",
+          "distancia_focal": "23.4 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e41480e99b2fb24acaaabef5512f3ddf"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752840711569-1",
+        "nomeArquivo": "SA_Toca_da_Pedra_Comprida_II(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_PEDRA_COMPRIDA_II(2).jpg",
+        "sitio": "Toca da Pedra Comprida II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-10-06",
+        "horario": "11:11:26",
+        "legenda": "Registro Geométricos do sítio Toca da Pedra Comprida II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos",
+          "Cinza",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "09:11",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 40.7 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométricos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2bd644bb0b238c432bbf1bb4dc492111"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752841047433-2",
+        "nomeArquivo": "SA_Toca_da_Pedra_Comprida_II(3).jpg",
+        "nomeOriginal": "SA_TOCA_DA_PEDRA_COMPRIDA_II(3).jpg",
+        "sitio": "Toca da Pedra Comprida II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-10-06",
+        "horario": "11:12:39",
+        "legenda": "Registro de Geométricos do sítio Toca da Pedra Comprida II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos",
+          "Cinza"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "09:17",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 41.8 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométricos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "81cef52412eb2dec537b59baf00d4122"
+      }
+    ]
   }
 }
