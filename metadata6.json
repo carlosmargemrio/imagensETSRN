@@ -9281,6 +9281,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "45a10d66a4b8306a3951b71919045235"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752862350553-0",
+        "nomeArquivo": "SA_Toca_da_Serrinha_II(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Serrinha_II(16).JPG",
+        "sitio": "Toca da Serrinha II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-01-06",
+        "horario": "15:38:02",
+        "legenda": "Vista geral, Paisagem e Vegetação do sítio Toca da Serrinha II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliana Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "15:12",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 319.1 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "18.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9e3105d54994af1c8a132e3334bf477a"
       }
     ]
   }
