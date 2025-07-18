@@ -5339,6 +5339,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2a237b8e16b519d8d648e7aa85c3cf75"
+      },
+      {
+        "identificador": "ETSRN-PI22-1752843986629-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Solta_da_Serra_Branca(8).jpg",
+        "nomeOriginal": "SA_Toca_da_Pedra_Solta_da_Serra_branca(30)_.JPG",
+        "sitio": "Toca da Pedra Solta da Serra Branca",
+        "co_iphan": "PI2201988BAST00019",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6993,
+          -8.5729
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "10:13:58",
+        "legenda": "Registro Zoomórfico do sítio Toca da Pedra Solta da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane  Aragão de Souza",
+        "dataInsercao": "2025-07-18",
+        "horaInsercao": "10:06",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 10474.3 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórficos d=em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "35 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "958c95263d9b086202dd57911f320e24"
       }
     ]
   },
