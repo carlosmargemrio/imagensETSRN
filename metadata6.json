@@ -5923,6 +5923,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "90ac49cabc1390d3842c09f7f2818df7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753107411981-0",
+        "nomeArquivo": "SA_Toca_da_Velha_Mulata(6).jpg",
+        "nomeOriginal": "TOCA_DA_VELHA_MULATA(7).jpg",
+        "sitio": "Toca da Velha Mulata",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-07",
+        "horario": "21:59:10",
+        "legenda": "Registro de Vista geral com estrutura de Parede de Pedra e Barro do sítio Toca da Velha Mulata",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Pedra",
+          "Barro"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-21",
+        "horaInsercao": "11:16",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2167.9 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscslis",
+        "ambitoConteudo": "A imagem retrata registro de vista geral com estrutura de parede de pedra e barro do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "261dfbca7ac392fd9599771325063d8d"
       }
     ]
   },
