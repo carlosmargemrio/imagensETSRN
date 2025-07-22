@@ -9958,5 +9958,53 @@
         "hashArquivo": "39ee98589f28a08140063d5e140f7c7e"
       }
     ]
+  },
+  "toca das andorinhas ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização  do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753190768436-0",
+        "nomeArquivo": "SA_Toca_das_Andorinhas_II(1).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_ANDORINHAS_II(1).JPG",
+        "sitio": "Toca das Andorinhas II",
+        "co_iphan": "PI2204550BAST00079",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5679,
+          -9.134
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-06",
+        "horario": "10:47:41",
+        "legenda": "Registro de Vista Geral, e Vegetação do sítio Toca das Andorinhas II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-22",
+        "horaInsercao": "10:26",
+        "fundoArquivistico": "Fiscalização  do Iphan",
+        "dimensaoSuporte": "image/jpeg, 75.9 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral e vegetação do sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2757830e66cc73c5bfa57c02533cb9d2"
+      }
+    ]
   }
 }
