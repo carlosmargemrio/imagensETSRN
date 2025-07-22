@@ -9668,7 +9668,8 @@
   "toca da ventania": {
     "nivelDescricao": "Série",
     "fundos": [
-      "fiscalização do  Iphan"
+      "fiscalização do  Iphan",
+      "Fiscalização do Iphan"
     ],
     "imagens": [
       {
@@ -9710,6 +9711,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "94d6696e3c7d86f811f8f375d70a4814"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753187519530-0",
+        "nomeArquivo": "SA_Toca_da_Ventania(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_VENTANIA(2).JPG",
+        "sitio": "Toca da Ventania",
+        "co_iphan": "PI2204550BAST00071",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5945,
+          -9.1453
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "10:50:54",
+        "legenda": "Registro Geométricos dm superfície rochosa do sítio Toca da Ventania",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-22",
+        "horaInsercao": "09:31",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 70.0 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométricos em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "10.4 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e634aa57b2b5942af18f052d0625ac21"
       }
     ]
   }
