@@ -9962,7 +9962,8 @@
   "toca das andorinhas ii": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização  do Iphan"
+      "Fiscalização  do Iphan",
+      "Fiscalização do Iphan"
     ],
     "imagens": [
       {
@@ -10004,6 +10005,132 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2757830e66cc73c5bfa57c02533cb9d2"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753193398940-0",
+        "nomeArquivo": "SA_Toca_das_Andorinhas_II(2).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_ANDORINHAS_II(2).JPG",
+        "sitio": "Toca das Andorinhas II",
+        "co_iphan": "PI2204550BAST00079",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5679,
+          -9.134
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-06",
+        "horario": "11:04:09",
+        "legenda": "Registro Geométricos do sítio Toca das Andorinhas II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-22",
+        "horaInsercao": "11:09",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 64.1 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4bf969cba8a209700d2c73efeb11fbb8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753193622941-1",
+        "nomeArquivo": "SA_Toca_das_Andorinhas_II(3).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_ANDORINHAS_II(3).JPG",
+        "sitio": "Toca das Andorinhas II",
+        "co_iphan": "PI2204550BAST00079",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5679,
+          -9.134
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-06",
+        "horario": "11:03:49",
+        "legenda": "Registro Geométricos do sítio Toca das Andorinhas II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-22",
+        "horaInsercao": "11:13",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 77.4 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização Do Iphan",
+        "ambitoConteudo": "A imagem retrata registro geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "67759693d7349678d857e057f1e0f60c"
+      }
+    ]
+  },
+  "toca das andorinhas iv": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753194926679-0",
+        "nomeArquivo": "SA_Toca_das_Andorinhas_IV(1).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_ANDORINAS_IV (1).JPG",
+        "sitio": "Toca das Andorinhas IV",
+        "co_iphan": "PI2204550BAST00081",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5676,
+          -9.1357
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-06",
+        "horario": "11:23:35",
+        "legenda": "Registro Geométrico do sítio Toca das Andorinhas IV",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-22",
+        "horaInsercao": "11:35",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 54.3 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "10 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "20f6c3d57f43a54b4e4560cfb1f00e42"
       }
     ]
   }
