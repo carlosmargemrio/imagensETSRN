@@ -6003,7 +6003,8 @@
   "toca das andorinhas v": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Iphan"
+      "Fiscalização do Iphan",
+      "Fiscalização do iphan"
     ],
     "imagens": [
       {
@@ -6086,6 +6087,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b251c4ab7bf9323c02e32aaba39061fd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753211548671-0",
+        "nomeArquivo": "SA_Toca_das_Andorinhas_V(3).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_ANDORINHAS_V(4).JPG",
+        "sitio": "Toca das Andorinhas V",
+        "co_iphan": "PI2204550BAST00078",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5686,
+          -9.1392
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-06",
+        "horario": "12:46:27",
+        "legenda": "Registro de Geométrico do sítio  oca das Andorinhas V",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-22",
+        "horaInsercao": "16:12",
+        "fundoArquivistico": "Fiscalização do iphan",
+        "dimensaoSuporte": "image/jpeg, 70.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Registro Geométrico em superfície do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "20.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "be52769486f47c972ffc918ffab192ee"
       }
     ]
   },
