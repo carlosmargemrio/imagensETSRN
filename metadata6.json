@@ -10799,5 +10799,55 @@
         "hashArquivo": "5e88220cbb15c11480a01c5a0b3ab5ee"
       }
     ]
+  },
+  "toca das manchas do muquem": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753282245493-0",
+        "nomeArquivo": "SA_Toca_das_Manchas_do_Muquem(1).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_MANCHAS_DO_MUQUEM(1).JPG",
+        "sitio": "Toca das Manchas do Muquem",
+        "co_iphan": "PI2204550BAST00072",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.593,
+          -9.1462
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "11:28:07",
+        "legenda": "Registro de Vista Geral, Paisagem e Vegetação do sítio Toca das Manchas do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação",
+          "Verde"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "11:50",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 36.2 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vistas geral, paisagem, vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f634830118545b29b61b8066a9d8d982"
+      }
+    ]
   }
 }
