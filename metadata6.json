@@ -10555,6 +10555,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "950ac07418cef55d9afec7695861df5a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753278481379-0",
+        "nomeArquivo": "SA_Toca_das_Gravuras_do_Baixao_do_Requeijao(3).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_GRAVURAS_DO_BAIXÃO_DO_REQUEIJÃO(3).JPG",
+        "sitio": "Toca das Gravuras do Baixão do Requeijão",
+        "co_iphan": "PI2204550BAST00006",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.8354,
+          -9.0256
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-18",
+        "horario": "16:00:02",
+        "legenda": "Registro Geométrico do sítio Toca das Gravuras do Baixão do Requeijão",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho",
+          "Cinza"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "10:48",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 44.0 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9573d380e43abebb05711f4cca8419cc"
       }
     ]
   }
