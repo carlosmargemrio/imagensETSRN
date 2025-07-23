@@ -10847,6 +10847,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f634830118545b29b61b8066a9d8d982"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753282577613-0",
+        "nomeArquivo": "SA_Toca_das_Manchas_do_Muquem(2).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_MANCHAS_DO_MUQUEM(2).JPG",
+        "sitio": "Toca das Manchas do Muquem",
+        "co_iphan": "PI2204550BAST00072",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.593,
+          -9.1462
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "11:28:29",
+        "legenda": "Registro Antropomórfico e Pingadeira do sítio Toca das Manchas do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Pingadeira"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "11:56",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 34.1 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização Do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0f6bb70e73fdf812493615302a0d1c57"
       }
     ]
   }
