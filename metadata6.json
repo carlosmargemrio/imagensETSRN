@@ -10378,5 +10378,53 @@
         "hashArquivo": "08033a8ef5df62218b268899793f524d"
       }
     ]
+  },
+  "toca das digitais": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização  do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753272742148-0",
+        "nomeArquivo": "SA_Toca_das_Digitais(1).jpg",
+        "nomeOriginal": "SA_TOCA_DAS_DIGITAIS(3).JPG",
+        "sitio": "Toca das Digitais",
+        "co_iphan": "PI2203107BAST00011",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8469,
+          -8.9615
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "08:26:59",
+        "legenda": "Registro Geométrico do sítio Toca das Digitais",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "09:12",
+        "fundoArquivistico": "Fiscalização  do Iphan",
+        "dimensaoSuporte": "image/jpeg, 64.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata  registro  Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "c6b0b0f4297fd0ca14e77afd1def8511"
+      }
+    ]
   }
 }
