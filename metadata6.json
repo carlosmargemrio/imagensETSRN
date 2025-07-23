@@ -10930,5 +10930,137 @@
         "hashArquivo": "7d28696b68e819268bb69eca8985a392"
       }
     ]
+  },
+  "toca do alto da passagem estreita": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753297199462-0",
+        "nomeArquivo": "SA_Toca_do_Alto_da_Passagem_Estreita(1).jpg",
+        "nomeOriginal": "SA_TOCA_DO_ALTO_DA_PASSAGEM_ESTREITA(1).JPG",
+        "sitio": "Toca do Alto da Passagem Estreita",
+        "co_iphan": "PI2204550BAST00066",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.597,
+          -9.142
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:17:29",
+        "legenda": "Registro Geométrico do sítio Toca do Alto da Passagem Estreita",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "geométrico",
+          "Cinza",
+          "Marrom",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "15:59",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 41.4 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "35c388e0630238e0b930658baee2ca31"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753297475235-1",
+        "nomeArquivo": "SA_Toca_do_Alto_da_Passagem_Estreita(2).jpg",
+        "nomeOriginal": "SA_TOCA_DO_ALTO_DA_PASSAGEM_ESTREITA(2).JPG",
+        "sitio": "Toca do Alto da Passagem Estreita",
+        "co_iphan": "PI2204550BAST00066",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.597,
+          -9.142
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:17:53",
+        "legenda": "Registro Geométrico do sítio Toca do Alto da Passagem Estreita",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "amarelo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "16:04",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 41.9 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do  sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "724ec60c0b5a1788f9ac0b9b4403b487"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753297760602-2",
+        "nomeArquivo": "SA_Toca_do_Alto_da_Passagem_Estreita(3).jpg",
+        "nomeOriginal": "SA_TOCA_DO_ALTO_DA_PASSAGEM_ESTREITA(3).JPG",
+        "sitio": "Toca do Alto da Passagem Estreita",
+        "co_iphan": "PI2204550BAST00066",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.597,
+          -9.142
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:17:22",
+        "legenda": "Registro de Vista Geral, Paisagem e Vegetação do sítio Toca do Alto da Passagem Estreita",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-23",
+        "horaInsercao": "16:09",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 61.4 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral, paisagem e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8535508aff39974ba074e0931ef0c596"
+      }
+    ]
   }
 }
