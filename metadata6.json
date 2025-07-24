@@ -11529,5 +11529,50 @@
         "hashArquivo": "5af485c9dae85bc61ef2503daae61ea1"
       }
     ]
+  },
+  "toca do caldeirao da vaca ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753368124513-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_da_Vaca_II(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirâo_da_Vaca_II(2).JPG",
+        "sitio": "Toca  do Caldeirão da Vaca II",
+        "co_iphan": "PI2201988BAST00009",
+        "municipio": "Brejo do Piauí",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-06-28",
+        "horario": "14:42:30",
+        "legenda": "Registro de Placa de identificação do sítio Toca  do Caldeirão da Vaca II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-24",
+        "horaInsercao": "11:42",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 8648.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 400,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e5b52deff0dfbaff420f9d6fbcb7da5f"
+      }
+    ]
   }
 }
