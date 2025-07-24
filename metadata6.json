@@ -11440,5 +11440,53 @@
         "hashArquivo": "7942babebf172347e5e1497f44bc03ae"
       }
     ]
+  },
+  "toca caititu": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753365402178-0",
+        "nomeArquivo": "SA_Toca_Caititu(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Caititu (4).JPG",
+        "sitio": "Toca Caititu",
+        "co_iphan": "PI2201739BAST00005",
+        "municipio": "Betânia do Piauí",
+        "coordinates": [
+          -40.7289,
+          -8.061
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-07-04",
+        "horario": "23:42:17",
+        "legenda": "Registro Zoomórficos do sítio Toca Caititu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomórfico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-24",
+        "horaInsercao": "10:56",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1250.2 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5af485c9dae85bc61ef2503daae61ea1"
+      }
+    ]
   }
 }
