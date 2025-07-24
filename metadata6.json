@@ -11438,6 +11438,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7942babebf172347e5e1497f44bc03ae"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753365809303-0",
+        "nomeArquivo": "SA_Toca_do_Caititu(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Caititu (5).JPG",
+        "sitio": "Toca do Caititu",
+        "co_iphan": "PI2201739BAST00005",
+        "municipio": "Betânia do Piauí",
+        "coordinates": [
+          -40.7289,
+          -8.061
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-07-04",
+        "horario": "23:49:27",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caititu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Amarelo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-24",
+        "horaInsercao": "11:03",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1209.4 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "a imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ded9c84c566f28cd27304a0eec4b86c0"
       }
     ]
   },
