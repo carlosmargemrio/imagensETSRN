@@ -11392,5 +11392,53 @@
         "hashArquivo": "986414eb407a6e6787b676758d27088e"
       }
     ]
+  },
+  "toca do caititu": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753364883908-0",
+        "nomeArquivo": "SA_Toca_do_Caititu(1).jpg",
+        "nomeOriginal": "SA_toca_do_Caititu (1).JPG",
+        "sitio": "Toca do Caititu",
+        "co_iphan": "PI2201739BAST00005",
+        "municipio": "Betânia do Piauí",
+        "coordinates": [
+          -40.7289,
+          -8.061
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-07-04",
+        "horario": "23:39:25",
+        "legenda": "Vista Geral e Paisagem do sítio Caititu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-24",
+        "horaInsercao": "10:48",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1164.0 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7942babebf172347e5e1497f44bc03ae"
+      }
+    ]
   }
 }
