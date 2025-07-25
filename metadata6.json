@@ -11609,6 +11609,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "e3b8eb6eb86744c493e1218a5be15e79"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753446968545-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_da_Vaca_II(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirâo_da_Vaca_II(7).JPG",
+        "sitio": "Toca do Caldeirâo da Vaca II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-06-28",
+        "horario": "14:46:19",
+        "legenda": "Registro de Vista Geral, Paisagem e Vegetação do sítio Toca do Caldeirâo da Vaca II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-25",
+        "horaInsercao": "09:36",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 11182.0 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral, Paisagem e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fba6dfa2fe402787d9daff5d841951d4"
       }
     ]
   }
