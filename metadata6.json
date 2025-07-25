@@ -11572,6 +11572,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "e5b52deff0dfbaff420f9d6fbcb7da5f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753445695467-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_da_Vaca_II(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirâo_da_Vaca_II(4).JPG",
+        "sitio": "Toca do Caldeirâo da Vaca II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-06-28",
+        "horario": "14:44:13",
+        "legenda": "Registro Zoomórfico do sítio Toca do Caldeirâo da Vaca II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-25",
+        "horaInsercao": "09:14",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 10240.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "53 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e3b8eb6eb86744c493e1218a5be15e79"
       }
     ]
   }
