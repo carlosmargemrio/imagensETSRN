@@ -11984,6 +11984,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "89c3e1288aa62fd24ef141b46401ba62"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753713343924-0",
+        "nomeArquivo": "SA_Toca_do_Chupeiro_do_pinguinha_I(3).jpg",
+        "nomeOriginal": "SA_Toca_do_ Chupeiro_do_ Pinguinha_ I(3).JPG",
+        "sitio": "Toca do Chupeiro do pinguinha I",
+        "co_iphan": "PI2204550BAST00001",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6965,
+          -9.0685
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-20",
+        "horario": "10:46:34",
+        "legenda": "Registro de Vista Geral, Paisagem e Vegetação do sítio Toca do Chupeiro do pinguinha I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "11:35",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 69.0 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral, paisagem e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b7db3bb0b37f5f49beb78ce39c077b8e"
       }
     ]
   }
