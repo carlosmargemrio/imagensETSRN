@@ -11898,5 +11898,53 @@
         "hashArquivo": "dd1ae585379816645f0887b194256a4f"
       }
     ]
+  },
+  "toca do chupeiro do pinguinha i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753712545935-0",
+        "nomeArquivo": "SA_Toca_do_Chupeiro_do_pinguinha_I(1).jpg",
+        "nomeOriginal": "SA_Toca_do_ Chupeiro_do_ Pinguinha_ I(1).JPG",
+        "sitio": "Toca do Chupeiro do pinguinha I",
+        "co_iphan": "PI2204550BAST00001",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6965,
+          -9.0685
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-20",
+        "horario": "10:46:44",
+        "legenda": "Registro Geométrico do sítio Toca do Chupeiro do pinguinha I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão  de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "11:22",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 39.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e4e1612620bdbfb88c0ceda767762a4e"
+      }
+    ]
   }
 }
