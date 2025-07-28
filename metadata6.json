@@ -11811,6 +11811,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "5ea0db827104d8681437282f383a8cc5"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753708075850-0",
+        "nomeArquivo": "SA_Toca_do_Candu_I(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Candu_I(12).JPG",
+        "sitio": "Toca do Candu I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-07-10",
+        "horario": "10:28:56",
+        "legenda": "Registro Geométrico  do sítio Toca do Candu I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "10:07",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 8044.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8621b5b83f06a2faaa9fc0e5f065320a"
       }
     ]
   }
