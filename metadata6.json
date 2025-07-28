@@ -12433,6 +12433,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0da4795e1c1516f1cea4b94965f63ef3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753729461791-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(8).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(37).JPG",
+        "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
+        "co_iphan": "PI2201988BAST00118",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.8626,
+          -8.6057
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "12:07:24",
+        "legenda": "Registro de instalação de cerca com estacas de Madeira e vegetação do sítio Toca do Curral Velho ou da Boca do Forno",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "vegetação",
+          "Verde"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "16:04",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 594.5 KB, 960×1280px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca com estaca de madeira e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f4232f32203927cc769d43fdcbd07d35"
       }
     ]
   }
