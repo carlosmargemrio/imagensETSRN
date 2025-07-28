@@ -12314,6 +12314,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "abc2ff1063840950685e8117d986f4f3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753727271138-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(5).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(13).JPG",
+        "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
+        "co_iphan": "PI2201988BAST00118",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.8626,
+          -8.6057
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "10:24:54",
+        "legenda": "Registro Zoomórfico do sítio Toca do Curral Velho ou da Boca do Forno",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "15:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 579.6 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "39.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "913035254e34bbb4b799c64a10d794c2"
       }
     ]
   }
