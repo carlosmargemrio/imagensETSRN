@@ -11694,5 +11694,124 @@
         "hashArquivo": "1af7b7175915385f1d85f0112aa62e81"
       }
     ]
+  },
+  "toca do candu i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753706370696-0",
+        "nomeArquivo": "SA_Toca_do_Candu_I(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Candu_I(1).JPG",
+        "sitio": "Toca do Candu I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-07-10",
+        "horario": "10:24:04",
+        "legenda": "Placa de Direcionamento do sítio Toca do Candu I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "09:39",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 8131.1 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de Placa de direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a94337838320120f1c17bf2a0e1e888b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753706595792-1",
+        "nomeArquivo": "SA_Toca_do_Candu_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Candu_I(3).JPG",
+        "sitio": "Toca do Candu I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-07-10",
+        "horario": "10:26:07",
+        "legenda": "Registro Geométrico do sítio Toca do Candu I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "09:43",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 10110.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 400,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "cb07c7c9353ec265c4dca6356c8b68f6"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753707029300-0",
+        "nomeArquivo": "SA_Toca_do_Candu_I(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Candu_I(6).JPG",
+        "sitio": "Toca do Candu I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-07-10",
+        "horario": "10:26:46",
+        "legenda": "Registro de Zoomorfos do sítio Toca do Candu I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "09:50",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 15203.8 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido Pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Zoomórficos em superfície rochosa do sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5ea0db827104d8681437282f383a8cc5"
+      }
+    ]
   }
 }
