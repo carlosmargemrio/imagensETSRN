@@ -12027,5 +12027,125 @@
         "hashArquivo": "b7db3bb0b37f5f49beb78ce39c077b8e"
       }
     ]
+  },
+  "toca do chupeiro pinguinha ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan",
+      "Fiscalização d Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1753724539675-0",
+        "nomeArquivo": "SA_Toca_do_Chupeiro_Pinguinha_II(1).jpg",
+        "nomeOriginal": "SA_Toca_do_ Chupeiro_ Pinguinha_II(1).JPG",
+        "sitio": "Toca do Chupeiro Pinguinha II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-20",
+        "horario": "10:48:17",
+        "legenda": "Registro  do sítio  Toca do Chupeiro Pinguinha II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "14:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 538.5 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "639f4f00ff4903b926ceb4266276a0de"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753725016094-1",
+        "nomeArquivo": "SA_Toca_do_Chupeiro_Pinguinha_II(2).jpg",
+        "nomeOriginal": "SA_Toca_do_ Chupeiro_ Pinguinha_II(2).JPG",
+        "sitio": "Toca do  Chupeiro Pinguinha II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-20",
+        "horario": "10:48:27",
+        "legenda": "Registro Geométrico do sítio Toca do  Chupeiro Pinguinha II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "14:50",
+        "fundoArquivistico": "Fiscalização d Iphan",
+        "dimensaoSuporte": "image/jpeg, 583.9 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "92d6a5b17e1e6de4c9443606dfee4f47"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753725314641-2",
+        "nomeArquivo": "SA_Toca_do_Chupeiro_Pinguinha_II(3).jpg",
+        "nomeOriginal": "SA_Toca_do_ Chupeiro_ Pinguinha_II(3).JPG",
+        "sitio": "Toca do Chupeiro  Pinguinha II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2006-09-20",
+        "horario": "10:48:02",
+        "legenda": "Vista Geral e Vegetação do sítio Toca do Chupeiro  Pinguinha II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "14:55",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 583.5 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6480a78af7417d7b25f63cefc904ae16"
+      }
+    ]
   }
 }
