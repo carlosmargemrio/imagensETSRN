@@ -12394,6 +12394,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0c2ca0adc3087f66ef287b27c2bad3f6"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753728287626-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(7).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(25).JPG",
+        "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
+        "co_iphan": "PI2201988BAST00118",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.8626,
+          -8.6057
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "12:20:38",
+        "legenda": "Registro de Placa de sítio Arqueológico do sítio Toca do Curral Velho ou da Boca do Forno",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-28",
+        "horaInsercao": "15:44",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 583.2 KB, 960×1280px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de sítio Arqueológico do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "25.5 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0da4795e1c1516f1cea4b94965f63ef3"
       }
     ]
   }
