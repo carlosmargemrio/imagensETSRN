@@ -12517,6 +12517,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b0dbbb1ea98565e3755ecdd42efaa17f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1753790865041-0",
+        "nomeArquivo": "SA_Toca_do_Fidalgo(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_Do_Fidalgo_II(6).JPG",
+        "sitio": "Toca do Fidalgo",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "21:57:33",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Fidalgo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-07-29",
+        "horaInsercao": "09:07",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1078.4 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.9",
+          "distancia_focal": "42.1 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a37d6c969077d926d6919f4d1e052d93"
       }
     ]
   }
