@@ -12290,5 +12290,50 @@
         "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
       }
     ]
+  },
+  "toca do fidalgo": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do IPhan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1754335637889-0",
+        "nomeArquivo": "SA_Toca_do_Fidalgo(4).jpg",
+        "nomeOriginal": "Toca_do _Fidalgo(1).JPG",
+        "sitio": "Toca do Fidalgo",
+        "co_iphan": "PI2205359BAST00032",
+        "municipio": "João Costa",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "03:06:57",
+        "legenda": "Instalação de cerca e Portão de entrada do sitio Toca do Fidalgo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vsgetação",
+          "Verde"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-04",
+        "horaInsercao": "16:27",
+        "fundoArquivistico": "Fiscalização do IPhan",
+        "dimensaoSuporte": "image/jpeg, 1376.3 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Instalação de cerca e Vegetação verde do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f122c3905faea633fc163cb867ed2f18"
+      }
+    ]
   }
 }
