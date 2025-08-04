@@ -12237,5 +12237,58 @@
         "hashArquivo": "f4232f32203927cc769d43fdcbd07d35"
       }
     ]
+  },
+  "lagoa de cima ix toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1754272049109-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_IX_Toca_da(1).jpg",
+        "nomeOriginal": "IMG_5412.jpg",
+        "sitio": "Lagoa de Cima IX ( Toca da )",
+        "co_iphan": "PI2209559BAST00015",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.054,
+          -9.0382
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-10-08",
+        "horario": "09:27:03",
+        "legenda": "Detalhe de um dos painéis de registro rupestre no sítio arqueológico Lagoa de Cima IX",
+        "autoria": "Carlos Rocha",
+        "direitosAutorais": "Carlos Rocha",
+        "tags": [
+          "Geométrico",
+          "Antropomorfos",
+          "Zoomorfos",
+          "preenchido",
+          "vermelho",
+          "com escala",
+          "hachuras"
+        ],
+        "inseridoPor": "Carlos Rocha",
+        "dataInsercao": "2025-08-04",
+        "horaInsercao": "22:47",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 4118.2 KB, 6000×4000px",
+        "historicoArquivistico": "Imagem produzida durante as atividades de fiscalizações em 2024 de sítios arqueológicos pelo ETSRN-PI",
+        "ambitoConteudo": "Trata-se de um painel de registro rupestre sobre arenito, executado em vermelho ferruginoso (provável ocre hematítico), de traço fino e aplicação relativamente uniforme, organizado em faixa horizontal, sem sobreposições evidentes. Iconograficamente, reúne zoomorfos e antropomorfos com marcadores lineares curtos; destaca-se um quadrúpede (possivelmente cervídeo) com preenchimento por hachuras e sugestão de salto, além de dois motivos de contorno aberto, indicativos de etapa de execução não concluída.",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T6i",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "26 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "afad957ca3326c71ad232bd6689b9055"
+      }
+    ]
   }
 }
