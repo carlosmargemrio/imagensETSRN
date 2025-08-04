@@ -1739,7 +1739,7 @@
           "Preenchido",
           "Vermelho"
         ],
-        "inseridoPor": "Eliane  Aragão de Souza",
+        "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-26",
         "horaInsercao": "16:19",
         "fundoArquivistico": "Fiscalização do Iphan",
@@ -2400,7 +2400,7 @@
           "Vista Geral",
           "Paisagem"
         ],
-        "inseridoPor": "ELiane Aragão de Souza",
+        "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-27",
         "horaInsercao": "14:58",
         "fundoArquivistico": "Fiscalis",
@@ -3589,7 +3589,7 @@
           "Zoomorfos",
           "Vermelho"
         ],
-        "inseridoPor": "ELIANE Aragão de Souza",
+        "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-06-30",
         "horaInsercao": "16:43",
         "fundoArquivistico": "Fiscalização do Iphan",
@@ -4357,8 +4357,8 @@
         "data": "2024-06-28",
         "horario": "11:38:04",
         "legenda": "Registro de Antropomorfos do Sítio Toca do Veado",
-        "autoria": "UNIVAF",
-        "direitosAutorais": "UNIVAF",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
         "tags": [
           "Antropomorfos",
           "Vermelho"
@@ -4691,8 +4691,8 @@
         "data": "2024-06-29",
         "horario": "10:08:53",
         "legenda": "Vista geral, paisagem e Vegetação do sítio Toca Alta da Escada",
-        "autoria": "UNIVAF",
-        "direitosAutorais": "UNIVAF",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
         "tags": [
           "Vista geral",
           "paisagem",
@@ -5312,7 +5312,7 @@
           "Zoomorfos",
           "vermelho"
         ],
-        "inseridoPor": "Eliane  Aragão de Souza",
+        "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-07-18",
         "horaInsercao": "10:06",
         "fundoArquivistico": "Fiscalização do Iphan",
@@ -5654,8 +5654,8 @@
         "data": "2024-07-10",
         "horario": "11:22:40",
         "legenda": "Registro de Zoomorfos do Sítio Toca da Rancharia da Escada",
-        "autoria": "UNIVAF",
-        "direitosAutorais": "UNIVAF",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
         "tags": [
           "Zoomorfos",
           "preenchido",
@@ -6466,7 +6466,7 @@
   "amancio toca do": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Ipphan",
+      "Fiscalização do Iphan",
       "Fiscalização do Iphan"
     ],
     "imagens": [
@@ -6493,7 +6493,7 @@
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-07-08",
         "horaInsercao": "15:19",
-        "fundoArquivistico": "Fiscalização do Ipphan",
+        "fundoArquivistico": "Fiscalização do Iphan",
         "dimensaoSuporte": "image/jpeg, 2091.2 KB, 2592×1944px",
         "historicoArquivistico": "Fiscalização do Iphan",
         "ambitoConteudo": "A imagem retrata uma placa de identificação do sítio",
