@@ -12520,6 +12520,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "02c158f91ac656c8df7cae5b57f8bae5"
+      },
+      {
+        "identificador": "ETSRN-PI22-1754398062684-0",
+        "nomeArquivo": "SA_Toca_do_Fidalgo(10).jpg",
+        "nomeOriginal": "Toca_do _Fidalgo(7).JPG",
+        "sitio": "Toca do Fidalgo",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "21:58:24",
+        "legenda": "Registro de instalação de cerca, portão de acesso e vegetação do sítio Toca do Fidalgo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vegetação",
+          "Verde"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-05",
+        "horaInsercao": "09:47",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1452.7 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca, portão de acesso e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1467f8e5a87e90a46cd0f9a74447bc01"
       }
     ]
   }
