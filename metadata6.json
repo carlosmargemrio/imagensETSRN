@@ -12559,5 +12559,49 @@
         "hashArquivo": "1467f8e5a87e90a46cd0f9a74447bc01"
       }
     ]
+  },
+  "toca da baixa do capim": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1754404785691-0",
+        "nomeArquivo": "SA_Toca_da_Baixa_do_Capim(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_ da_Baixa_do_Capim(1).JPG",
+        "sitio": "Toca da Baixa do Capim",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-21",
+        "horario": "10:50:38",
+        "legenda": "Registro Antropomórfico e Zoomórfico do sítio Baixa do Capim",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo e Zoomorfo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-05",
+        "horaInsercao": "11:39",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1424.6 KB, 1536×2048px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Antropomórfico e Zoomórfico do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "12.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d3953a9f6250c96dbc08431a6e2b4206"
+      }
+    ]
   }
 }
