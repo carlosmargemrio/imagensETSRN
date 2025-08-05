@@ -12408,6 +12408,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "91abe9ccc2d99a012e380f80c723b545"
+      },
+      {
+        "identificador": "ETSRN-PI22-1754396843785-0",
+        "nomeArquivo": "SA_Toca_do_Fidalgo(7).jpg",
+        "nomeOriginal": "Toca_do _Fidalgo(4).JPG",
+        "sitio": "Toca do Fidalgo",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-26",
+        "horario": "21:56:52",
+        "legenda": "Registro Zoomórfico do sítio Toca do Fidalgo",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-05",
+        "horaInsercao": "09:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1237.0 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "17 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6056533c1fba01e639b95bf44774040c"
       }
     ]
   }
