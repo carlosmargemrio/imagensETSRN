@@ -5117,6 +5117,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "ec6f91730d1fb9c2855075021d894a0e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1754679563861-0",
+        "nomeArquivo": "SA_Escada_Toca_Alta_da(16).jpg",
+        "nomeOriginal": "SA_Toca_Alta_da_Escada(18).JPG",
+        "sitio": "Escada (Toca Alta da)",
+        "co_iphan": "PI2201988BAST00083",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6858,
+          -8.558
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-29",
+        "horario": "10:15:02",
+        "legenda": "Registro de Vista Geral e vegetação do sítio Toca Alta da  Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-08",
+        "horaInsercao": "15:59",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 13693.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "20 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6df78f4c4b2fa1520cd966960f96b3b5"
       }
     ]
   },
