@@ -4957,6 +4957,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "a35d81f01f6040536ffd964c045fe1c2"
+      },
+      {
+        "identificador": "ETSRN-PI22-1754674963943-0",
+        "nomeArquivo": "SA_Escada_Toca_Alta_da(12).jpg",
+        "nomeOriginal": "SA_Toca_Alta_da_Escada(13).JPG",
+        "sitio": "Escada (Toca Alta da)",
+        "co_iphan": "PI2201988BAST00083",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6858,
+          -8.558
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-29",
+        "horario": "10:12:49",
+        "legenda": "Registro de Vista geral e Vegetação do sítio Toca Alta da Escada",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-08",
+        "horaInsercao": "14:42",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9964.8 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "519515877c1740590bd8d057ee36c4db"
       }
     ]
   },
