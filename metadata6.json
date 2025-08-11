@@ -13341,5 +13341,52 @@
         "hashArquivo": "f04aef3f8ae688404210cd684030c124"
       }
     ]
+  },
+  "toca da descida dagua do muquem": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1754941623511-0",
+        "nomeArquivo": "SA_Toca_da_Descida_D_agua_do_Muquem(1).jpg",
+        "nomeOriginal": "TOCA_DA_DESCIDA_D'AGUA_DO_MUQUEM(1).JPG",
+        "sitio": "Toca da Descida D'água do Muquem",
+        "co_iphan": "PI2204550BAST00077",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5686,
+          -9.1402
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "14:00:11",
+        "legenda": "Registro Geométrico do sítio Toca da Descida D'água do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-11",
+        "horaInsercao": "16:47",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 50.2 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata Registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2b01173adacafb4d09317c8100fe5205"
+      }
+    ]
   }
 }
