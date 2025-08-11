@@ -13259,6 +13259,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7798d4fb91c172c79d022e1c7c9d6b3a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1754938944653-0",
+        "nomeArquivo": "SA_Toca_da_Correnteza_do_Muquem(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_CORRENTEZA_DO_MUQUEM(2).JPG",
+        "sitio": "Toca da Correnteza do Muquem",
+        "co_iphan": "PI2204550BAST00065",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.5991,
+          -9.1372
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "14:46:22",
+        "legenda": "Registro Antropomórfico do sítio Toca da Correnteza do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-11",
+        "horaInsercao": "16:02",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 49.9 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 250,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "34.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "bd1d136090254f621cf2623530d517c9"
       }
     ]
   }
