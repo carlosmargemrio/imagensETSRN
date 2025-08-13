@@ -14212,5 +14212,53 @@
         "hashArquivo": "df3168a98ae32087163ccd86b22de67f"
       }
     ]
+  },
+  "nezinho ii toca da entrada do caldeirao do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755114245799-0",
+        "nomeArquivo": "SA_Nezinho_II_Toca_da_entrada_do_Caldeirao_do(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Entrada_do_Caldeirâo_do_Nezinho_II(6).JPG",
+        "sitio": "Nezinho II ( Toca da entrada do Caldeirão do )",
+        "co_iphan": "PI2205359BAST00014",
+        "municipio": "João Costa",
+        "coordinates": [
+          -42.6674,
+          -8.533
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-07-10",
+        "horario": "15:48:54",
+        "legenda": "Registro Geométrico do sítio  Toca da entrada do Caldeirão do Nezinho II",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "16:44",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9312.8 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "03c90ed5878a04f8de2fb9e7e720b30b"
+      }
+    ]
   }
 }
