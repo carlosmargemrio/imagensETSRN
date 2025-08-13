@@ -13467,5 +13467,494 @@
         "hashArquivo": "3fb766f451155908a9b8249b9867d1e6"
       }
     ]
+  },
+  "toca da embauba": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "cProduzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755090101267-0",
+        "nomeArquivo": "SA_Toca_da_Embauba(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(1).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:34",
+        "legenda": "Registro de Placa de Direcionamento do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão  de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:01",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 8249.3 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem Retrata registro de Placa de Direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6e504d11551b9bf79c925589a6ecb1d4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755090420182-1",
+        "nomeArquivo": "SA_Toca_da_Embauba(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(2).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:51:36",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:07",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 8289.3 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e89688b6e7757127cea41952d820ee02"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755090782059-2",
+        "nomeArquivo": "SA_Toca_da_Embauba(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(3).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:52:57",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:13",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9443.4 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2dc155aa80b4e030fc30816badde11d3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755090984093-3",
+        "nomeArquivo": "SA_Toca_da_Embauba(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(5).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:45",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:16",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10019.3 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "aa06b3a96290c7a7da53d919663cd045"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755091336699-4",
+        "nomeArquivo": "SA_Toca_da_Embauba(5).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(6).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:54:36",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:22",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 7778.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "10a4e95abdcd753ce4ae41b41a33c209"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755091535589-5",
+        "nomeArquivo": "SA_Toca_da_Embauba(6).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(7).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:59",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:25",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 8852.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "17bb526a33de1a522fb3087d0a186b58"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755091775436-6",
+        "nomeArquivo": "SA_Toca_da_Embauba(7).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(9).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:55:14",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:29",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9054.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície Rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7d4ddf66c167aaf4cafb4a10732b73ee"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755092053886-7",
+        "nomeArquivo": "SA_Toca_da_Embauba(8).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(10).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:06",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:34",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9118.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A Imagem retrata registro Geométrico em superfície Rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/32.0",
+          "distancia_focal": "43 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "56b142733597b64a50be356d5512c67a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755093162619-8",
+        "nomeArquivo": "SA_Toca_da_Embauba(9).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(11).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:58:24",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "10:52",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9567.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "c3f264002e64a5f3cd1cf10a3e0a5f03"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755094012871-9",
+        "nomeArquivo": "SA_Toca_da_Embauba(10).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(12).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:20",
+        "legenda": "Registro Geométrico do sítio Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "11:06",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9582.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 500,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "33 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "453ac03115767f7d94b5c98b6bd93d98"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755094260578-10",
+        "nomeArquivo": "SA_Toca_da_Embauba(11).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(13).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "11:57:32",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "11:11",
+        "fundoArquivistico": "cProduzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9775.3 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 800,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "acab0ed8b0ed6893e6e0c882d55f620d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755095420694-11",
+        "nomeArquivo": "SA_Toca_da_Embauba(12).jpg",
+        "nomeOriginal": "SA_Toca_da_Embaúba(16).JPG",
+        "sitio": "Toca da Embauba",
+        "co_iphan": "PI2201988BAST00152",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.693,
+          -8.5731
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:02:39",
+        "legenda": "Registro Geométrico do sítio Toca da Embaúba",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Ellane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "11:30",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11857.0 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 500,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "11b3ce090360db9677815d7ee3ab2024"
+      }
+    ]
   }
 }
