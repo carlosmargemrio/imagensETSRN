@@ -14084,5 +14084,133 @@
         "hashArquivo": "439fb2f5f963388aa4e4f91af09c51e4"
       }
     ]
+  },
+  "toca da entrada da travessia": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755110957752-0",
+        "nomeArquivo": "SA_Toca_da_Entrada_da_Travessia(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Entrada_da_Travessia(1).JPG",
+        "sitio": "Toca da Entrada da Travessia",
+        "co_iphan": "PI2204550BAST00067",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.597,
+          -9.142
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:11:34",
+        "legenda": "Registro Geométrico do sítio Toca da Entrada da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "15:49",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 59.5 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "42e8490d07ff428fbf790f7d2f318963"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755111319660-1",
+        "nomeArquivo": "SA_Toca_da_Entrada_da_Travessia(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Entrada_da_Travessia(4).JPG",
+        "sitio": "Toca da Entrada da Travessia",
+        "co_iphan": "PI2204550BAST00067",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.597,
+          -9.142
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:11:42",
+        "legenda": "Registro Geométrico do sítio Toca da Entrada da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "15:55",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 58.4 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Restrito",
+        "condicoesReproducao": "",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "045dc31a2e5a959473d13a3ba0fec5f8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755111543284-2",
+        "nomeArquivo": "SA_Toca_da_Entrada_da_Travessia(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Entrada_da_Travessia(5).JPG",
+        "sitio": "Toca da Entrada da Travessia",
+        "co_iphan": "PI2204550BAST00067",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.597,
+          -9.142
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-07",
+        "horario": "13:11:19",
+        "legenda": "Registro de Vista geral e Vegetação do sítio Toca da Entrada da Travessia",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-13",
+        "horaInsercao": "15:59",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 64.5 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "df3168a98ae32087163ccd86b22de67f"
+      }
+    ]
   }
 }
