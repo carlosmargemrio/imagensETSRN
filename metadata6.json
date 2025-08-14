@@ -14468,5 +14468,53 @@
         "hashArquivo": "9a290619878fca3868437091273524ac"
       }
     ]
+  },
+  "toca da estrada da japecanga ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755175430137-0",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_II(1).jpg",
+        "nomeOriginal": "SA_TOCA_DA_ESTRADA_DA_JAPECANGA_II1) (1).JPG",
+        "sitio": "Toca da Estrada da Japecanga II",
+        "co_iphan": "PI2203107BAST00003",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8706,
+          -8.926
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "09:26:37",
+        "legenda": "Registro Geométrico do sítio Toca da Estrada da Japecanga II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "09:43",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 47.8 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a7c3384f622921a9ae6fb4ca25927e17"
+      }
+    ]
   }
 }
