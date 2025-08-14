@@ -14638,5 +14638,173 @@
         "hashArquivo": "fb10dfeeeb6577f3bdb6aabc0f54a0a2"
       }
     ]
+  },
+  "toca da estrada da japecanga iii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755176728814-0",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_III(1).jpg",
+        "nomeOriginal": "SA TOCA_DA_ESTRADA_DO_JAPECANGA_III(1).JPG",
+        "sitio": "Toca da Estrada da Japecanga III",
+        "co_iphan": "PI2203107BAST00006",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8704,
+          -8.9265
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "09:28:35",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca da Estrada da Japecanga III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "10:05",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 39.3 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b0c01653beb16f97eb6e87791f5e40f8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755177010551-1",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_III(2).jpg",
+        "nomeOriginal": "SA TOCA_DA_ESTRADA_DO_JAPECANGA_III(2).JPG",
+        "sitio": "Toca da Estrada da Japecanga III",
+        "co_iphan": "PI2203107BAST00006",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8704,
+          -8.9265
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "09:29:06",
+        "legenda": "Registro Geométrico do sítio Toca da Estrada da Japecanga III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "10:10",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 25.5 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "16.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "dbd7827c6e9e5d1ceb9e074a076535f4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755177204257-2",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_III(3).jpg",
+        "nomeOriginal": "SA TOCA_DA_ESTRADA_DO_JAPECANGA_III(3).JPG",
+        "sitio": "Toca da Estrada da Japecanga III",
+        "co_iphan": "PI2203107BAST00006",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8704,
+          -8.9265
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "09:29:11",
+        "legenda": "Registro Antropomórfico do sítio Toca da Estrada da Japecanga III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "10:13",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 26.3 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "19.5 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1d280ea0f1bcc50b3239b894f9b8ddd2"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755177388001-3",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_III(4).jpg",
+        "nomeOriginal": "SA TOCA_DA_ESTRADA_DO_JAPECANGA_III(4).JPG",
+        "sitio": "Toca da Estrada da Japecanga III",
+        "co_iphan": "PI2203107BAST00006",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8704,
+          -8.9265
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "09:29:28",
+        "legenda": "Registro Antropomórfico e Geométrico do sítio Toca da Estrada da Japecanga III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Geométrico"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "10:16",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 28.6 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico e Geométrico do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "11.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b00f3742cbca8f49fc1bd645a467dc1e"
+      }
+    ]
   }
 }
