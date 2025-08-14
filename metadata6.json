@@ -14974,5 +14974,173 @@
         "hashArquivo": "13b409c45456248c87adc632d277d50a"
       }
     ]
+  },
+  "toca da estrada da japecanga v": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755199273527-0",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_V(1).jpg",
+        "nomeOriginal": "SA_TOCA_DA_ESTRADA_DA_JAPECANGA_V(1).JPG",
+        "sitio": "Toca da Estrada da Japecanga V",
+        "co_iphan": "PI2203107BAST00001",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8845,
+          -8.909
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "11:02:23",
+        "legenda": "Registro Geométrico do sitio Toca da Estrada da Japecanga V",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "16:21",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 45.2 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e5d640a9ffec79a3d983fb705b1916c7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755199468828-1",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_V(2).jpg",
+        "nomeOriginal": "SA_TOCA_DA_ESTRADA_DA_JAPECANGA_V(2).JPG",
+        "sitio": "Toca da Estrada da Japecanga V",
+        "co_iphan": "PI2203107BAST00001",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8845,
+          -8.909
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "11:02:49",
+        "legenda": "Registro Geométrico do sítio Toca da Estrada da Japecanga V",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "16:24",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 51.4 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2ff9b517eb56481b96a789e6a3fb726d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755199645548-2",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_V(3).jpg",
+        "nomeOriginal": "SA_TOCA_DA_ESTRADA_DA_JAPECANGA_V(3).JPG",
+        "sitio": "Toca da Estrada da Japecanga V",
+        "co_iphan": "PI2203107BAST00001",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8845,
+          -8.909
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "11:03:08",
+        "legenda": "Registro Geométrico do sítio Toca da Estrada da Japecanga V",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "16:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 38.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "23edd477b5c1addea78277cd474a1b37"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755199936742-3",
+        "nomeArquivo": "SA_Toca_da_Estrada_da_Japecanga_V(4).jpg",
+        "nomeOriginal": "SA_TOCA_DA_ESTRADA_DA_JAPECANGA_V(4).JPG",
+        "sitio": "Toca da Estrada da Japecanga V",
+        "co_iphan": "PI2203107BAST00001",
+        "municipio": "Cristino Castro",
+        "coordinates": [
+          -43.8845,
+          -8.909
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-21",
+        "horario": "11:02:13",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca da Estrada da Japecanga V",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-14",
+        "horaInsercao": "16:32",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 71.6 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0a7fd9b96b63bcff3161dbf2906b83ac"
+      }
+    ]
   }
 }
