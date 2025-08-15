@@ -15513,6 +15513,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "40c079f3e0c6eb7910784edffcc741e4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755275482077-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_I(7).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_I_2013 (8).JPG",
+        "sitio": "Toca da Extrema I",
+        "co_iphan": "PI2201988BAST00018",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.728,
+          -8.6097
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "13:45:05",
+        "legenda": "Registro de Placa de Direcionamento do sítio Toca da Extrema I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-15",
+        "horaInsercao": "13:31",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 10788.9 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de Direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "25 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "464267cb06d0b513e2a0303b67c54b00"
       }
     ]
   }
