@@ -15434,6 +15434,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "12ef273ec9c48f58cb12e69079eb45b7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755269175881-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_I(5).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_I_2013 (6).jpg",
+        "sitio": "Toca da Extrema I",
+        "co_iphan": "PI2201988BAST00018",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.728,
+          -8.6097
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-10",
+        "horario": "00:08:36",
+        "legenda": "registro Antropomórfico do sítio Toca da Extrema I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-15",
+        "horaInsercao": "11:46",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2340.7 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "9.9 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "56f56ef532b38dc3b9dae55a0b7fef8b"
       }
     ]
   }
