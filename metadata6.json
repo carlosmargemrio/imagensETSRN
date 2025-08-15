@@ -15631,6 +15631,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "4a3403fa4483e9758760c802f8b13707"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755278597821-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_I(10).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_I_2013 (11).JPG",
+        "sitio": "Toca da Extrema I",
+        "co_iphan": "PI2201988BAST00018",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.728,
+          -8.6097
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "13:48:26",
+        "legenda": "Registro antropomórfico do sítio Toca da Extrema I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-15",
+        "horaInsercao": "14:23",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 9520.9 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/6.3",
+          "distancia_focal": "49 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9736b8daf656f51e1b05edc50e932310"
       }
     ]
   }
