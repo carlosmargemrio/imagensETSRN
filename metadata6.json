@@ -16035,5 +16035,52 @@
         "hashArquivo": "255921d1ea55551285a2992fdef5c575"
       }
     ]
+  },
+  "toca da extrema ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1755606263564-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_II_ou_Toca_do_Gato(1).JPG",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "14:08:53",
+        "legenda": "Registro de Placa de Identificação do sítio Toca da Extrema II ou Toca do Gato",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão De Souza",
+        "dataInsercao": "2025-08-19",
+        "horaInsercao": "09:24",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 6414.8 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata registro De Placa de Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "149e011d655dd522c09ccd5a15894126"
+      }
+    ]
   }
 }
