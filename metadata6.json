@@ -16080,6 +16080,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "149e011d655dd522c09ccd5a15894126"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755606785525-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_II_ou_Toca_do_Gato(2).JPG",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "14:09:06",
+        "legenda": "Registro Zoomórficos de sítio Toca da Extrema II ou Toca do Gato",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-19",
+        "horaInsercao": "09:33",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 8526.3 KB, 6000×4000px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "33 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6fe92ce7a10639068a0b0cff6de81f50"
       }
     ]
   }
