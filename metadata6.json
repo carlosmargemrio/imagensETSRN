@@ -16442,6 +16442,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2588727c402c95d2ad919dede71acbd0"
+      },
+      {
+        "identificador": "ETSRN-PI22-1755696711089-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(11).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_II_ou_Toca_do_Gato(18).JPG",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "14:11:45",
+        "legenda": "Registro Antropomórfico e Zoomórfico do sítio Toca da Extrema II ou Toca do Gato",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfo",
+          "zoomorfo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-20",
+        "horaInsercao": "10:31",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10522.8 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico e Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0202b32254d1fcbe9ef1ef6628418e6b"
       }
     ]
   }
