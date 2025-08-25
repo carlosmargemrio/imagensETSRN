@@ -16041,7 +16041,8 @@
     "fundos": [
       "Fiscalização do Iphan",
       "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
-      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)."
     ],
     "imagens": [
       {
@@ -16805,6 +16806,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "56a4185a5f6a8f6307188e463053abaf"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756138510135-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(20).jpg",
+        "nomeOriginal": "SA_Toca_da_Extrema_II_ou_Toca_do_Gato(31).JPG",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-27",
+        "horario": "14:18:08",
+        "legenda": "Registro Antropomórfico, Fitomórfico e Zoomórfico do sítio Toca da Extrema II Toca do Gato",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomórfico",
+          "Zoomórfico"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-25",
+        "horaInsercao": "13:15",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11).",
+        "dimensaoSuporte": "image/jpeg, 10758.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico, Fitomórfico e Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 125,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "17791454721e58a0194c04e40c10262c"
       }
     ]
   }
