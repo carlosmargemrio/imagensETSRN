@@ -16043,7 +16043,8 @@
       "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
       "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
       "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11).",
-      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024"
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+      "Fiscalização do  Iphan"
     ],
     "imagens": [
       {
@@ -17293,6 +17294,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "9ea0118fedc7fd12c165b21321575e49"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756233291886-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(32).jpg",
+        "nomeOriginal": "SA_Toca_Extrema_II(!)  (16).jpg",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-10",
+        "horario": "00:10:06",
+        "legenda": "Registro de Placa de Direcionamento do sítio Toca da Extrema II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-26",
+        "horaInsercao": "15:34",
+        "fundoArquivistico": "Fiscalização do  Iphan",
+        "dimensaoSuporte": "image/jpeg, 2283.5 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de direcionamento e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "9.9 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1deff4b28e74926b4dfc9f007e3a1d8b"
       }
     ]
   }
