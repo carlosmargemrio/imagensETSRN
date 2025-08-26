@@ -17253,6 +17253,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "1e369996868172df5dfec9643402ae3c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756232759806-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(31).jpg",
+        "nomeOriginal": "SA_Toca_Extrema_II(!)  (15).jpg",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2019-08-25",
+        "horario": "09:28:38",
+        "legenda": "Registro de Vista geral e Vegetação do sítio Toca da Extrema II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-26",
+        "horaInsercao": "15:25",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 5347.8 KB, 4160×3120px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9ea0118fedc7fd12c165b21321575e49"
       }
     ]
   }
