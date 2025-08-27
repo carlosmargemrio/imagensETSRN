@@ -17494,6 +17494,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "8d5e40ac66a69edd97f2d0d9cc135c89"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756316827646-0",
+        "nomeArquivo": "SA_Toca_da_Extrema_II(37).jpg",
+        "nomeOriginal": "SA_Toca_Extrema_II(!)  (6).jpg",
+        "sitio": "Toca da Extrema II",
+        "co_iphan": "PI2201988BAST00007",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.7292,
+          -8.6104
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2019-08-25",
+        "horario": "09:22:08",
+        "legenda": "Registro Geométrico do sítio Toca da Extrema II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Verrmelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-27",
+        "horaInsercao": "14:47",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 3761.5 KB, 3120×4160px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "04aaa57a53b9506201c8f25408462105"
       }
     ]
   }
