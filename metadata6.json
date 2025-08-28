@@ -17577,5 +17577,52 @@
         "hashArquivo": "fdb3b64f6442a0f68c8ce20dd1fa366c"
       }
     ]
+  },
+  "faveira da bolota toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1756385573544-0",
+        "nomeArquivo": "SA_Faveira_da_Bolota_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Toca_da Faveira_da_Bolota (1).JPG",
+        "sitio": "Faveira da Bolota ( Toca da )",
+        "co_iphan": "PI2205532BAST00015",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.1064,
+          -8.8284
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "05:04:06",
+        "legenda": "Registro de Placa de sítio Arqueológico Toca da Faveira da Bolota",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-28",
+        "horaInsercao": "09:52",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 847.9 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de sítio Arqueológico do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.9",
+          "distancia_focal": "42.1 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "42aa8ccb1211f85490dbebfdbaf1db93"
+      }
+    ]
   }
 }
