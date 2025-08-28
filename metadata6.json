@@ -17790,6 +17790,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "79349e5a2025e48cdc8fa7c513e806c2"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756390630361-0",
+        "nomeArquivo": "SA_Gamela_Toca_da(4).jpg",
+        "nomeOriginal": "SA_TOCA_DA_GAMELA(5).jpg",
+        "sitio": "Gamela (Toca da)",
+        "co_iphan": "PI2201988BAST00119",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.726,
+          -8.6579
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-08",
+        "horario": "00:25:36",
+        "legenda": "Registro Geométrico do sítio Toca da Gamela",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-28",
+        "horaInsercao": "11:17",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2167.4 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do Sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "12.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5506bd7fa0cbfe42f21ab2cc41f6cc4c"
       }
     ]
   }
