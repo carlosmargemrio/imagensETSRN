@@ -17665,5 +17665,52 @@
         "hashArquivo": "74763b5847ef1255d6e8a565ff4c4b22"
       }
     ]
+  },
+  "gamela toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1756389525442-0",
+        "nomeArquivo": "SA_Gamela_Toca_da(1).jpg",
+        "nomeOriginal": "SA_TOCA_DA_GAMELA(1).jpg",
+        "sitio": "Gamela (Toca da)",
+        "co_iphan": "PI2201988BAST00119",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.726,
+          -8.6579
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-08",
+        "horario": "00:23:38",
+        "legenda": "Registro de Placa de Direcionamento do sítio Toca da Gamela",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-08-28",
+        "horaInsercao": "10:58",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2126.5 KB, 2592×1944px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de Direcionamento do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "8.4 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8f0cc094d9870ee83c687aeb133f437d"
+      }
+    ]
   }
 }
