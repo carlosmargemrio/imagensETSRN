@@ -18287,6 +18287,43 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "1a62dc3b86ba1a564e5fa085072d6fe0"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756820446214-0",
+        "nomeArquivo": "SA_Toca_da_Igrejinha_ou_do_Quincas(13).jpg",
+        "nomeOriginal": "SA_Toca_da_Igrejinha_ou_do_Quincas(7) (1).JPG",
+        "sitio": "Toca da Igrejinha ou do Quincas",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-28",
+        "horario": "09:13:49",
+        "legenda": "Registro de Instalação de cerca do sítio Toca da Igrejinha ou do Quincas",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vegetação",
+          "Verde"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-02",
+        "horaInsercao": "10:40",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 600.6 KB, 960×1280px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9509a7020ff1583aebce7d2dd54fff3b"
       }
     ]
   }
