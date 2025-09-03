@@ -18528,6 +18528,45 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "db1db0a9296381ba8772f4a49a8848a0"
+      },
+      {
+        "identificador": "ETSRN-PI22-1756908423471-0",
+        "nomeArquivo": "SA_Justa_Toca_da(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Justa(3).JPG",
+        "sitio": "Justa ( Toca da )",
+        "co_iphan": "PI2210607BAST00029",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7282,
+          -8.8859
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "14:52:05",
+        "legenda": "Registro de Placa, Vegetação e Acesso a Entrada do sítio  Toca da Justa",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa e Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-03",
+        "horaInsercao": "11:07",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 592.0 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa, Vegetação e Acesso a Entrada do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "875015ba4de46e63212bfe13a4af9d10"
       }
     ]
   }
