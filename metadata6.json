@@ -18610,5 +18610,49 @@
         "hashArquivo": "042765f20175c448aa97a44ace1a3e3f"
       }
     ]
+  },
+  "toca da lua": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do phan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1756923697777-0",
+        "nomeArquivo": "SA_Toca_da_Lua(1).jpg",
+        "nomeOriginal": "SA-Toca_da_Lua (13).jpg",
+        "sitio": "Toca da Lua",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2019-08-25",
+        "horario": "14:26:52",
+        "legenda": "Registro de Placa de identificação do sítio Toca da Lua",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-03",
+        "horaInsercao": "15:21",
+        "fundoArquivistico": "Fiscalização do phan",
+        "dimensaoSuporte": "image/jpeg, 4253.2 KB, 4160×3120px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "063574edfd33f96501f8e2bf964a5b87"
+      }
+    ]
   }
 }
