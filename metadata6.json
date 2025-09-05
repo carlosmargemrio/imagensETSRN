@@ -19502,6 +19502,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "d04202f5a976df956e833a2e82ee8c32"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757097906141-0",
+        "nomeArquivo": "SA_Mistura_Toca_da(22).jpg",
+        "nomeOriginal": "SA_Toca_Mistura(45).JPG",
+        "sitio": "Mistura ( Toca da )",
+        "co_iphan": "PI2205532BAST00016",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.1064,
+          -8.8274
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "04:58:41",
+        "legenda": "registro de Placa, Instalação de cerca  do sítio Toca da Mistura",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Placa",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-05",
+        "horaInsercao": "15:45",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1257.2 KB, 2304×3072px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de placa e instalação de cerca do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/3.2",
+          "distancia_focal": "10.6 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fe4e4af09562dd3443458ab5e3b94414"
       }
     ]
   }
