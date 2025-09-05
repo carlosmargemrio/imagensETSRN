@@ -19785,6 +19785,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "442754c2bfd6da1afbbe5789802763ab"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757100665994-0",
+        "nomeArquivo": "SA_Mistura_Toca_da(27).jpg",
+        "nomeOriginal": "SA_Toca_Mistura(42).JPG",
+        "sitio": "Mistura ( Toca da )",
+        "co_iphan": "PI2205532BAST00016",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.1064,
+          -8.8274
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-23",
+        "horario": "00:25:27",
+        "legenda": "Registro de Instalação de cerca e acesso a portão de entrada do sítio  Toca da Mistura",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-05",
+        "horaInsercao": "16:31",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1395.5 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca e acesso a portão de entrada do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "84392117964adaba70204c5b76ac4e61"
       }
     ]
   }
