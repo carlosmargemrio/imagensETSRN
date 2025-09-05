@@ -19020,6 +19020,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0123474f7ac0311b2c31cfeba9148733"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757092973660-0",
+        "nomeArquivo": "SA_Mistura_Toca_da(10).jpg",
+        "nomeOriginal": "SA_Toca_Mistura(18).JPG",
+        "sitio": "Mistura ( Toca da )",
+        "co_iphan": "PI2205532BAST00016",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.1064,
+          -8.8274
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-22",
+        "horario": "19:59:59",
+        "legenda": "Registro Antropomórfico e Geométrico do sítio Toca da Mistura",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Geométric"
+        ],
+        "inseridoPor": "Eliane  Aragão de Souza",
+        "dataInsercao": "2025-09-05",
+        "horaInsercao": "14:22",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1322.0 KB, 3072×2304px",
+        "historicoArquivistico": "Fiscalização do Ihpan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico e Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e75ffbc807fd68046b1cb0a4c978a838"
       }
     ]
   }
