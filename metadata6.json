@@ -20482,6 +20482,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "7f59353a31d2a3a30a7f291591155485"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757423321583-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_VII_Toca_da(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Lagoa_de_Cima VII (4).JPG",
+        "sitio": "Lagoa de Cima VII ( Toca da )",
+        "co_iphan": "PI2209559BAST00002",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.0433,
+          -9.0513
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-21",
+        "horario": "12:56:28",
+        "legenda": "Registro Geométrico do sítio  Toca da Lagoa de Cima VII",
+        "autoria": "iphan",
+        "direitosAutorais": "iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-09",
+        "horaInsercao": "10:08",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1420.7 KB, 2048×1536px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0a8f47cd3e9a8db2bed684c74bedb90e"
       }
     ]
   }
