@@ -20739,6 +20739,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "2c20a3621fdb1fc2b60faf4ec4f86511"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757426854831-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_VIII_Toca_da(5).jpg",
+        "nomeOriginal": "Toca da Lagoa de Cima VIII 02.JPG",
+        "sitio": "Lagoa de Cima VIII ( Toca da )",
+        "co_iphan": "PI2209559BAST00001",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.0464,
+          -9.0473
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-21",
+        "horario": "14:04:25",
+        "legenda": "Registro Zoomórfico do sítio Toca da Lagoa de Cima VIII",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfos",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-09",
+        "horaInsercao": "11:07",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1298.2 KB, 2048×1536px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície  rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.4",
+          "distancia_focal": "13.9 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "17838b5878f0c4b0170987198cd65880"
       }
     ]
   }
