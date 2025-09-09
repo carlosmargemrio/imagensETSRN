@@ -20273,6 +20273,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "80a6cadb8b2b0c86cc45a4875159d17e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757421520702-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_VI_Toca_da(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Lagoa de_Cima_VI  (4).JPG",
+        "sitio": "Lagoa de Cima VI ( Toca da )",
+        "co_iphan": "PI2209559BAST00003",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.0401,
+          -9.0552
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-21",
+        "horario": "11:55:51",
+        "legenda": "Registro Geométrico do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-09",
+        "horaInsercao": "09:38",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1445.2 KB, 1536×2048px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "12.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7d21b363f4c38c28babef7b4a0811413"
       }
     ]
   }
