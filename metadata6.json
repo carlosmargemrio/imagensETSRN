@@ -20147,5 +20147,53 @@
         "hashArquivo": "f4a8d1a712c721426a32d4eb3f932616"
       }
     ]
+  },
+  "lagoa de cima vi toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1757420115270-0",
+        "nomeArquivo": "SA_Lagoa_de_Cima_VI_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Lagoa de_Cima_VI 01 (1).JPG",
+        "sitio": "Lagoa de Cima VI ( Toca da )",
+        "co_iphan": "PI2209559BAST00003",
+        "municipio": "São Braz do Piauí",
+        "coordinates": [
+          -43.0401,
+          -9.0552
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-21",
+        "horario": "11:52:59",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio  Toca da Lagoa de Cima VI",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-09",
+        "horaInsercao": "09:15",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1385.3 KB, 1536×2048px",
+        "historicoArquivistico": "Produzido no Âmbito do Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral  Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "58fd03db26a7dbc4f1e7440cd70b8ff0"
+      }
+    ]
   }
 }
