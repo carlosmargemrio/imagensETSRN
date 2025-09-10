@@ -21228,6 +21228,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "4675474b6a8e9c89720c56de3f0df73c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757513875080-0",
+        "nomeArquivo": "SA_Pitombeira_III_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Toca _da_Pitombeira _III (5).JPG",
+        "sitio": "Pitombeira III (Toca da)",
+        "co_iphan": "PI2201988BAST00031",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -43.0149,
+          -8.6688
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-18",
+        "horario": "12:17:50",
+        "legenda": "Registro Antropomórfico do sítio Toca da Pitombeira III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "11:17",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1292.5 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "cb10f3a30f7320fcbfad31e8f8307250"
       }
     ]
   }
