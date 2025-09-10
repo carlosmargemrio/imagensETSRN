@@ -20989,5 +20989,198 @@
         "hashArquivo": "290a8591dd3850a4eeaf4ac9aa4d29d5"
       }
     ]
+  },
+  "toca da pitombeira ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1757510967917-0",
+        "nomeArquivo": "SA_Toca_da_Pitombeira_II(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Pitombeira_II(01).JPG",
+        "sitio": "Toca da Pitombeira II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-18",
+        "horario": "11:59:14",
+        "legenda": "Registro Geométrico do sítio Toca da Pitombeira II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "10:29",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1286.5 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fbcaac26232bda0c4581774b627a6d50"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757511163765-1",
+        "nomeArquivo": "SA_Toca_da_Pitombeira_II(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Pitombeira_II(2).JPG",
+        "sitio": "Toca da Pitombeira II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-18",
+        "horario": "09:16:12",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca da Pitombeira II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "10:32",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1338.0 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6c5b3e6f2389e87a545b719238128dac"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757511551864-2",
+        "nomeArquivo": "SA_Toca_da_Pitombeira_II(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Pitombeira_II(3).JPG",
+        "sitio": "Toca da Pitombeira II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-18",
+        "horario": "11:55:28",
+        "legenda": "Registro Geométrico do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "10:39",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1386.0 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1d0055edcdf68a1584f628d6b49689e0"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757511766354-3",
+        "nomeArquivo": "SA_Toca_da_Pitombeira_II(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Pitombeira_II(4).JPG",
+        "sitio": "Toca da Pitombeira II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-18",
+        "horario": "11:56:19",
+        "legenda": "Registro Geométrico do sítio Toca da Pitombeira II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "10:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1429.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "126e94715607c6b56c08de4ac5053dba"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757512007833-4",
+        "nomeArquivo": "SA_Toca_da_Pitombeira_II(5).jpg",
+        "nomeOriginal": "SA_Toca_da_Pitombeira_II(5).JPG",
+        "sitio": "Toca da Pitombeira II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-18",
+        "horario": "11:56:54",
+        "legenda": "Registro Geométrico do sítio  Toca da Pitombeira II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "10:46",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1425.7 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "12.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "22bff55d8717a4645733c118520e80c7"
+      }
+    ]
   }
 }
