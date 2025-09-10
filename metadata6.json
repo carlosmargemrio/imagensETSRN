@@ -20867,6 +20867,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "cf4d0860a1a2f5749c08e6037385ac52"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757509375897-0",
+        "nomeArquivo": "SA_Toca_da_Pedra_Caida_do_Saco(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Pedra Caída_do_Saco(3).JPG",
+        "sitio": "Toca da Pedra Caida do Saco",
+        "co_iphan": "PI2202851BAST00094",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3887,
+          -8.7406
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-04",
+        "horario": "16:16:18",
+        "legenda": "Registro Zoomórfico do sítio Toca da Pedra Caída do Saco",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "10:02",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1356.4 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7f86531e439caab1f4a99f3a1a0866d9"
       }
     ]
   }
