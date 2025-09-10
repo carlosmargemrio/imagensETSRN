@@ -21391,5 +21391,161 @@
         "hashArquivo": "92a7cbd041621bed5bb0230371668d51"
       }
     ]
+  },
+  "toca da serra bonita i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1757514992126-0",
+        "nomeArquivo": "SA_Toca_da_Serra_Bonita_I(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Serra_ Bonita_I(01).JPG",
+        "sitio": "Toca da Serra  Bonita I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-23",
+        "horario": "14:04:20",
+        "legenda": "Registro Zoomórfico do sítio Toca da Serra  Bonita I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "11:36",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 718.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d7d11e40eb29012b1da0786956ae2c19"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757515269540-1",
+        "nomeArquivo": "SA_Toca_da_Serra_Bonita_I(2).jpg",
+        "nomeOriginal": "SA_Toca_da_Serra_ Bonita_I(2).JPG",
+        "sitio": "Toca da Serra Bonita I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-23",
+        "horario": "14:04:51",
+        "legenda": "Registro Antropomórfico do sítio Toca da Serra Bonita I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane  Aragão de  Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "11:41",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1369.7 KB, 1536×2048px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "36f25bd7821e28891ca82d9be6fa50b8"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757515506145-2",
+        "nomeArquivo": "SA_Toca_da_Serra_Bonita_I(3).jpg",
+        "nomeOriginal": "SA_Toca_da_Serra_ Bonita_I(3).JPG",
+        "sitio": "Toca da Serra Bonita I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-23",
+        "horario": "14:03:57",
+        "legenda": "Registro Geométrico do sítio Toca da Serra Bonita I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "11:45",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1419.0 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2eed99d5506d1f4ed66574fedd589eb3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1757515721021-3",
+        "nomeArquivo": "SA_Toca_da_Serra_Bonita_I(4).jpg",
+        "nomeOriginal": "SA_Toca_da_Serra_ Bonita_I(4).JPG",
+        "sitio": "Toca da Serra  Bonita I",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2004-09-23",
+        "horario": "14:02:38",
+        "legenda": "Registro de Vista Geral e Vegetação do Sítio Toca da Serra  Bonita I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "11:48",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1544.3 KB, 1536×2048px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "03875a55b8c938123251dad5fe22b0b2"
+      }
+    ]
   }
 }
