@@ -21182,5 +21182,53 @@
         "hashArquivo": "22bff55d8717a4645733c118520e80c7"
       }
     ]
+  },
+  "pitombeira iii toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1757512991345-0",
+        "nomeArquivo": "SA_Pitombeira_III_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Toca _da_Pitombeira _III (3).JPG",
+        "sitio": "Pitombeira III (Toca da)",
+        "co_iphan": "PI2201988BAST00031",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -43.0149,
+          -8.6688
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-18",
+        "horario": "12:15:25",
+        "legenda": "Registro Geométrico do sítio Toca da Pitombeira III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométricos",
+          "Cinza"
+        ],
+        "inseridoPor": "Eliane  Aragão de Souza",
+        "dataInsercao": "2025-09-10",
+        "horaInsercao": "11:03",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1285.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4675474b6a8e9c89720c56de3f0df73c"
+      }
+    ]
   }
 }
