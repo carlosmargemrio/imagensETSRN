@@ -21835,5 +21835,53 @@
         "hashArquivo": "4ffdbc3bf60ed78cbc568513e54a7a14"
       }
     ]
+  },
+  "serra bonita iii toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1757595524866-0",
+        "nomeArquivo": "SA_Serra_Bonita_III_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Serra Bonita_III(14).JPG",
+        "sitio": "Serra Bonita III ( Toca da )",
+        "co_iphan": "PI2205532BAST00008",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.1438,
+          -8.8602
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-23",
+        "horario": "15:08:44",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca da Serra Bonita III",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-11",
+        "horaInsercao": "09:58",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1449.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "Imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5cf6d954f24a863c727a3d8d3ef2950d"
+      }
+    ]
   }
 }
