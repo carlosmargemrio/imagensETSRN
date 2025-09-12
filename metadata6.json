@@ -22172,5 +22172,53 @@
         "hashArquivo": "0f9d5733d5384193dd4e6ce29cb7c1d5"
       }
     ]
+  },
+  "serra bonita v toca da": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1757678245795-0",
+        "nomeArquivo": "SA_Serra_Bonita_V_Toca_da(1).jpg",
+        "nomeOriginal": "SA_Toca_da_Serra_ Bonita_ V(01).JPG",
+        "sitio": "Serra Bonita V ( Toca da )",
+        "co_iphan": "PI2205532BAST00006",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.1442,
+          -8.8605
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-23",
+        "horario": "15:24:17",
+        "legenda": "registro Geométrico do sítio Toca da Serra Bonita V",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "eliane Aragão de Souza",
+        "dataInsercao": "2025-09-12",
+        "horaInsercao": "08:57",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 2120.8 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "13.9 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "326dcbd66559f287de8182ed0ea77715"
+      }
+    ]
   }
 }
