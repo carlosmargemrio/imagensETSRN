@@ -23692,7 +23692,8 @@
     "nivelDescricao": "Série",
     "fundos": [
       "fiscalização do Iphan",
-      "Fiscalização de Iphan"
+      "Fiscalização de Iphan",
+      "Fiscalização do Iphan"
     ],
     "imagens": [
       {
@@ -23774,6 +23775,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "248218b030ea2dba107bcd7c3ce7c2a4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758110414367-0",
+        "nomeArquivo": "SA_Cangula_Toca_do(3).jpg",
+        "nomeOriginal": "SA_Toca_do_ Cangula(3).JPG",
+        "sitio": "Cangula (Toca do)",
+        "co_iphan": "PI2205532BAST00039",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.086,
+          -8.8169
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-16",
+        "horario": "14:12:50",
+        "legenda": "Registro Zoomórfico do sítio Toca do Cangula",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "09:00",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1204.9 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "79b3ef0aa2125f2382eab31e68f67ad8"
       }
     ]
   }
