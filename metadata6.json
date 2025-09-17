@@ -24344,6 +24344,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "506cfc4eb3242ecc374a992485921f9a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758118941675-0",
+        "nomeArquivo": "SA_Toca_do_Cupinzinho(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Cupinzinho(01).JPG",
+        "sitio": "Toca do Cupinzinho",
+        "co_iphan": "PI2202851BAST00098",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3774,
+          -8.7375
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-05",
+        "horario": "09:33:43",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Cupinzinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "11:22",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1410.0 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.8",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e379711c22c51c433e4f8745f3786355"
       }
     ]
   }
