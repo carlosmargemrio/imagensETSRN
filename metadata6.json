@@ -24298,5 +24298,53 @@
         "hashArquivo": "3286a54d6d2ee673c0d3a71a82dab682"
       }
     ]
+  },
+  "toca do cupinzinho": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758118642724-0",
+        "nomeArquivo": "SA_Toca_do_Cupinzinho(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Cupinzinho(5).JPG",
+        "sitio": "Toca do Cupinzinho",
+        "co_iphan": "PI2202851BAST00098",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3774,
+          -8.7375
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-05",
+        "horario": "09:34:44",
+        "legenda": "Registro Geométrico do sítio Toca do Cupinzinho",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "11:17",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1321.9 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "15.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "506cfc4eb3242ecc374a992485921f9a"
+      }
+    ]
   }
 }
