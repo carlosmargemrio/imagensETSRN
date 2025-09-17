@@ -24472,6 +24472,47 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0ca46375a563d25feec57fe085f65b28"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758120521224-0",
+        "nomeArquivo": "SA_Toca_do_Labirinto(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Labirinto(12).JPG",
+        "sitio": "Toca do Labirinto",
+        "co_iphan": "PI2202851BAST00097",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3784,
+          -8.7377
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-05",
+        "horario": "09:07:27",
+        "legenda": "Registro  Geométrico e Zoomórfico do sítio Toca do Labirinto",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "11:48",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1429.4 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico e Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "13.9 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "58a19e1c4b85b0b268bcde849ba38b6b"
       }
     ]
   }
