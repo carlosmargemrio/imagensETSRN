@@ -24884,5 +24884,333 @@
         "hashArquivo": "aef501b577300cc88186838541abbbbb"
       }
     ]
+  },
+  "toca dos seixos i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758134197466-0",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(1).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:26:36",
+        "legenda": "Registro do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:36",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1443.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "9.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9e590132ae116e5f0438653b4fd0c594"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758134949967-1",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(2).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:26:51",
+        "legenda": "registro Geométrico do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:49",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1257.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "711be8b142cee5338c56452c2cbde221"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758135101112-2",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(3).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:27:05",
+        "legenda": "Registro Geométrico do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:51",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1226.1 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "7b3474586ccd79b28b24c83c3a9ab7e0"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758135271190-3",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(4).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:27:22",
+        "legenda": "Registro Geométrico do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:54",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1129.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "edec482fa59cfc4b151ec01328314263"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758135460003-4",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(5).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(5).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:27:31",
+        "legenda": "Registro Geométrico do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:57",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1106.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "fc3854406a185b029f5e95760b7f8ce7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758135729207-5",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(6).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(6).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:27:41",
+        "legenda": "Registro Geométrico do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "16:02",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1320.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.4",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "adb30b093d7269823fde283f7c5a5d75"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758135922299-6",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(7).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(7).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:28:05",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "16:05",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1392.7 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.4",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "c8ecd3eb07b087a832ebb3bef0f6efc6"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758136092852-7",
+        "nomeArquivo": "SA_Toca_dos_Seixos_I(8).jpg",
+        "nomeOriginal": "SA_Toca_do_Seixos_I(8).JPG",
+        "sitio": "Toca dos Seixos I",
+        "co_iphan": "PI2202851BAST00091",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3964,
+          -8.744
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-06-30",
+        "horario": "14:28:14",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca dos Seixos I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "16:08",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1426.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/3.4",
+          "distancia_focal": "7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "290045fd817b771143793379589925b1"
+      }
+    ]
   }
 }
