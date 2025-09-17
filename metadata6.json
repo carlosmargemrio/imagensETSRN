@@ -24756,5 +24756,133 @@
         "hashArquivo": "1d9d82cd9303775e21378f091b53e0f2"
       }
     ]
+  },
+  "toca do pau seco": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758132669870-0",
+        "nomeArquivo": "SA_Toca_do_Pau_Seco(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Pau_Seco(01).JPG",
+        "sitio": "Toca do Pau Seco",
+        "co_iphan": "PI2202851BAST00107",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3735,
+          -8.7346
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-05",
+        "horario": "10:12:33",
+        "legenda": "Registro Antropomórfico do sítio Toca do Pau Seco",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:11",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1469.3 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico  em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "9.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "55f938bb94391109d1cf65222805bce0"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758132844917-1",
+        "nomeArquivo": "SA_Toca_do_Pau_Seco(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Pau_Seco(4).JPG",
+        "sitio": "Toca do Pau Seco",
+        "co_iphan": "PI2202851BAST00107",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3735,
+          -8.7346
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-05",
+        "horario": "10:12:43",
+        "legenda": "Registro Antropomórfico do sítio Toca do Pau Seco",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:14",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1388.2 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.4",
+          "distancia_focal": "21 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "19583d0f33f7154241818ad450bd02a4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758133045583-2",
+        "nomeArquivo": "SA_Toca_do_Pau_Seco(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Pau_Seco(5).JPG",
+        "sitio": "Toca do Pau Seco",
+        "co_iphan": "PI2202851BAST00107",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.3735,
+          -8.7346
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-07-05",
+        "horario": "10:13:08",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Pau Seco",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "15:17",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1396.7 KB, 1536×2048px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.0",
+          "distancia_focal": "10.6 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "aef501b577300cc88186838541abbbbb"
+      }
+    ]
   }
 }
