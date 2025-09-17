@@ -23687,5 +23687,53 @@
         "hashArquivo": "63e09a1e112faebd2bece7253e00ac84"
       }
     ]
+  },
+  "cangula toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758109441289-0",
+        "nomeArquivo": "SA_Cangula_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_ Cangula(01).JPG",
+        "sitio": "Cangula (Toca do)",
+        "co_iphan": "PI2205532BAST00039",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.086,
+          -8.8169
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-16",
+        "horario": "14:22:26",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Cangula",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "08:44",
+        "fundoArquivistico": "fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1267.6 KB, 1536×2048px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "9.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "bb6b8923136cd215f3224b0247b8589a"
+      }
+    ]
   }
 }
