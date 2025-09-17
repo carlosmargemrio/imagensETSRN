@@ -24136,6 +24136,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "6adc192957f65580e0ba946c8327477f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758116521784-0",
+        "nomeArquivo": "SA_Cangula_Toca_do(12).jpg",
+        "nomeOriginal": "SA_Toca_do_ Cangula(12).JPG",
+        "sitio": "Cangula (Toca do)",
+        "co_iphan": "PI2205532BAST00039",
+        "municipio": "Jurema",
+        "coordinates": [
+          -43.086,
+          -8.8169
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2004-09-16",
+        "horario": "14:14:54",
+        "legenda": "Registro Geométrico do sitio Toca do Cangula",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-17",
+        "horaInsercao": "10:42",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 1403.8 KB, 2048×1536px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "9.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "107a706f7605f35e88e6b49d72cf067f"
       }
     ]
   }
