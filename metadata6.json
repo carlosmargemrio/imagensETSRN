@@ -25744,5 +25744,52 @@
         "hashArquivo": "866888eecefd9ad89214abe0621d89b5"
       }
     ]
+  },
+  "toca do visgueiro do bomssucesso": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758207095027-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_do_Bomssucesso(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_do_Bom_Sucesso (1).JPG",
+        "sitio": "Toca do Visgueiro do Bomssucesso",
+        "co_iphan": "PI2204550BAST00052",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6375,
+          -9.1327
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-12",
+        "horario": "13:28:48",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro do Bomsucesso",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-18",
+        "horaInsercao": "11:51",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 33.8 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "93901c31d945285a8c915e8134f4448e"
+      }
+    ]
   }
 }
