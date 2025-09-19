@@ -25951,5 +25951,173 @@
         "hashArquivo": "d226ace80ca37a9dfdfa5df23766edf3"
       }
     ]
+  },
+  "toca do visgueiro do muquem": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan",
+      "Fiscalzação do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758286088419-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_do_Muquem(1).jpg",
+        "nomeOriginal": "S966foto (3).JPG",
+        "sitio": "Toca do Visgueiro do Muquem",
+        "co_iphan": "PI2204550BAST00057",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6181,
+          -9.143
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-08",
+        "horario": "13:40:17",
+        "legenda": "Registro de Vista Geral do sítio Toca do Visgueiro do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-19",
+        "horaInsercao": "09:48",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 58.2 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b8203250fca108c9b47ceee0140d150a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758286262277-1",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_do_Muquem(2).jpg",
+        "nomeOriginal": "S966foto (5).JPG",
+        "sitio": "Toca do Visgueiro do Muquem",
+        "co_iphan": "PI2204550BAST00057",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6181,
+          -9.143
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-08",
+        "horario": "13:40:30",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-19",
+        "horaInsercao": "09:51",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 68.3 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b1ce704bfb4988511ce6e2eb9826fc77"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758288981566-2",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_do_Muquem(3).jpg",
+        "nomeOriginal": "S966foto (7).JPG",
+        "sitio": "Toca do Visgueiro do Muquem",
+        "co_iphan": "PI2204550BAST00057",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6181,
+          -9.143
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-08",
+        "horario": "13:40:49",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Amarelo"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-19",
+        "horaInsercao": "10:36",
+        "fundoArquivistico": "Fiscalzação do Iphan",
+        "dimensaoSuporte": "image/jpeg, 80.9 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em Superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "791798e9ba84ead73198584f457e69cd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758289203343-3",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_do_Muquem(4).jpg",
+        "nomeOriginal": "S966foto (11)abrigo.JPG",
+        "sitio": "Toca do Visgueiro do Muquem",
+        "co_iphan": "PI2204550BAST00057",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6181,
+          -9.143
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-08",
+        "horario": "13:39:57",
+        "legenda": "Registro Vista Geral e Vegetação do sítio Toca do Visgueiro do Muquem",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-19",
+        "horaInsercao": "10:40",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 68.8 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "dbbc4a1ba2b3d2440e100656882e4e0d"
+      }
+    ]
   }
 }
