@@ -4750,6 +4750,46 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "cfd149a40445f9495e6eff75bacbb84e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758293971558-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(8).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:12:35",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-19",
+        "horaInsercao": "11:59",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 12986.6 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 160,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "29 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "3048119fd1761262700dd7c7173ad895"
       }
     ]
   },
