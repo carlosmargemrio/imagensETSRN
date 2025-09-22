@@ -3,7 +3,8 @@
     "nivelDescricao": "Série",
     "fundos": [
       "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
-      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+      "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024"
     ],
     "imagens": [
       {
@@ -165,6 +166,961 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "06adc1e5eb49c0428f7b3d87dc978cc3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758546654099-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(1).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:09:49",
+        "legenda": "Registro de placa de Identificação do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Palca"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:10",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9246.2 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Placa de Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "39 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "97ffab787267f92a25a645a6b1297585"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758547034101-1",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(5).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(2).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:35:19",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Elaine Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:17",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11430.2 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "82f56ec72810225191ebfdabc6ac1b02"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758547515095-2",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(6).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(3).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:35:19",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:25",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10125.4 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "16f1a826e71aad150932f0b0194b5b37"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758548119180-3",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(7).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(4).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:11:28",
+        "legenda": "Registro Geométrico do Sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:35",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11666.2 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem Retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e25687cb82931f0fd3e5e9a39911f5ac"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758548278980-4",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(8).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(5).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:27",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:37",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 15366.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2543b0a50bb44b9012650c1f7bf0aa25"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758548472580-5",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(9).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(6).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:27",
+        "legenda": "Registro Antropomórfico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:41",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11912.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d891e91d81011b7232f5bfcd55b4a796"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758548634654-6",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(10).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(7).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:13:58",
+        "legenda": "Registo Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:43",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 12551.2 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "cfd149a40445f9495e6eff75bacbb84e"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758548810062-7",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(11).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(8).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:09:49",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:46",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 12986.6 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "39 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "3048119fd1761262700dd7c7173ad895"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758548984807-8",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(12).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(9).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:17",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:49",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11115.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ff641c8ab4dd66c288131bfd49793bb9"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758549134994-9",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(13).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(10).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:11:43",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:52",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11754.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "28 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "37d16d7b690e5ecb15923a92128a12ea"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758549282506-10",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(14).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(11).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:59",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:54",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11633.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "26cc709f7eb4d92a65a735a359f4a597"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758549562423-11",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(15).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(12).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:59",
+        "legenda": "Registro Antropomórfico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "10:59",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 14278.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e2772b8eb6c18505712890be150bda01"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758549725431-12",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(16).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(13).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:27",
+        "legenda": "Registro Antropomórfico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:02",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 12783.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "dbced0df1255206ab1191dac4e09a707"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758549867510-13",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(17).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(14).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:17",
+        "legenda": "Registro Geométrico do sítio",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:04",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11036.0 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "34 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "364d0fb0b59b32de510f4006b8bdf38d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758550170781-14",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(18).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(19).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:14:16",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:09",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11738.3 KB, 4000×6000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a50f0446348314761c88f37eb6d1b3d1"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758550338410-15",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(19).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(20).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:12:14",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:12",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10357.3 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4114986b317652f305bf99c73529417d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758550496521-16",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(20).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(21).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:27",
+        "legenda": "Registro geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:14",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9639.9 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 250,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d37744ecf4a46fa848e930381532ea85"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758550695258-17",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(21).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(22).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:11:28",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:18",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11467.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8d784d302b016e28b82c3de609e70149"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758550852216-18",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(22).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(23).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:59",
+        "legenda": "Registro Antropomórfico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:20",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11528.1 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "212b26730f04a59a524bb264f0b6651a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758551028408-19",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(23).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(24).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:11:28",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:23",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 10388.0 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "18 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "eb3becb89e459e030965de298f05bdd9"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758551193779-20",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(24).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(25).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:14:22",
+        "legenda": "Registro Geométrico do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "11:26",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11128.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "55 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1849dfbb26cc7aa99a4069bb3b4ed6f6"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758561385251-21",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(25).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(26).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:10:59",
+        "legenda": "Registro de Placa de Identificação do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "14:16",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 11543.0 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Placa de Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 200,
+          "abertura": "f/f/5.0",
+          "distancia_focal": "40 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "80940ae7595e2f39e6e5af8d5d5d4535"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758561880623-22",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(26).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(27).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:12:35",
+        "legenda": "Registro de Placa de Identificação do sítio",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "14:24",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 9857.7 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Placa de  Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 160,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "29 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a899e08846894dd411c809c5fa0c27c7"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758562085966-23",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_I(27).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_I(28).JPG",
+        "sitio": "Toca do Visgueiro I",
+        "co_iphan": "PI2201988BAST00017",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.6967,
+          -8.5753
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2024-06-28",
+        "horario": "12:11:43",
+        "legenda": "Registro de Placa de Identificação do sítio Toca do Visgueiro I",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-22",
+        "horaInsercao": "14:28",
+        "fundoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "dimensaoSuporte": "image/jpeg, 12336.5 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Placa de Identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/4.5",
+          "distancia_focal": "28 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "93ca3da8a6b155e970f029e08e7f96d1"
       }
     ]
   }
