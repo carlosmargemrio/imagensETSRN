@@ -47,5 +47,49 @@
         "hashArquivo": "6238bca9640f4465ae86d5553de8682a"
       }
     ]
+  },
+  "juazeiro bahia": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Teste"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758643969025-0",
+        "nomeArquivo": "SA_Juazeiro_Bahia(1).jpg",
+        "nomeOriginal": "Captura de tela 2025-09-07 155331.jpg",
+        "sitio": "Juazeiro Bahia",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2021-03-12",
+        "horario": "12:02",
+        "legenda": "asdasd",
+        "autoria": "asdasd",
+        "direitosAutorais": "asdasd",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-09-23",
+        "horaInsercao": "13:12",
+        "fundoArquivistico": "Teste",
+        "dimensaoSuporte": "image/jpeg, 70.5 KB, 519×458px",
+        "historicoArquivistico": "asdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b7f16150b4ebbb83a3f8da1ba403f18a"
+      }
+    ]
   }
 }
