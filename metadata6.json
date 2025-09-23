@@ -26091,9 +26091,9 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f477815a9bd706a59ba5950d0fd72ab2"
-      }, 
+      },
       {
-    "identificador": "ETSRN-PI22-1758199414365-1",
+        "identificador": "ETSRN-PI22-1758199414365-1",
         "nomeArquivo": "SA_Toca_do_Sete_Feixe(7).jpg",
         "nomeOriginal": "SA_Toca_do_Sete_Feixe(2).JPG",
         "sitio": "Toca do Sete Feixe",
@@ -26131,7 +26131,6 @@
       }
     ]
   },
-  
   "toca do ze pereira": {
     "nivelDescricao": "Série",
     "fundos": [
@@ -26552,6 +26551,50 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "dbbc4a1ba2b3d2440e100656882e4e0d"
+      }
+    ]
+  },
+  "toca do visgueiro ii": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758635567192-0",
+        "nomeArquivo": "SA_Toca_do_Visgueiro_II(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Visgueiro_II(1).JPG",
+        "sitio": "Toca do Visgueiro II",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-06-28",
+        "horario": "12:19:41",
+        "legenda": "Registro de Placa de Identificação do sítio",
+        "autoria": "UNIVASF",
+        "direitosAutorais": "UNIVASF",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-09-23",
+        "horaInsercao": "10:52",
+        "fundoArquivistico": "Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11)",
+        "dimensaoSuporte": "image/jpeg, 8494.4 KB, 6000×4000px",
+        "historicoArquivistico": "Produzido no Âmbito do Projeto para realização de Cadastro/Atualização de Dados de Sítios Arqueológicos junto à Plataforma SICG/IPHAN (processo SEI nº. 01402.000197/2023-11). Financiado pelo Iphan e desenvolvido pela UNIVASF em 2024",
+        "ambitoConteudo": "A imagem retrata registro de Placa de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "Canon EOS Rebel T7",
+          "iso": 100,
+          "abertura": "f/f/7.1",
+          "distancia_focal": "43 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "6c9bc642dcfd90b7c380516ac064f49e"
       }
     ]
   }
