@@ -40,6 +40,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "dc20e8b988b91939c53ac3be9061abab"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758670739866-0",
+        "nomeArquivo": "SA_teste1000(2).jpg",
+        "nomeOriginal": "123.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2013-10-19",
+        "horario": "00:52:48",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-09-23",
+        "horaInsercao": "20:38",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2091.2 KB, 2592×1944px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "be41ff7d0b04d33589b59f93ac7b467e"
       }
     ]
   }
