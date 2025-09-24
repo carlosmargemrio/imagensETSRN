@@ -26083,9 +26083,9 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "f477815a9bd706a59ba5950d0fd72ab2"
-      }, 
+      },
       {
-    "identificador": "ETSRN-PI22-1758199414365-1",
+        "identificador": "ETSRN-PI22-1758199414365-1",
         "nomeArquivo": "SA_Toca_do_Sete_Feixe(7).jpg",
         "nomeOriginal": "SA_Toca_do_Sete_Feixe(2).JPG",
         "sitio": "Toca do Sete Feixe",
@@ -26123,7 +26123,6 @@
       }
     ]
   },
-  
   "toca do ze pereira": {
     "nivelDescricao": "Série",
     "fundos": [
@@ -26593,6 +26592,50 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "dbbc4a1ba2b3d2440e100656882e4e0d"
+      }
+    ]
+  },
+  "teste1000": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758672889352-0",
+        "nomeArquivo": "SA_teste1000(3).png",
+        "nomeOriginal": "rupestre.png",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-09-23",
+        "horario": "21:14",
+        "legenda": "asdasd",
+        "autoria": "asdasd",
+        "direitosAutorais": "asdasd",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-09-24",
+        "horaInsercao": "21:14",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/png, 12.7 KB, 227×162px",
+        "historicoArquivistico": "asdasdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "353866ecbcea9dadcd65c0743460bf08"
       }
     ]
   }
