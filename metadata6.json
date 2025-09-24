@@ -26746,5 +26746,49 @@
         "hashArquivo": "418988da5070e3c623c6984ad022c76b2c867001f6f554b5a499c31aa02bb332"
       }
     ]
+  },
+  "teste1001": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1758677066209-0",
+        "nomeArquivo": "SA_teste1001(1).jpg",
+        "nomeOriginal": "Captura de tela 2025-09-01 005517.jpg",
+        "sitio": "teste1001",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-09-23",
+        "horario": "22:24",
+        "legenda": "qweqwe",
+        "autoria": "qweqwe",
+        "direitosAutorais": "qweqwe",
+        "tags": [
+          "qweqwe"
+        ],
+        "inseridoPor": "qweqwe",
+        "dataInsercao": "2025-09-24",
+        "horaInsercao": "22:24",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 426.1 KB, 1293×1003px",
+        "historicoArquivistico": "qweqweqwe",
+        "ambitoConteudo": "qweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "418988da5070e3c623c6984ad022c76b2c867001f6f554b5a499c31aa02bb332"
+      }
+    ]
   }
 }
