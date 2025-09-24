@@ -26780,6 +26780,44 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "0e0edf124850b615600803ca58081a33bc4346a313cae05bccbaccb35fe420f4"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758679812809-0",
+        "nomeArquivo": "SA_teste1000(10).jpg",
+        "nomeOriginal": "seminário_interno.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-09-23",
+        "horario": "23:09",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-09-24",
+        "horaInsercao": "23:10",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1005.0 KB, 2362×3543px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e9fccf63ec03ece89f27a7a2e058c1c01bbd4b389ee6f082ddf94c85a26782de",
+        "hashArquivo_md5": "99c8430ffd5e5af8e27ba90004c89269",
+        "hashArquivo_sha256": "e9fccf63ec03ece89f27a7a2e058c1c01bbd4b389ee6f082ddf94c85a26782de"
       }
     ]
   }
