@@ -26636,6 +26636,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "353866ecbcea9dadcd65c0743460bf08"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758673036038-0",
+        "nomeArquivo": "SA_teste1000(4).jpg",
+        "nomeOriginal": "Ponta de projétil em quartzo hialino_Acervo_FUMDHAM.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-09-23",
+        "horario": "21:16",
+        "legenda": "asdasda",
+        "autoria": "asdasdasd",
+        "direitosAutorais": "asdasdasd",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasdas",
+        "dataInsercao": "2025-09-24",
+        "horaInsercao": "21:17",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 91.2 KB, 1299×891px",
+        "historicoArquivistico": "asdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "asdasd",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9b0d3b69d113629be08c37b4ddd375ea"
       }
     ]
   }
