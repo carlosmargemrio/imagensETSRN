@@ -26708,6 +26708,42 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "b7f16150b4ebbb83a3f8da1ba403f18a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758676678087-0",
+        "nomeArquivo": "SA_teste1000(6).jpg",
+        "nomeOriginal": "Captura de tela 2025-09-01 005517.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-09-23",
+        "horario": "22:17",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-09-24",
+        "horaInsercao": "22:17",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 426.1 KB, 1293×1003px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "129f4ea4d20bb8ca24fb0262c2939791"
       }
     ]
   }
