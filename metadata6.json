@@ -26818,6 +26818,44 @@
         "hashArquivo": "e9fccf63ec03ece89f27a7a2e058c1c01bbd4b389ee6f082ddf94c85a26782de",
         "hashArquivo_md5": "99c8430ffd5e5af8e27ba90004c89269",
         "hashArquivo_sha256": "e9fccf63ec03ece89f27a7a2e058c1c01bbd4b389ee6f082ddf94c85a26782de"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758680025266-0",
+        "nomeArquivo": "SA_teste1000(11).jpg",
+        "nomeOriginal": "Captura de tela 2025-09-01 011243.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-09-23",
+        "horario": "23:13",
+        "legenda": "qweqwe",
+        "autoria": "qweqwe",
+        "direitosAutorais": "qweqwe",
+        "tags": [
+          "qweqwe"
+        ],
+        "inseridoPor": "qweqwe",
+        "dataInsercao": "2025-09-24",
+        "horaInsercao": "23:13",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 32.9 KB, 309×240px",
+        "historicoArquivistico": "qweqwe",
+        "ambitoConteudo": "qweqweqwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8534e10482db9de82d5ee558f18e4d1ac4724b6d7ccb9e5ba97c2327085e0f92",
+        "hashArquivo_md5": "704dc2474a7dd4a455ad656538bf8e13",
+        "hashArquivo_sha256": "8534e10482db9de82d5ee558f18e4d1ac4724b6d7ccb9e5ba97c2327085e0f92"
       }
     ]
   }
