@@ -26856,6 +26856,44 @@
         "hashArquivo": "8534e10482db9de82d5ee558f18e4d1ac4724b6d7ccb9e5ba97c2327085e0f92",
         "hashArquivo_md5": "704dc2474a7dd4a455ad656538bf8e13",
         "hashArquivo_sha256": "8534e10482db9de82d5ee558f18e4d1ac4724b6d7ccb9e5ba97c2327085e0f92"
+      },
+      {
+        "identificador": "ETSRN-PI22-1758930066328-0",
+        "nomeArquivo": "SA_teste1000(12).jpg",
+        "nomeOriginal": "IMG_5470.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-10-09",
+        "horario": "08:32:22",
+        "legenda": "asdasdasd",
+        "autoria": "asdasd",
+        "direitosAutorais": "asdasd",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-09-26",
+        "horaInsercao": "20:41",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 3359.1 KB, 6000×4000px",
+        "historicoArquivistico": "asdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "422dc33fc0771699694a54c0e72ed9fc65ac1ba0724fafd444be76dce9302688",
+        "hashArquivo_md5": "83ad5c119e308586f0723507d15d80ee",
+        "hashArquivo_sha256": "422dc33fc0771699694a54c0e72ed9fc65ac1ba0724fafd444be76dce9302688"
       }
     ]
   }
