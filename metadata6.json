@@ -27012,6 +27012,82 @@
         "hashArquivo": "a51778159759d460f04a88599596308bc869bb305a63d72ce43fdec7075ba3c6",
         "hashArquivo_md5": "f28e0b857596666afcda020b40d34b3d",
         "hashArquivo_sha256": "a51778159759d460f04a88599596308bc869bb305a63d72ce43fdec7075ba3c6"
+      },
+      {
+        "identificador": "ETSRN-PI22-1759841911611-0",
+        "nomeArquivo": "SA_teste1000(14).jpg",
+        "nomeOriginal": "Imagem do WhatsApp de 2025-08-22 à(s) 13.45.38_d8c81db2.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-10-07",
+        "horario": "09:59",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-10-07",
+        "horaInsercao": "09:58",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 198.5 KB, 1156×868px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ec5760c359b80cc763065533e6b4b18c79d09a3602e9dfb5e1cef73ea109aa5c",
+        "hashArquivo_md5": "caa6dbcd71aef72a2c3a19624a3dfd6b",
+        "hashArquivo_sha256": "ec5760c359b80cc763065533e6b4b18c79d09a3602e9dfb5e1cef73ea109aa5c"
+      },
+      {
+        "identificador": "ETSRN-PI22-1759841948282-1",
+        "nomeArquivo": "SA_teste1000(15).jpg",
+        "nomeOriginal": "IMG_5481.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2024-10-09",
+        "horario": "08:49:01",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-10-07",
+        "horaInsercao": "09:59",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2379.8 KB, 6000×4000px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "32bfaa20dee711bc3a5cdaa7438e2fce300271db71334141a635e8d17d22fd25",
+        "hashArquivo_md5": "b7720fe30163ec49c0437cf7d0c384ee",
+        "hashArquivo_sha256": "32bfaa20dee711bc3a5cdaa7438e2fce300271db71334141a635e8d17d22fd25"
       }
     ]
   }
