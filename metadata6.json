@@ -26974,6 +26974,44 @@
         "hashArquivo": "422dc33fc0771699694a54c0e72ed9fc65ac1ba0724fafd444be76dce9302688",
         "hashArquivo_md5": "83ad5c119e308586f0723507d15d80ee",
         "hashArquivo_sha256": "422dc33fc0771699694a54c0e72ed9fc65ac1ba0724fafd444be76dce9302688"
+      },
+      {
+        "identificador": "ETSRN-PI22-1759841624832-0",
+        "nomeArquivo": "SA_teste1000(13).jpg",
+        "nomeOriginal": "SA_B.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-10-07",
+        "horario": "09:55",
+        "legenda": "asdasd",
+        "autoria": "asdasd",
+        "direitosAutorais": "asdasd",
+        "tags": [
+          "asdasd"
+        ],
+        "inseridoPor": "asdasd",
+        "dataInsercao": "2025-10-07",
+        "horaInsercao": "09:53",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 170.8 KB, 928×745px",
+        "historicoArquivistico": "asdasdasd",
+        "ambitoConteudo": "asdasdasd",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a51778159759d460f04a88599596308bc869bb305a63d72ce43fdec7075ba3c6",
+        "hashArquivo_md5": "f28e0b857596666afcda020b40d34b3d",
+        "hashArquivo_sha256": "a51778159759d460f04a88599596308bc869bb305a63d72ce43fdec7075ba3c6"
       }
     ]
   }
