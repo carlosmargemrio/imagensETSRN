@@ -13326,9 +13326,9 @@
         "hashArquivo_sha256": "0a72bfe9e470805e00c07c9a6da8b7f15606b35838d71753d1f732e6c4cb47c1"
       },
       {
-        "identificador": "ETSRN-PI22-1760016750579-0",
-        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(12).jpg",
-        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(11).JPG",
+        "identificador": "ETSRN-PI22-1760017039755-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(13).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(12).JPG",
         "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
         "co_iphan": "PI2201988BAST00118",
         "municipio": "Brejo do Piauí",
@@ -13338,7 +13338,7 @@
         ],
         "origemCoordenadas": "SICG",
         "data": "2005-11-26",
-        "horario": "10:24:36",
+        "horario": "10:24:46",
         "legenda": "Registro Zoomórfico do sítio Toca do Curral Velho ou da Boca do Forno",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
@@ -13348,11 +13348,11 @@
         ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-10-09",
-        "horaInsercao": "10:32",
+        "horaInsercao": "10:37",
         "fundoArquivistico": "Fiscalização do Iphan",
-        "dimensaoSuporte": "image/jpeg, 590.8 KB, 1280×960px",
+        "dimensaoSuporte": "image/jpeg, 555.1 KB, 1280×960px",
         "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "ambitoConteudo": "A imagem retrata registro Zoomorfo em superfície rochosa do sítio",
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
@@ -13363,9 +13363,9 @@
           "distancia_focal": "31.4 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "99b82dc36428ff12bc77140ca9fd306909fd362993bd303dbbff31a83996e543",
-        "hashArquivo_md5": "fde9e4f4106fab13a1a6dddb03fe64ff",
-        "hashArquivo_sha256": "99b82dc36428ff12bc77140ca9fd306909fd362993bd303dbbff31a83996e543"
+        "hashArquivo": "4bc51821de71dcfa2ae9e1df5ad9e3c7f5427e5f8af98f3fbaf6bd612382729a",
+        "hashArquivo_md5": "13ff18433e569d2a170d7fcce7100f3f",
+        "hashArquivo_sha256": "4bc51821de71dcfa2ae9e1df5ad9e3c7f5427e5f8af98f3fbaf6bd612382729a"
       }
     ]
   },
