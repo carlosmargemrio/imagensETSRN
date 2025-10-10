@@ -13533,6 +13533,48 @@
         "hashArquivo": "129afdbad6b9aa7425d5e36dae7d9b366f4152b3a21d1f5fcd3a9d717cbc2516",
         "hashArquivo_md5": "a8a279b66d2a11bfb7a779e0af9c9d70",
         "hashArquivo_sha256": "129afdbad6b9aa7425d5e36dae7d9b366f4152b3a21d1f5fcd3a9d717cbc2516"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760101031979-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(20).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(38).JPG",
+        "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
+        "co_iphan": "PI2201988BAST00118",
+        "municipio": "Brejo do Piauí",
+        "coordinates": [
+          -42.8626,
+          -8.6057
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-26",
+        "horario": "12:08:11",
+        "legenda": "Registro De Instalação de Cerca e Portão de Acesso do sítio Toca do Curral Velho ou da Boca do Forno (Toca do)",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-10",
+        "horaInsercao": "09:57",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 598.2 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem Retrata registro de instalação de Cerca e Portão de acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/5.6",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f3dc9891e1a80411be91114e630de0cf437521f1e4d7b15ccd4a786f6853f679",
+        "hashArquivo_md5": "afadf37fdac877632e7e442e44151726",
+        "hashArquivo_sha256": "f3dc9891e1a80411be91114e630de0cf437521f1e4d7b15ccd4a786f6853f679"
       }
     ]
   },
