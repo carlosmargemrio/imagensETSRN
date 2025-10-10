@@ -13493,9 +13493,9 @@
         "hashArquivo_sha256": "d987d1dc2c10728f234e28c524c3d52f7b82e1566911444ae6378940276ba24e"
       },
       {
-        "identificador": "ETSRN-PI22-1760099841731-0",
-        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(18).jpg",
-        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(27).JPG",
+        "identificador": "ETSRN-PI22-1760100139828-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(19).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(29).JPG",
         "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
         "co_iphan": "PI2201988BAST00118",
         "municipio": "Brejo do Piauí",
@@ -13505,33 +13505,34 @@
         ],
         "origemCoordenadas": "SICG",
         "data": "2005-11-26",
-        "horario": "12:20:55",
-        "legenda": "Registro de Placa  de sítio Arqueológico Toca do Curral Velho ou da Boca do Forno",
+        "horario": "12:22:32",
+        "legenda": "Registro de Instalação do Cerca e Portão  de Acesso do sítio Toca do Curral Velho ou da Boca do Forno",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
         "tags": [
-          "Placa"
+          "Vista Geral",
+          "Vegetação"
         ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-10-10",
-        "horaInsercao": "09:37",
+        "horaInsercao": "09:42",
         "fundoArquivistico": "Fiscalização do Iphan",
         "dimensaoSuporte": "image/jpeg, 601.9 KB, 1280×960px",
         "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata registro de Placa de sítio Arqueológico do sítio",
+        "ambitoConteudo": "A imagem retrata registro De instalação de cerca e portão de acesso do sítio",
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
           "modelo": "CYBERSHOT",
           "iso": 100,
-          "abertura": "f/f/5.6",
-          "distancia_focal": "17.2 mm"
+          "abertura": "f/f/4.0",
+          "distancia_focal": "16.2 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "81389ff2e719de620b82c418fb92f744514a1af96e76a7e3823c0a02f0ebab1e",
-        "hashArquivo_md5": "d8d0af2eac76f389b735260647d072e3",
-        "hashArquivo_sha256": "81389ff2e719de620b82c418fb92f744514a1af96e76a7e3823c0a02f0ebab1e"
+        "hashArquivo": "129afdbad6b9aa7425d5e36dae7d9b366f4152b3a21d1f5fcd3a9d717cbc2516",
+        "hashArquivo_md5": "a8a279b66d2a11bfb7a779e0af9c9d70",
+        "hashArquivo_sha256": "129afdbad6b9aa7425d5e36dae7d9b366f4152b3a21d1f5fcd3a9d717cbc2516"
       }
     ]
   },
