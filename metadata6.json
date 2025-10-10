@@ -13619,9 +13619,9 @@
         "hashArquivo_sha256": "8686c673cdf6606d1fc3ed9899927cd7c22d7e20b189dec286773766b8c59c45"
       },
       {
-        "identificador": "ETSRN-PI22-1760102864066-0",
-        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(22).jpg",
-        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(22).JPG",
+        "identificador": "ETSRN-PI22-1760103069419-0",
+        "nomeArquivo": "SA_Curral_Velho_ou_da_Boca_do_Forno_Toca_do(23).jpg",
+        "nomeOriginal": "SA_Toca_do_Curral_Velho_ou_Boca_do_Forno(26).JPG",
         "sitio": "Curral Velho ou da Boca do Forno (Toca do)",
         "co_iphan": "PI2201988BAST00118",
         "municipio": "Brejo do Piauí",
@@ -13631,34 +13631,34 @@
         ],
         "origemCoordenadas": "SICG",
         "data": "2005-11-26",
-        "horario": "12:08:50",
-        "legenda": "Registro de Instalação de Cerca do sítio Toca do Curral Velho ou da Boca do Forno",
+        "horario": "12:20:47",
+        "legenda": "Registro de Placa de sítio Arqueológico Toca do Curral Velho ou da Boca do Forno",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
         "tags": [
-          "Vista Geral",
+          "Placa",
           "Vegetação"
         ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-10-10",
-        "horaInsercao": "10:27",
+        "horaInsercao": "10:31",
         "fundoArquivistico": "Fiscalização do Iphan",
-        "dimensaoSuporte": "image/jpeg, 596.2 KB, 960×1280px",
+        "dimensaoSuporte": "image/jpeg, 591.1 KB, 960×1280px",
         "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata registro de Instalação de cerca do sítio",
-        "condicoesAcesso": "Restrito",
-        "condicoesReproducao": "",
-        "motivoRestricao": "Por Conter Imagem  Pessoal",
+        "ambitoConteudo": "A imagem retrata registro de Placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
         "camera": {
           "modelo": "CYBERSHOT",
           "iso": 100,
-          "abertura": "f/f/5.0",
-          "distancia_focal": "9.7 mm"
+          "abertura": "f/f/6.3",
+          "distancia_focal": "28.5 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "2f74e45cdee05da012f07f94d8097347324fb46fccb024e1024a7d7396069820",
-        "hashArquivo_md5": "dc7ef2f208db1daa572c2619000e9847",
-        "hashArquivo_sha256": "2f74e45cdee05da012f07f94d8097347324fb46fccb024e1024a7d7396069820"
+        "hashArquivo": "8ccae6d60d624207a19a7c449f4316aa17d84a7a531b617dc97e8b2dd59d2498",
+        "hashArquivo_md5": "a2815f4f3be0b62691dde0d65606c8cc",
+        "hashArquivo_sha256": "8ccae6d60d624207a19a7c449f4316aa17d84a7a531b617dc97e8b2dd59d2498"
       }
     ]
   },
