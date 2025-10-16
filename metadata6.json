@@ -27549,6 +27549,44 @@
         "hashArquivo": "32bfaa20dee711bc3a5cdaa7438e2fce300271db71334141a635e8d17d22fd25",
         "hashArquivo_md5": "b7720fe30163ec49c0437cf7d0c384ee",
         "hashArquivo_sha256": "32bfaa20dee711bc3a5cdaa7438e2fce300271db71334141a635e8d17d22fd25"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760646270386-0",
+        "nomeArquivo": "SA_teste1000(16).jpg",
+        "nomeOriginal": "caveira.jpg",
+        "sitio": "teste1000",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2025-10-16",
+        "horario": "17:24",
+        "legenda": "qwe",
+        "autoria": "qwe",
+        "direitosAutorais": "qwe",
+        "tags": [
+          "qwe"
+        ],
+        "inseridoPor": "qwe",
+        "dataInsercao": "2025-10-16",
+        "horaInsercao": "17:24",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 71.7 KB, 767×852px",
+        "historicoArquivistico": "qwe",
+        "ambitoConteudo": "qwe",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "",
+          "iso": "",
+          "abertura": "",
+          "distancia_focal": ""
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4f670b70df910069ea455f0ab90955b4a337b198a513a9a77c4d7138a19c0906",
+        "hashArquivo_md5": "8458cdcfa7a1a431dad843268aab0a73",
+        "hashArquivo_sha256": "4f670b70df910069ea455f0ab90955b4a337b198a513a9a77c4d7138a19c0906"
       }
     ]
   },
