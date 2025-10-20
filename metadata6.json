@@ -28021,6 +28021,48 @@
         "hashArquivo": "95eaaa68ce1dfbbe9ab7e121c3ec223c9a102fd9ffb46d235d66fbcde0efd2ec",
         "hashArquivo_md5": "99dc430da8ca03f8cbefb54260aacde5",
         "hashArquivo_sha256": "95eaaa68ce1dfbbe9ab7e121c3ec223c9a102fd9ffb46d235d66fbcde0efd2ec"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760969380627-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(3).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(3).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:34:30",
+        "legenda": "Registro Geométrico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "11:09",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2114.9 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "7.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "2df77fae80a7071a990b800604766e2f57184bcfd96642a4c0f7c8a585760535",
+        "hashArquivo_md5": "b26ac6a0885d7a167d6dab7f271e5739",
+        "hashArquivo_sha256": "2df77fae80a7071a990b800604766e2f57184bcfd96642a4c0f7c8a585760535"
       }
     ]
   }
