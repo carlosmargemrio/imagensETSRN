@@ -28063,6 +28063,48 @@
         "hashArquivo": "2df77fae80a7071a990b800604766e2f57184bcfd96642a4c0f7c8a585760535",
         "hashArquivo_md5": "b26ac6a0885d7a167d6dab7f271e5739",
         "hashArquivo_sha256": "2df77fae80a7071a990b800604766e2f57184bcfd96642a4c0f7c8a585760535"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760970193495-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(4).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(4).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:35:02",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "11:23",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1864.0 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "13.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "33c0421e9781d953a5e96f39f674fa00924531b1053fc201c7ef3a51c250be5d",
+        "hashArquivo_md5": "8fe554e0e02e26c6bde7da04e4634e44",
+        "hashArquivo_sha256": "33c0421e9781d953a5e96f39f674fa00924531b1053fc201c7ef3a51c250be5d"
       }
     ]
   }
