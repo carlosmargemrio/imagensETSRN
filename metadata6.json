@@ -28231,6 +28231,48 @@
         "hashArquivo": "4f6ba042da18a40d4afcf8df4529c67e7e8449b4418d59278b376a4f6717e9d1",
         "hashArquivo_md5": "a01fa9644ad6f5e834f135cc509878e0",
         "hashArquivo_sha256": "4f6ba042da18a40d4afcf8df4529c67e7e8449b4418d59278b376a4f6717e9d1"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760983670974-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(8).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(8).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:36:09",
+        "legenda": "registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "15:07",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1768.8 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "13.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "91eaef34968378dcfc2a09718ebc2e516d06085fd2ff599ad494de726a182e08",
+        "hashArquivo_md5": "2ee12f83176a1d6319da75a6cb0833b3",
+        "hashArquivo_sha256": "91eaef34968378dcfc2a09718ebc2e516d06085fd2ff599ad494de726a182e08"
       }
     ]
   }
