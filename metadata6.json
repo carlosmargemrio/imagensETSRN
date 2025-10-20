@@ -28441,6 +28441,48 @@
         "hashArquivo": "8370074813edd27a776aeeb8c7963b23546c514887a1f34ab9e9dfbfd6552a5b",
         "hashArquivo_md5": "0de76dc341aa1c6eca8a5325ad375f3e",
         "hashArquivo_sha256": "8370074813edd27a776aeeb8c7963b23546c514887a1f34ab9e9dfbfd6552a5b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760987043938-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(13).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(13).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:37:57",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "16:04",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2167.0 KB, 1944×2592px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b3a8f78391606d34d5fa2ef3347a9c943d86c7479ab2ded69c5a7f6dfffcc136",
+        "hashArquivo_md5": "e8f43838a655310cc655b94b56c77ec2",
+        "hashArquivo_sha256": "b3a8f78391606d34d5fa2ef3347a9c943d86c7479ab2ded69c5a7f6dfffcc136"
       }
     ]
   }
