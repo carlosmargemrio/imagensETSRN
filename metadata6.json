@@ -28147,6 +28147,48 @@
         "hashArquivo": "a0ef2f0f72ad207e889a0766ee46e98ee292b4a5c25d1606c91a80520d9a5361",
         "hashArquivo_md5": "2f80ade64a76600a843a6de364cb77be",
         "hashArquivo_sha256": "a0ef2f0f72ad207e889a0766ee46e98ee292b4a5c25d1606c91a80520d9a5361"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760971420961-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(6).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(6).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:35:24",
+        "legenda": "Registro Geométrico do Sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "11:43",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2088.1 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "13.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "079b8b406cd7f04ac29eb348db4eca7edd75f9674839ba8909b6ccb13b9a7dcc",
+        "hashArquivo_md5": "3ac8cede016f3c36a5fb5b748f0a0f9e",
+        "hashArquivo_sha256": "079b8b406cd7f04ac29eb348db4eca7edd75f9674839ba8909b6ccb13b9a7dcc"
       }
     ]
   }
