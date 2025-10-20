@@ -28273,6 +28273,48 @@
         "hashArquivo": "91eaef34968378dcfc2a09718ebc2e516d06085fd2ff599ad494de726a182e08",
         "hashArquivo_md5": "2ee12f83176a1d6319da75a6cb0833b3",
         "hashArquivo_sha256": "91eaef34968378dcfc2a09718ebc2e516d06085fd2ff599ad494de726a182e08"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760984478662-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(9).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(9).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:36:35",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "15:21",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2161.5 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9ef665545bd0deebd15007fe3f1733982e9bd705cccc9b752952191be557f280",
+        "hashArquivo_md5": "df0b4015ab45b9c8c913cbd2e1b7a6bd",
+        "hashArquivo_sha256": "9ef665545bd0deebd15007fe3f1733982e9bd705cccc9b752952191be557f280"
       }
     ]
   }
