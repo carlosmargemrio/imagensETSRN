@@ -28567,6 +28567,48 @@
         "hashArquivo": "6f9c363d58529b69d8ac13a07f6aa3918699152d4c8c2b731cb269f8f359ae76",
         "hashArquivo_md5": "77497eed02bdb8552ff6393ec14dce60",
         "hashArquivo_sha256": "6f9c363d58529b69d8ac13a07f6aa3918699152d4c8c2b731cb269f8f359ae76"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760989065981-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(15).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(17).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:39:11",
+        "legenda": "Registro  Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "16:37",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2087.4 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d9108618d6ecdef05f1ae7402f9decf0570a4230f6f427f9984689b5f607e7f7",
+        "hashArquivo_md5": "17cd370ee41b68d45bbba20b08f2932d",
+        "hashArquivo_sha256": "d9108618d6ecdef05f1ae7402f9decf0570a4230f6f427f9984689b5f607e7f7"
       }
     ]
   }
