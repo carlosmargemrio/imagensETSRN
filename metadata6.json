@@ -27979,6 +27979,48 @@
         "hashArquivo": "5b881f254bbaa4555363c621b32c83fd0004fadac42e62ab3cd0af411ac7898f",
         "hashArquivo_md5": "e697a8fab127e5784dd4814e861c8fab",
         "hashArquivo_sha256": "5b881f254bbaa4555363c621b32c83fd0004fadac42e62ab3cd0af411ac7898f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760967470919-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(2).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(2).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:34:19",
+        "legenda": "Registro Zoomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Zoomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "10:37",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2231.4 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Iphan",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "7.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "95eaaa68ce1dfbbe9ab7e121c3ec223c9a102fd9ffb46d235d66fbcde0efd2ec",
+        "hashArquivo_md5": "99dc430da8ca03f8cbefb54260aacde5",
+        "hashArquivo_sha256": "95eaaa68ce1dfbbe9ab7e121c3ec223c9a102fd9ffb46d235d66fbcde0efd2ec"
       }
     ]
   }
