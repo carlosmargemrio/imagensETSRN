@@ -28399,6 +28399,48 @@
         "hashArquivo": "46d585ecc303ed9a0539e31ade6f7c11f19b242fd054a851d07035a968e12d5b",
         "hashArquivo_md5": "9b6581ab34fc8b639ed804ba740f108b",
         "hashArquivo_sha256": "46d585ecc303ed9a0539e31ade6f7c11f19b242fd054a851d07035a968e12d5b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760986520228-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(12).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(12).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:37:01",
+        "legenda": "Registro Geométrico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Marrom"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "15:55",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2312.8 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "8370074813edd27a776aeeb8c7963b23546c514887a1f34ab9e9dfbfd6552a5b",
+        "hashArquivo_md5": "0de76dc341aa1c6eca8a5325ad375f3e",
+        "hashArquivo_sha256": "8370074813edd27a776aeeb8c7963b23546c514887a1f34ab9e9dfbfd6552a5b"
       }
     ]
   }
