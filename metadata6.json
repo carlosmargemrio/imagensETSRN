@@ -28105,6 +28105,48 @@
         "hashArquivo": "33c0421e9781d953a5e96f39f674fa00924531b1053fc201c7ef3a51c250be5d",
         "hashArquivo_md5": "8fe554e0e02e26c6bde7da04e4634e44",
         "hashArquivo_sha256": "33c0421e9781d953a5e96f39f674fa00924531b1053fc201c7ef3a51c250be5d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760970888741-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(5).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(5).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:35:18",
+        "legenda": "Registro Geométrico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "11:34",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1761.9 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "13.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "a0ef2f0f72ad207e889a0766ee46e98ee292b4a5c25d1606c91a80520d9a5361",
+        "hashArquivo_md5": "2f80ade64a76600a843a6de364cb77be",
+        "hashArquivo_sha256": "a0ef2f0f72ad207e889a0766ee46e98ee292b4a5c25d1606c91a80520d9a5361"
       }
     ]
   }
