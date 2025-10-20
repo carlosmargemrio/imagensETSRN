@@ -28189,6 +28189,48 @@
         "hashArquivo": "079b8b406cd7f04ac29eb348db4eca7edd75f9674839ba8909b6ccb13b9a7dcc",
         "hashArquivo_md5": "3ac8cede016f3c36a5fb5b748f0a0f9e",
         "hashArquivo_sha256": "079b8b406cd7f04ac29eb348db4eca7edd75f9674839ba8909b6ccb13b9a7dcc"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760982496780-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(7).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(7).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:35:48",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "14:48",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1880.8 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "13.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4f6ba042da18a40d4afcf8df4529c67e7e8449b4418d59278b376a4f6717e9d1",
+        "hashArquivo_md5": "a01fa9644ad6f5e834f135cc509878e0",
+        "hashArquivo_sha256": "4f6ba042da18a40d4afcf8df4529c67e7e8449b4418d59278b376a4f6717e9d1"
       }
     ]
   }
