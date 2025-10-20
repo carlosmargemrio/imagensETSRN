@@ -28483,6 +28483,48 @@
         "hashArquivo": "b3a8f78391606d34d5fa2ef3347a9c943d86c7479ab2ded69c5a7f6dfffcc136",
         "hashArquivo_md5": "e8f43838a655310cc655b94b56c77ec2",
         "hashArquivo_sha256": "b3a8f78391606d34d5fa2ef3347a9c943d86c7479ab2ded69c5a7f6dfffcc136"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760988116166-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(14).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(14).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:38:13",
+        "legenda": "Registro Antropomórfico e Geométrico do sítio Toca do  Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Geométrico"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "16:21",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2080.0 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "imagem retrata registro Antropomórfico e Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "f52e3070756afd283254c6c4516eb44069ccc3eb255ef05785ec7aca77e69832",
+        "hashArquivo_md5": "7a398b15c507f36c8c3d6cd325e257c1",
+        "hashArquivo_sha256": "f52e3070756afd283254c6c4516eb44069ccc3eb255ef05785ec7aca77e69832"
       }
     ]
   }
