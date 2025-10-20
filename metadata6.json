@@ -28357,6 +28357,48 @@
         "hashArquivo": "2c975bbf84dc30d6982274e78466cf43f17412282cda5687eebff04850b7721a",
         "hashArquivo_md5": "b717284069bbcb9001f5e5070ca025b7",
         "hashArquivo_sha256": "2c975bbf84dc30d6982274e78466cf43f17412282cda5687eebff04850b7721a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1760985693072-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(11).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(11).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:36:55",
+        "legenda": "Registro Geométrico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "15:41",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2363.3 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "46d585ecc303ed9a0539e31ade6f7c11f19b242fd054a851d07035a968e12d5b",
+        "hashArquivo_md5": "9b6581ab34fc8b639ed804ba740f108b",
+        "hashArquivo_sha256": "46d585ecc303ed9a0539e31ade6f7c11f19b242fd054a851d07035a968e12d5b"
       }
     ]
   }
