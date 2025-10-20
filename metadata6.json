@@ -27932,5 +27932,54 @@
         "hashArquivo_sha256": "b71c5ec89eba9bb9bae64bef3a99b3dbba6f60993c6697b62eb7ef78843455b2"
       }
     ]
+  },
+  "caboclo da serra branca toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1760967238170-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(1).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(1).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:34:07",
+        "legenda": "Registro de Placa de identificação do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Placa"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-20",
+        "horaInsercao": "10:33",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2250.5 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de laca de identificação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5b881f254bbaa4555363c621b32c83fd0004fadac42e62ab3cd0af411ac7898f",
+        "hashArquivo_md5": "e697a8fab127e5784dd4814e861c8fab",
+        "hashArquivo_sha256": "5b881f254bbaa4555363c621b32c83fd0004fadac42e62ab3cd0af411ac7898f"
+      }
+    ]
   }
 }
