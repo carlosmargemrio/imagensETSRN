@@ -28609,6 +28609,48 @@
         "hashArquivo": "4a2531d8df45bde07cc4519b963af8583f5f183390d1a81e96d265ce129ced4b",
         "hashArquivo_md5": "6340a3c68dbb66d61742ecb4a0ab31c4",
         "hashArquivo_sha256": "4a2531d8df45bde07cc4519b963af8583f5f183390d1a81e96d265ce129ced4b"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761049269673-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(17).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(18).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:39:18",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomórfico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "09:21",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2246.7 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "d8aa5a2fa4acc6333467d5716563ad7a5ef824082af55285f0a64deeddd5d4af",
+        "hashArquivo_md5": "d39094c295440632ffccf5d708501702",
+        "hashArquivo_sha256": "d8aa5a2fa4acc6333467d5716563ad7a5ef824082af55285f0a64deeddd5d4af"
       }
     ]
   }
