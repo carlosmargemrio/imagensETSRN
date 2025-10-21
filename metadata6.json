@@ -28944,6 +28944,48 @@
         "hashArquivo": "cbbd128b9a633c60488a60ea3f5392b91c76886c8c8ec2e1f35132bacf58dfba",
         "hashArquivo_md5": "4607000e61135b4106e00d88c271d623",
         "hashArquivo_sha256": "cbbd128b9a633c60488a60ea3f5392b91c76886c8c8ec2e1f35132bacf58dfba"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761071376503-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(25).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(28).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:41:37",
+        "legenda": "Registro Fitomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Fitomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souaza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "15:29",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1926.1 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Fitomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "86878a327c8e093e11e6521ae514a42451ab21aa3d2f540945012e32b7dbd873",
+        "hashArquivo_md5": "a6db3d6eb5826ae9b7b6d39eb5e8041c",
+        "hashArquivo_sha256": "86878a327c8e093e11e6521ae514a42451ab21aa3d2f540945012e32b7dbd873"
       }
     ]
   }
