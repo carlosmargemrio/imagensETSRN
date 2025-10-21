@@ -28904,9 +28904,9 @@
         "hashArquivo_sha256": "26fdf94fa0d3b80176c4d5840e0ad4a2b9e8279936c3a96ddc6725234fc83af1"
       },
       {
-        "identificador": "ETSRN-PI22-1761065765587-0",
-        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(23).jpg",
-        "nomeOriginal": "SA_TOCA_DO_CABOCLO(26).jpg",
+        "identificador": "ETSRN-PI22-1761066004972-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(24).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(27).jpg",
         "sitio": "Caboclo da Serra Branca (Toca do)",
         "co_iphan": "PI2210607BAST00071",
         "municipio": "São Raimundo Nonato",
@@ -28916,21 +28916,21 @@
         ],
         "origemCoordenadas": "SICG",
         "data": "2013-10-09",
-        "horario": "22:41:10",
-        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "horario": "22:41:19",
+        "legenda": "Registro Zoomórfico do sítio Toca do Caboclo da Serra Branca",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
         "tags": [
-          "Antropomorfo",
+          "Zoomorfo",
           "Vermelho"
         ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-10-21",
-        "horaInsercao": "13:56",
+        "horaInsercao": "14:00",
         "fundoArquivistico": "Fiscalis",
-        "dimensaoSuporte": "image/jpeg, 2165.8 KB, 2592×1944px",
+        "dimensaoSuporte": "image/jpeg, 1916.3 KB, 2592×1944px",
         "historicoArquivistico": "Produzido pelo Fiscalis",
-        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "ambitoConteudo": "A imagem retrata registro Zoomórfico em superfície rochosa do sítio",
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
@@ -28941,9 +28941,9 @@
           "distancia_focal": "6.3 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "4200b2a14484b425080dfa247902ce98c71ef23670742dd28bb113f7d897fee0",
-        "hashArquivo_md5": "b9a165dd9e39c8bddc316ce785636b75",
-        "hashArquivo_sha256": "4200b2a14484b425080dfa247902ce98c71ef23670742dd28bb113f7d897fee0"
+        "hashArquivo": "cbbd128b9a633c60488a60ea3f5392b91c76886c8c8ec2e1f35132bacf58dfba",
+        "hashArquivo_md5": "4607000e61135b4106e00d88c271d623",
+        "hashArquivo_sha256": "cbbd128b9a633c60488a60ea3f5392b91c76886c8c8ec2e1f35132bacf58dfba"
       }
     ]
   }
