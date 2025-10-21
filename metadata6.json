@@ -28651,6 +28651,45 @@
         "hashArquivo": "d8aa5a2fa4acc6333467d5716563ad7a5ef824082af55285f0a64deeddd5d4af",
         "hashArquivo_md5": "d39094c295440632ffccf5d708501702",
         "hashArquivo_sha256": "d8aa5a2fa4acc6333467d5716563ad7a5ef824082af55285f0a64deeddd5d4af"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761049859076-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(18).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(20).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": "-8.6435, -42.7058-8.8819, -42.6545",
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:39:30",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomórfico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "09:30",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2235.8 KB, 1944×2592px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "bbef1e55e8f0bcc00e75f4eff41ba9791b9439cdb5f4df5b8356ad76afd87bf7",
+        "hashArquivo_md5": "aa3d6d88d9927df63a360e26855c18d1",
+        "hashArquivo_sha256": "bbef1e55e8f0bcc00e75f4eff41ba9791b9439cdb5f4df5b8356ad76afd87bf7"
       }
     ]
   }
