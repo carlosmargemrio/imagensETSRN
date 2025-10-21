@@ -29154,6 +29154,48 @@
         "hashArquivo": "4fb657d12caced87145e074839e9dba14972f0d1b81aa22cea827d3d85b567de",
         "hashArquivo_md5": "05592ca161d39a12f44ff0e468e9ed28",
         "hashArquivo_sha256": "4fb657d12caced87145e074839e9dba14972f0d1b81aa22cea827d3d85b567de"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761073940323-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(29).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(37).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:43:45",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "16:12",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2140.6 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9744418a53770e74649b0f50347e4d017aea7d13a95ea5b7de67e3dc86dc3910",
+        "hashArquivo_md5": "ec2c4bec374809ae341bc5d4f02bd3da",
+        "hashArquivo_sha256": "9744418a53770e74649b0f50347e4d017aea7d13a95ea5b7de67e3dc86dc3910"
       }
     ]
   }
