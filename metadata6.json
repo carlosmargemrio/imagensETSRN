@@ -29111,6 +29111,49 @@
         "hashArquivo": "a8a0f846b5fb6148eec307a70955157631371ac4ec714f4ad66e5061f69407d3",
         "hashArquivo_md5": "3649415a97bb90fbdfc553342c836412",
         "hashArquivo_sha256": "a8a0f846b5fb6148eec307a70955157631371ac4ec714f4ad66e5061f69407d3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761073653323-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(28).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(33).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:43:08",
+        "legenda": "Registro de Vista Geral Paisagem e Vegetação do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Paisagem",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "16:07",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2153.1 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de vista geral, paisagem e vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/8.0",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "4fb657d12caced87145e074839e9dba14972f0d1b81aa22cea827d3d85b567de",
+        "hashArquivo_md5": "05592ca161d39a12f44ff0e468e9ed28",
+        "hashArquivo_sha256": "4fb657d12caced87145e074839e9dba14972f0d1b81aa22cea827d3d85b567de"
       }
     ]
   }
