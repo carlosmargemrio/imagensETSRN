@@ -28818,6 +28818,48 @@
         "hashArquivo": "91fa4267d8c19cdc2087e66e0da86e6b7586b3763ba0c34b0891047ceb5ec6cd",
         "hashArquivo_md5": "bce5917cddc19e5bf49fc7b7e12d7929",
         "hashArquivo_sha256": "91fa4267d8c19cdc2087e66e0da86e6b7586b3763ba0c34b0891047ceb5ec6cd"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761055805692-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(22).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(24).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:40:19",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "11:10",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2128.9 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "3de8f4138fd65471f02b4e9dde0313ad73801f3cfdf769308b046f149e2efcfd",
+        "hashArquivo_md5": "327515b6fe733a292a73a23b888714e8",
+        "hashArquivo_sha256": "3de8f4138fd65471f02b4e9dde0313ad73801f3cfdf769308b046f149e2efcfd"
       }
     ]
   }
