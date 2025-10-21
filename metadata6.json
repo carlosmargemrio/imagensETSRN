@@ -28733,6 +28733,48 @@
         "hashArquivo": "f84dbe90b0f77d45948ad44ac7d4784e39c037d86095bb624cd6b5050c388d10",
         "hashArquivo_md5": "2f392a096c51d0a2b5226c9ac877a423",
         "hashArquivo_sha256": "f84dbe90b0f77d45948ad44ac7d4784e39c037d86095bb624cd6b5050c388d10"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761050566685-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(20).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(21).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:39:38",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "09:42",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2223.8 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9fe864e8208e3bdea61cf70cc716c4f1ba3250b6d601d8588e88c7f824a305e0",
+        "hashArquivo_md5": "6d27a04282cf98744e85119f317f3a19",
+        "hashArquivo_sha256": "9fe864e8208e3bdea61cf70cc716c4f1ba3250b6d601d8588e88c7f824a305e0"
       }
     ]
   }
