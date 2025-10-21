@@ -28986,6 +28986,48 @@
         "hashArquivo": "9076b33e64e778e06ab8cd2e593cf35fb4e0c6f47916fe42a4b73788302fb324",
         "hashArquivo_md5": "249a5d93a4ea82625b4d9bb7333cc4e3",
         "hashArquivo_sha256": "9076b33e64e778e06ab8cd2e593cf35fb4e0c6f47916fe42a4b73788302fb324"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761072002790-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(26).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(30).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:42:12",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-21",
+        "horaInsercao": "15:40",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 2212.2 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0c560fbf3141ef72cb133678e4ceadf99e5c96f86251ec24afe88de1c6358544",
+        "hashArquivo_md5": "3a592c48a20e47e3b75cc39fb836ab3e",
+        "hashArquivo_sha256": "0c560fbf3141ef72cb133678e4ceadf99e5c96f86251ec24afe88de1c6358544"
       }
     ]
   }
