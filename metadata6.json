@@ -29196,6 +29196,258 @@
         "hashArquivo": "9744418a53770e74649b0f50347e4d017aea7d13a95ea5b7de67e3dc86dc3910",
         "hashArquivo_md5": "ec2c4bec374809ae341bc5d4f02bd3da",
         "hashArquivo_sha256": "9744418a53770e74649b0f50347e4d017aea7d13a95ea5b7de67e3dc86dc3910"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761134434547-0",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(30).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(41).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:45:20",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-22",
+        "horaInsercao": "09:00",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1752.5 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/3.5",
+          "distancia_focal": "6.3 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "9053cb1f4ea50c3b8115883a5cf6e8fc0d601f166ac1522c31ad585883f8cd0a",
+        "hashArquivo_md5": "3527d098473574f2cb37fa3e9ffd5f55",
+        "hashArquivo_sha256": "9053cb1f4ea50c3b8115883a5cf6e8fc0d601f166ac1522c31ad585883f8cd0a"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761134626937-1",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(31).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(42).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:45:50",
+        "legenda": "registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-22",
+        "horaInsercao": "09:03",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1629.2 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e993ca02e876912e5b6e825b0279d28862244d8af2f84067ab4b63cb6b878b42",
+        "hashArquivo_md5": "b302cd15f5ee0f031ec69f6f1eb6db99",
+        "hashArquivo_sha256": "e993ca02e876912e5b6e825b0279d28862244d8af2f84067ab4b63cb6b878b42"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761134806628-2",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(32).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(43).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:45:55",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-22",
+        "horaInsercao": "09:06",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1645.3 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1b98652d0514a3d6fbd98422715cb9d312f4d84382bfcec3fab995c06c111565",
+        "hashArquivo_md5": "1fe25093e03f1b9f14f0c84c965d8462",
+        "hashArquivo_sha256": "1b98652d0514a3d6fbd98422715cb9d312f4d84382bfcec3fab995c06c111565"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761135066832-3",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(33).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(44).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:46:01",
+        "legenda": "Registro Antropomórfico do Sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-22",
+        "horaInsercao": "09:11",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1629.5 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1cb48373acccce42a6230abe3556b98db867e1c6a114ce921657e5c361c1ad84",
+        "hashArquivo_md5": "7f3cd6817e7ab9fa9de758f5b227369a",
+        "hashArquivo_sha256": "1cb48373acccce42a6230abe3556b98db867e1c6a114ce921657e5c361c1ad84"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761135267962-4",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(34).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(45).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:46:09",
+        "legenda": "Registro Geométrico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-22",
+        "horaInsercao": "09:14",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1717.0 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "44c338daa23760df7cf15b8f7aa55fd4ebcbec849bf39058c26956ce698e2be5",
+        "hashArquivo_md5": "638c60375df6710dcd056aa5209cbefb",
+        "hashArquivo_sha256": "44c338daa23760df7cf15b8f7aa55fd4ebcbec849bf39058c26956ce698e2be5"
+      },
+      {
+        "identificador": "ETSRN-PI22-1761135451033-5",
+        "nomeArquivo": "SA_Caboclo_da_Serra_Branca_Toca_do(35).jpg",
+        "nomeOriginal": "SA_TOCA_DO_CABOCLO(46).jpg",
+        "sitio": "Caboclo da Serra Branca (Toca do)",
+        "co_iphan": "PI2210607BAST00071",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7058,
+          -8.6435
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2013-10-09",
+        "horario": "22:46:14",
+        "legenda": "Registro Antropomórfico do sítio Toca do Caboclo da Serra Branca",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Antropomorfo",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-10-22",
+        "horaInsercao": "09:17",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 1677.4 KB, 2592×1944px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro Antropomórfico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "DSC-H10",
+          "iso": 125,
+          "abertura": "f/f/4.0",
+          "distancia_focal": "15.2 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "0559fe815069d3bb564b737b9a31dc19112fecc0fb36efa1380127000e239e0c",
+        "hashArquivo_md5": "d53a702c6faccda98a544b2881c1d8a6",
+        "hashArquivo_sha256": "0559fe815069d3bb564b737b9a31dc19112fecc0fb36efa1380127000e239e0c"
       }
     ]
   }
