@@ -30705,6 +30705,48 @@
         "hashArquivo": "50c4b1f994d126df95e220e83fcd0dd41e307f0870077080bb37105f7e455762",
         "hashArquivo_md5": "b8876ef8b5c89e4848e2942f17559036",
         "hashArquivo_sha256": "50c4b1f994d126df95e220e83fcd0dd41e307f0870077080bb37105f7e455762"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762526079115-0",
+        "nomeArquivo": "SA_Caldeirao_Raso_Toca_do(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão Raso(4).JPG",
+        "sitio": "Caldeirao Raso (Toca do)",
+        "co_iphan": "PI2210607BAST00028",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7308,
+          -8.8824
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "13:45:52",
+        "legenda": "Registro de Instalação de Portão de acesso e Placa de sítio Arqueológico Toca do Caldeirão Raso",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "11:34",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 585.6 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de portão de acesso e placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "063aa70a072647cf9936a3855e77eddf9523d7d3cd8144203d555365f4434784",
+        "hashArquivo_md5": "feab5f4723d35a13f0a85a813b19307d",
+        "hashArquivo_sha256": "063aa70a072647cf9936a3855e77eddf9523d7d3cd8144203d555365f4434784"
       }
     ]
   }
