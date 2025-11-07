@@ -12621,6 +12621,48 @@
         },
         "licencaUso": "CC-BY-NC-SA",
         "hashArquivo": "dd1ae585379816645f0887b194256a4f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762536607284-0",
+        "nomeArquivo": "SA_Toca_do_Canto_Verde_II(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Canto _Verde_II (1).JPG",
+        "sitio": "Toca do Canto Verde II",
+        "co_iphan": "PI2204550BAST00103",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.4514,
+          -8.9075
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-10",
+        "horario": "20:50:27",
+        "legenda": "Registro  de Vista Geral e Geométrico do sítio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Geométrico"
+        ],
+        "inseridoPor": "Eliane Aragão  de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "14:30",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 57.3 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de vista geral e Geométrico do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 69,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "b5c476463988a6c1be6c0065b0d55cf422ef617419adbccbaf5fbe3743d27ea0",
+        "hashArquivo_md5": "b4e485180dcf110a788cf7b452db53d3",
+        "hashArquivo_sha256": "b5c476463988a6c1be6c0065b0d55cf422ef617419adbccbaf5fbe3743d27ea0"
       }
     ]
   },
