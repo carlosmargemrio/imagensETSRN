@@ -30493,6 +30493,45 @@
         "hashArquivo": "798bca45cf259db6a567e34ac3f61a8110a01a492e4fb184a337e4f4b55ee781",
         "hashArquivo_md5": "c04b50a87247920e2c8cb930581f74a1",
         "hashArquivo_sha256": "798bca45cf259db6a567e34ac3f61a8110a01a492e4fb184a337e4f4b55ee781"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762521609695-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(4).JPG",
+        "sitio": "Toca do Caldeirão do Urubu",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-24",
+        "horario": "14:09:21",
+        "legenda": "Registro de Instalação de Placa de sítio Arqueológico da Toca do Caldeirão do Urubu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "10:20",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 595.9 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "32358e62ea9ead02905d9bd9efc3d78113c40f4929a6183b27d0664548d1ee72",
+        "hashArquivo_md5": "b23ac9ca8059cf2bc9ff44222803f6b6",
+        "hashArquivo_sha256": "32358e62ea9ead02905d9bd9efc3d78113c40f4929a6183b27d0664548d1ee72"
       }
     ]
   }
