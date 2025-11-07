@@ -30413,8 +30413,7 @@
   "toca do caldeirao do urubu": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Iphan",
-      "Fiscalização  do Iphan"
+      "Fiscalização do Iphan"
     ],
     "imagens": [
       {
@@ -30535,28 +30534,28 @@
         "hashArquivo_sha256": "32358e62ea9ead02905d9bd9efc3d78113c40f4929a6183b27d0664548d1ee72"
       },
       {
-        "identificador": "ETSRN-PI22-1762524149370-0",
-        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(4).jpg",
-        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(3).JPG",
+        "identificador": "ETSRN-PI22-1762524429335-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(5).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(1).JPG",
         "sitio": "Toca do Caldeirão do Urubu",
         "co_iphan": "",
         "municipio": "",
         "coordinates": "N/A",
         "origemCoordenadas": "Manual",
         "data": "2005-11-24",
-        "horario": "14:08:03",
-        "legenda": "Registro de Instalação de cerca e portão de acesso do sítio Toca do Caldeirão do Urubu",
-        "autoria": "IIphan",
-        "direitosAutorais": "IIphan",
+        "horario": "14:07:08",
+        "legenda": "Registro de instalação de cerca e portão de acesso do sítio Toca do Caldeirão do Urubu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
         "tags": [
           "Vegetação",
           "Verde"
         ],
-        "inseridoPor": "Eliane Aragão de  Souza",
+        "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-11-07",
-        "horaInsercao": "11:02",
-        "fundoArquivistico": "Fiscalização  do Iphan",
-        "dimensaoSuporte": "image/jpeg, 605.6 KB, 1280×960px",
+        "horaInsercao": "11:07",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 606.3 KB, 1280×960px",
         "historicoArquivistico": "Fiscalização do Iphan",
         "ambitoConteudo": "A imagem retrata registro de instalação de cerca e portão de acesso do sítio",
         "condicoesAcesso": "Público",
@@ -30569,9 +30568,9 @@
           "distancia_focal": "9.7 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "f79cf21a2ff8e6e50df2750749cb08b7c8aa18cb01d4cc38329532e488391469",
-        "hashArquivo_md5": "91ac9c6174e32be2b2df27e3b0344dc0",
-        "hashArquivo_sha256": "f79cf21a2ff8e6e50df2750749cb08b7c8aa18cb01d4cc38329532e488391469"
+        "hashArquivo": "5c7208a5ccd120121527d1d06b70ff5938da3652a68b1faff5d92e7e148f255b",
+        "hashArquivo_md5": "57e2d2547464d504ca56422a720cf88b",
+        "hashArquivo_sha256": "5c7208a5ccd120121527d1d06b70ff5938da3652a68b1faff5d92e7e148f255b"
       }
     ]
   }
