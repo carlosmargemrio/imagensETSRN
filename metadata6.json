@@ -30417,17 +30417,17 @@
     ],
     "imagens": [
       {
-        "identificador": "ETSRN-PI22-1762520663500-0",
-        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(1).jpg",
-        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(7).JPG",
+        "identificador": "ETSRN-PI22-1762520944709-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(6).JPG",
         "sitio": "Toca do Caldeirão do Urubu",
-        "co_iphan": "PI2210607BAST00031",
-        "municipio": "São Raimundo Nonato",
+        "co_iphan": "",
+        "municipio": "",
         "coordinates": "N/A",
         "origemCoordenadas": "Manual",
         "data": "2005-11-24",
-        "horario": "14:12:14",
-        "legenda": "Registro de Instalação de cerca e portão de acesso  do sítio Toca do Caldeirão do Urubu",
+        "horario": "14:11:47",
+        "legenda": "Registro de Instalação de cerca e portão de acesso do sítio Toca do Caldeirão do Urubu",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
         "tags": [
@@ -30436,9 +30436,9 @@
         ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-11-07",
-        "horaInsercao": "10:04",
+        "horaInsercao": "10:09",
         "fundoArquivistico": "Fiscalização do Iphan",
-        "dimensaoSuporte": "image/jpeg, 597.7 KB, 1280×960px",
+        "dimensaoSuporte": "image/jpeg, 605.0 KB, 1280×960px",
         "historicoArquivistico": "Fiscalização do Iphan",
         "ambitoConteudo": "A imagem retrata registro de instalação de cerca e portão de acesso do sítio",
         "condicoesAcesso": "Público",
@@ -30451,9 +30451,9 @@
           "distancia_focal": "9.7 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676",
-        "hashArquivo_md5": "65bd57e292bcf64c3cf37b30fb671c91",
-        "hashArquivo_sha256": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676"
+        "hashArquivo": "fa9dfc872627ad910c056bac0a55c9f25a7a7ca85500cb72117fb21d049d473f",
+        "hashArquivo_md5": "08871e1226f1761b28ffbd23032e3f18",
+        "hashArquivo_sha256": "fa9dfc872627ad910c056bac0a55c9f25a7a7ca85500cb72117fb21d049d473f"
       }
     ]
   }
