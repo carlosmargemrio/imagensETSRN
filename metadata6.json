@@ -30454,6 +30454,45 @@
         "hashArquivo": "fa9dfc872627ad910c056bac0a55c9f25a7a7ca85500cb72117fb21d049d473f",
         "hashArquivo_md5": "08871e1226f1761b28ffbd23032e3f18",
         "hashArquivo_sha256": "fa9dfc872627ad910c056bac0a55c9f25a7a7ca85500cb72117fb21d049d473f"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762521277940-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(5).JPG",
+        "sitio": "Toca do Caldeirão do Urubu",
+        "co_iphan": "",
+        "municipio": "",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-24",
+        "horario": "14:10:26",
+        "legenda": "Registro de instalação de cerca e portão de acesso do sítio Toca do Caldeirão do Urubu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "10:14",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 592.5 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca e portão de acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "798bca45cf259db6a567e34ac3f61a8110a01a492e4fb184a337e4f4b55ee781",
+        "hashArquivo_md5": "c04b50a87247920e2c8cb930581f74a1",
+        "hashArquivo_sha256": "798bca45cf259db6a567e34ac3f61a8110a01a492e4fb184a337e4f4b55ee781"
       }
     ]
   }
