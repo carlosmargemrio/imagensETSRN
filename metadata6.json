@@ -30621,6 +30621,48 @@
         "hashArquivo": "14e5fe48bf5464a41912707184fb66a0a0ea67f9fe0b7909eab858be1460c558",
         "hashArquivo_md5": "9c48272540e9b939df9a5e31ea8d60fb",
         "hashArquivo_sha256": "14e5fe48bf5464a41912707184fb66a0a0ea67f9fe0b7909eab858be1460c558"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762525204300-0",
+        "nomeArquivo": "SA_Caldeirao_Raso_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão Raso(2).JPG",
+        "sitio": "Caldeirao Raso (Toca do)",
+        "co_iphan": "PI2210607BAST00028",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7308,
+          -8.8824
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "13:35:24",
+        "legenda": "Registro de instalação de cerca e portão de acesso do sítio Toca do Caldeirão Raso",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "11:20",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 589.2 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca e portão de acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e4cf5c146971a04b2fa24e934b8d125131c0943418ae66c4f16ee73500052726",
+        "hashArquivo_md5": "c358afc6db5a4690770b49722d0afe8c",
+        "hashArquivo_sha256": "e4cf5c146971a04b2fa24e934b8d125131c0943418ae66c4f16ee73500052726"
       }
     ]
   }
