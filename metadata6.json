@@ -30409,5 +30409,52 @@
         "hashArquivo_sha256": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676"
       }
     ]
+  },
+  "toca do caldeirao do urubu": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1762520663500-0",
+        "nomeArquivo": "SA_Toca_do_Caldeirao_do_Urubu(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(7).JPG",
+        "sitio": "Toca do Caldeirão do Urubu",
+        "co_iphan": "PI2210607BAST00031",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": "N/A",
+        "origemCoordenadas": "Manual",
+        "data": "2005-11-24",
+        "horario": "14:12:14",
+        "legenda": "Registro de Instalação de cerca e portão de acesso  do sítio Toca do Caldeirão do Urubu",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "10:04",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 597.7 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de cerca e portão de acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676",
+        "hashArquivo_md5": "65bd57e292bcf64c3cf37b30fb671c91",
+        "hashArquivo_sha256": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676"
+      }
+    ]
   }
 }
