@@ -30359,5 +30359,55 @@
         "hashArquivo_sha256": "3249d65703d59c99a7f34d926da6121ad20e93f898f7074cc20d3fe2559d7331"
       }
     ]
+  },
+  "caldeirao do urubu ii toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1762520179679-0",
+        "nomeArquivo": "SA_Caldeirao_do_Urubu_II_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão_do_Urubu(7).JPG",
+        "sitio": "Caldeirao do Urubu II ( Toca do )",
+        "co_iphan": "PI2210607BAST00031",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.727,
+          -8.8834
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "14:12:14",
+        "legenda": "Registro de Instalação de cerca e Portão de acesso do sítio Toca do Caldeirão do Urubu II",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "09:56",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 597.7 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Instalação de cerca e portão de acesso do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676",
+        "hashArquivo_md5": "65bd57e292bcf64c3cf37b30fb671c91",
+        "hashArquivo_sha256": "77340f32e349305c21b1bd081ee22694036b4f45db2b9a06aef2903032e3c676"
+      }
+    ]
   }
 }
