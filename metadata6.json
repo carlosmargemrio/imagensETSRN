@@ -30577,7 +30577,8 @@
   "caldeirao raso toca do": {
     "nivelDescricao": "Série",
     "fundos": [
-      "Fiscalização do Iphan"
+      "Fiscalização do Iphan",
+      "Fiscalização  do Iphan"
     ],
     "imagens": [
       {
@@ -30789,6 +30790,48 @@
         "hashArquivo": "59966becdce7f9d4fa941d8e2c1b2a0c887aaca42f94aeebb428bec3326847a9",
         "hashArquivo_md5": "0d69fe2b72622f9c948ca2f8ff61b75e",
         "hashArquivo_sha256": "59966becdce7f9d4fa941d8e2c1b2a0c887aaca42f94aeebb428bec3326847a9"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762526893211-0",
+        "nomeArquivo": "SA_Caldeirao_Raso_Toca_do(5).jpg",
+        "nomeOriginal": "SA_Toca_do_Caldeirão Raso(6).JPG",
+        "sitio": "Caldeirao Raso (Toca do)",
+        "co_iphan": "PI2210607BAST00028",
+        "municipio": "São Raimundo Nonato",
+        "coordinates": [
+          -42.7308,
+          -8.8824
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2005-11-24",
+        "horario": "13:44:42",
+        "legenda": "Registro de Instalação de Placa de sítio Arqueológico Toca do Caldeirão Raso",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-07",
+        "horaInsercao": "11:48",
+        "fundoArquivistico": "Fiscalização  do Iphan",
+        "dimensaoSuporte": "image/jpeg, 587.3 KB, 1280×960px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de instalação de placa de sítio Arqueológico",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "CYBERSHOT",
+          "iso": 100,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "9.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "541e9b99fbecff99972801b83758daf3aea4dfe0571363f11dae300199bf2b24",
+        "hashArquivo_md5": "55370a8b74662935e988334bcf05c55c",
+        "hashArquivo_sha256": "541e9b99fbecff99972801b83758daf3aea4dfe0571363f11dae300199bf2b24"
       }
     ]
   }
