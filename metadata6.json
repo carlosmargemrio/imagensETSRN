@@ -31094,5 +31094,181 @@
         "hashArquivo_sha256": "febe1da10d04a5caea5712351aee33b330a09e13cc12ffbd74ecec65a537ece9"
       }
     ]
+  },
+  "toca do bom jardim i": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalização do Iphan"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1762881411490-0",
+        "nomeArquivo": "SA_Toca_do_Bom_Jardim_I(1).jpg",
+        "nomeOriginal": "SA_Toca_do_Bom_Jardim_I(1)JPG.JPG",
+        "sitio": "Toca do Bom Jardim I",
+        "co_iphan": "PI2204550BAST00043",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6501,
+          -9.1943
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-13",
+        "horario": "22:42:20",
+        "legenda": "Registro Geométrico do sítio Toca do Bom Jardim I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-11",
+        "horaInsercao": "14:16",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 61.7 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "5b981810d4cb0e6b67dc6d4c25cea27b173fe0766ba372188c3c23a9e8d1abf3",
+        "hashArquivo_md5": "3ef4455d2a68801436e205b157f43251",
+        "hashArquivo_sha256": "5b981810d4cb0e6b67dc6d4c25cea27b173fe0766ba372188c3c23a9e8d1abf3"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762881584704-1",
+        "nomeArquivo": "SA_Toca_do_Bom_Jardim_I(2).jpg",
+        "nomeOriginal": "SA_Toca_do_Bom_Jardim_I(2)JPG.JPG",
+        "sitio": "Toca do Bom Jardim I",
+        "co_iphan": "PI2204550BAST00043",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6501,
+          -9.1943
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-13",
+        "horario": "22:43:44",
+        "legenda": "Registro Geométrico do sítio Toca do Bom Jardim I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-11",
+        "horaInsercao": "14:19",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 47.9 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "e4276f62956ba19017c17f43784abc91a72607dcadc5134475edb7bd78b13a20",
+        "hashArquivo_md5": "aa7a8447312390ed5bdbbb8131dca7e6",
+        "hashArquivo_sha256": "e4276f62956ba19017c17f43784abc91a72607dcadc5134475edb7bd78b13a20"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762881842648-2",
+        "nomeArquivo": "SA_Toca_do_Bom_Jardim_I(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Bom_Jardim_I(3)JPG.JPG",
+        "sitio": "Toca do Bom Jardim I",
+        "co_iphan": "PI2204550BAST00043",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6501,
+          -9.1943
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-13",
+        "horario": "22:45:28",
+        "legenda": "Registro Geométrico do sítio Toca do Bom Jardim I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-11",
+        "horaInsercao": "14:24",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 36.9 KB, 319×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sitio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "1d77ec4c5ca770b6aaa6174a4c9fdd6c5753c3ebf526ee2f14cd446c49f50e7d",
+        "hashArquivo_md5": "b9d4a0d5b2fdec835dcf8833fecba91a",
+        "hashArquivo_sha256": "1d77ec4c5ca770b6aaa6174a4c9fdd6c5753c3ebf526ee2f14cd446c49f50e7d"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762882054616-3",
+        "nomeArquivo": "SA_Toca_do_Bom_Jardim_I(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Bom_Jardim_I(4)JPG.JPG",
+        "sitio": "Toca do Bom Jardim I",
+        "co_iphan": "PI2204550BAST00043",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.6501,
+          -9.1943
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-13",
+        "horario": "22:40:31",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Bom Jardim I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-11",
+        "horaInsercao": "14:27",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 68.3 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "53accd51fe80e96baac2fa0590a99158d8922116f5563f007b04ccdfe0dfabcc",
+        "hashArquivo_md5": "019f5223f7c3d5dcd740859657e1ffcf",
+        "hashArquivo_sha256": "53accd51fe80e96baac2fa0590a99158d8922116f5563f007b04ccdfe0dfabcc"
+      }
+    ]
   }
 }
