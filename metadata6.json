@@ -31050,6 +31050,48 @@
         "hashArquivo": "1b21ee2262eb8eb43d0072eee17ce3ab86dc78b65b6c28978eaa6f7338156fec",
         "hashArquivo_md5": "7fd5d95d1636eccc0dc0e59591a77993",
         "hashArquivo_sha256": "1b21ee2262eb8eb43d0072eee17ce3ab86dc78b65b6c28978eaa6f7338156fec"
+      },
+      {
+        "identificador": "ETSRN-PI22-1762880919775-0",
+        "nomeArquivo": "SA_Toca_do_Canto_Verde_I(3).jpg",
+        "nomeOriginal": "SA_Toca_do_Canto_Verde_I (3).JPG",
+        "sitio": "Toca do Canto Verde I",
+        "co_iphan": "PI2204550BAST00104",
+        "municipio": "Guaribas",
+        "coordinates": [
+          -43.4513,
+          -8.9076
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2006-09-10",
+        "horario": "20:39:46",
+        "legenda": "Registro Geométrico do sítio Toca do Canto Verde I",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Geométrico",
+          "Vermelho"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-11",
+        "horaInsercao": "14:08",
+        "fundoArquivistico": "Fiscalização do Iphan",
+        "dimensaoSuporte": "image/jpeg, 54.1 KB, 567×425px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "E7900",
+          "iso": 76,
+          "abertura": "f/f/3.2",
+          "distancia_focal": "10.6 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "39cc717f10b68816c24ceebde4096aa373b0b65c3cb20d430904ed77548a4997",
+        "hashArquivo_md5": "38b87ad326a70eecbb98d7660dadafdd",
+        "hashArquivo_sha256": "39cc717f10b68816c24ceebde4096aa373b0b65c3cb20d430904ed77548a4997"
       }
     ]
   }
