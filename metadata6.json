@@ -31052,9 +31052,9 @@
         "hashArquivo_sha256": "1b21ee2262eb8eb43d0072eee17ce3ab86dc78b65b6c28978eaa6f7338156fec"
       },
       {
-        "identificador": "ETSRN-PI22-1762880919775-0",
-        "nomeArquivo": "SA_Toca_do_Canto_Verde_I(3).jpg",
-        "nomeOriginal": "SA_Toca_do_Canto_Verde_I (3).JPG",
+        "identificador": "ETSRN-PI22-1762881182625-0",
+        "nomeArquivo": "SA_Toca_do_Canto_Verde_I(4).jpg",
+        "nomeOriginal": "SA_Toca_do_Canto_Verde_I (4).JPG",
         "sitio": "Toca do Canto Verde I",
         "co_iphan": "PI2204550BAST00104",
         "municipio": "Guaribas",
@@ -31064,34 +31064,34 @@
         ],
         "origemCoordenadas": "SICG",
         "data": "2006-09-10",
-        "horario": "20:39:46",
-        "legenda": "Registro Geométrico do sítio Toca do Canto Verde I",
+        "horario": "20:33:42",
+        "legenda": "Registro de Vista Geral e Vegetação do sítio Toca do Canto Verde I",
         "autoria": "Iphan",
         "direitosAutorais": "Iphan",
         "tags": [
-          "Geométrico",
-          "Vermelho"
+          "Vista Geral",
+          "Vegetação"
         ],
         "inseridoPor": "Eliane Aragão de Souza",
         "dataInsercao": "2025-11-11",
-        "horaInsercao": "14:08",
+        "horaInsercao": "14:13",
         "fundoArquivistico": "Fiscalização do Iphan",
-        "dimensaoSuporte": "image/jpeg, 54.1 KB, 567×425px",
+        "dimensaoSuporte": "image/jpeg, 69.4 KB, 567×425px",
         "historicoArquivistico": "Fiscalização do Iphan",
-        "ambitoConteudo": "A imagem retrata registro Geométrico em superfície rochosa do sítio",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
         "condicoesAcesso": "Público",
         "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
         "motivoRestricao": "",
         "camera": {
           "modelo": "E7900",
-          "iso": 76,
-          "abertura": "f/f/3.2",
-          "distancia_focal": "10.6 mm"
+          "iso": 50,
+          "abertura": "f/f/2.8",
+          "distancia_focal": "7.8 mm"
         },
         "licencaUso": "CC-BY-NC-SA",
-        "hashArquivo": "39cc717f10b68816c24ceebde4096aa373b0b65c3cb20d430904ed77548a4997",
-        "hashArquivo_md5": "38b87ad326a70eecbb98d7660dadafdd",
-        "hashArquivo_sha256": "39cc717f10b68816c24ceebde4096aa373b0b65c3cb20d430904ed77548a4997"
+        "hashArquivo": "febe1da10d04a5caea5712351aee33b330a09e13cc12ffbd74ecec65a537ece9",
+        "hashArquivo_md5": "fc0314e5ab0c3070b76dcc7b1293654b",
+        "hashArquivo_sha256": "febe1da10d04a5caea5712351aee33b330a09e13cc12ffbd74ecec65a537ece9"
       }
     ]
   }
