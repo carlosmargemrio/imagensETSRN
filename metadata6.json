@@ -31270,5 +31270,55 @@
         "hashArquivo_sha256": "53accd51fe80e96baac2fa0590a99158d8922116f5563f007b04ccdfe0dfabcc"
       }
     ]
+  },
+  "sitio do meio toca do": {
+    "nivelDescricao": "Série",
+    "fundos": [
+      "Fiscalis"
+    ],
+    "imagens": [
+      {
+        "identificador": "ETSRN-PI22-1762882609498-0",
+        "nomeArquivo": "SA_Sitio_do_Meio_Toca_do(1).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_sítio_do_Meio(48).jpg",
+        "sitio": "Sítio do Meio (Toca do)",
+        "co_iphan": "PI2202851BAST00259",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.5452,
+          -8.8287
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2018-11-27",
+        "horario": "13:26:48",
+        "legenda": "Registro de Vista Geral e Vegetação da Toca do Sítio do Meio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-11",
+        "horaInsercao": "14:36",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 6954.0 KB, 3120×4160px",
+        "historicoArquivistico": "Fiscalização do Iphan",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "ed667a95bc81952121ecca1b273cc5fb36c9459979c8add11e4411bce0497769",
+        "hashArquivo_md5": "a16f2880ad32598dae99cb8ef08e4c9c",
+        "hashArquivo_sha256": "ed667a95bc81952121ecca1b273cc5fb36c9459979c8add11e4411bce0497769"
+      }
+    ]
   }
 }
