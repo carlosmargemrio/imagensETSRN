@@ -31318,6 +31318,48 @@
         "hashArquivo": "ed667a95bc81952121ecca1b273cc5fb36c9459979c8add11e4411bce0497769",
         "hashArquivo_md5": "a16f2880ad32598dae99cb8ef08e4c9c",
         "hashArquivo_sha256": "ed667a95bc81952121ecca1b273cc5fb36c9459979c8add11e4411bce0497769"
+      },
+      {
+        "identificador": "ETSRN-PI22-1763037455001-0",
+        "nomeArquivo": "SA_Sitio_do_Meio_Toca_do(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_sítio_do_Meio(42).jpg",
+        "sitio": "Sítio do Meio (Toca do)",
+        "co_iphan": "PI2202851BAST00259",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.5452,
+          -8.8287
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2018-11-27",
+        "horario": "13:25:46",
+        "legenda": "Registro de Vista Geral e Placa de Restrição do Toca do Sítio do Meio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-13",
+        "horaInsercao": "09:37",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 8088.9 KB, 3120×4160px",
+        "historicoArquivistico": "Produzido pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de Vista Geral e placa de Restrição do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "af60b80b5fe5fbb7747086c5f9e5022852f4581a853da228e4711a87ab260677",
+        "hashArquivo_md5": "573bf15a43c6b3e7af4bd825d65103b1",
+        "hashArquivo_sha256": "af60b80b5fe5fbb7747086c5f9e5022852f4581a853da228e4711a87ab260677"
       }
     ]
   }
