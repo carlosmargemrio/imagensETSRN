@@ -31360,6 +31360,48 @@
         "hashArquivo": "af60b80b5fe5fbb7747086c5f9e5022852f4581a853da228e4711a87ab260677",
         "hashArquivo_md5": "573bf15a43c6b3e7af4bd825d65103b1",
         "hashArquivo_sha256": "af60b80b5fe5fbb7747086c5f9e5022852f4581a853da228e4711a87ab260677"
+      },
+      {
+        "identificador": "ETSRN-PI22-1763038547611-0",
+        "nomeArquivo": "SA_Sitio_do_Meio_Toca_do(2).jpg",
+        "nomeOriginal": "SA_Sítio_Toca_do_sítio_do_Meio(29).jpg",
+        "sitio": "Sítio do Meio (Toca do)",
+        "co_iphan": "PI2202851BAST00259",
+        "municipio": "Coronel José Dias",
+        "coordinates": [
+          -42.5452,
+          -8.8287
+        ],
+        "origemCoordenadas": "SICG",
+        "data": "2018-11-27",
+        "horario": "13:24:47",
+        "legenda": "Registro de Vista Geral e Vegetação do Toca do sítio Sítio do Meio",
+        "autoria": "Iphan",
+        "direitosAutorais": "Iphan",
+        "tags": [
+          "Vista Geral",
+          "Vegetação"
+        ],
+        "inseridoPor": "Eliane Aragão de Souza",
+        "dataInsercao": "2025-11-13",
+        "horaInsercao": "09:55",
+        "fundoArquivistico": "Fiscalis",
+        "dimensaoSuporte": "image/jpeg, 5045.9 KB, 4160×3120px",
+        "historicoArquivistico": "Produzido Pelo Fiscalis",
+        "ambitoConteudo": "A imagem retrata registro de Vista geral e Vegetação do sítio",
+        "condicoesAcesso": "Público",
+        "condicoesReproducao": "Informar que a imagem pertence ao acervo do Iphan e creditar a autoria da mesma",
+        "motivoRestricao": "",
+        "camera": {
+          "modelo": "LG-M250",
+          "iso": 50,
+          "abertura": "f/f/2.2",
+          "distancia_focal": "3.7 mm"
+        },
+        "licencaUso": "CC-BY-NC-SA",
+        "hashArquivo": "18397811f0842bece2f0f26eb7897636fa45af45cb1dfe1b6d5d631ad1143582",
+        "hashArquivo_md5": "f0d41056976802aec0a737f4ad5c6129",
+        "hashArquivo_sha256": "18397811f0842bece2f0f26eb7897636fa45af45cb1dfe1b6d5d631ad1143582"
       }
     ]
   }
